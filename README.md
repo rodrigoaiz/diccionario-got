@@ -4,7 +4,9 @@ Proyecto independiente para crear un atlas y diccionario bilingue de referencia 
 
 ## Estado actual
 
-Este directorio contiene unicamente documentacion de planificacion. No hay aplicacion, dependencias ni codigo creado todavia.
+Existe una primera base funcional en Astro con busqueda, filtros, fichas estaticas y una vista secundaria del mapa.
+
+El contenido actual es una importacion de prueba de 7 entradas. Las fichas Markdown son la fuente editorial y el fixture JSON solo simula la entrada bruta del importador.
 
 La documentacion se preparo para continuar el trabajo en una sesion nueva desde:
 
@@ -40,4 +42,14 @@ El repositorio `tickets-sep` queda fuera de este proyecto y no debe modificarse 
 
 ## Siguiente paso
 
-Antes de implementar, confirmar las preguntas de [`docs/OPEN-QUESTIONS.md`](docs/OPEN-QUESTIONS.md), especialmente la edicion espanola de referencia y el alcance real de las fichas que tendran resumen editorial en la primera carga.
+Antes de cerrar el importador, confirmar las preguntas de [`docs/OPEN-QUESTIONS.md`](docs/OPEN-QUESTIONS.md), especialmente la edicion espanola de referencia y el alcance real de las fichas que tendran resumen editorial en la primera carga.
+
+## Desarrollo local
+
+```bash
+npm install
+npm run import:test
+npm run dev
+```
+
+`npm run import:test` regenera las fichas de prueba en `src/content/entries/` a partir de `scripts/import/fixtures/entries.sample.json`.

@@ -2,6 +2,10 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SiteHeader from '../../components/layout/SiteHeader.astro';
 import SearchExplorer from '../../components/islands/SearchExplorer';
+import { getCollection } from 'astro:content';
+
+const contentEntries = await getCollection('entries');
+const dictionaryEntries = contentEntries.map(({ data }) => ({ ...data, slug: data.slug }));
 ---
 
 <BaseLayout
@@ -15,7 +19,7 @@ import SearchExplorer from '../../components/islands/SearchExplorer';
       <h1>Encuentra la entrada<br /><em>que te falta.</em></h1>
       <p>El índice crece por capas: primero la equivalencia y la continuidad, después las relaciones, referencias y contexto editorial.</p>
     </div>
-    <SearchExplorer client:load />
+    <SearchExplorer entries={dictionaryEntries} client:load />
   </main>
   <footer class="site-footer shell">
     <span>Diccionario de referencia de Poniente</span>

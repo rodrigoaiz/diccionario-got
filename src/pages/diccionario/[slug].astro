@@ -1,12 +1,14 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SiteHeader from '../../components/layout/SiteHeader.astro';
-import { entries, type DictionaryEntry } from '../../data/entries';
+import { getCollection } from 'astro:content';
+import type { DictionaryEntry } from '../../data/entries';
 
-export function getStaticPaths() {
-  return entries.map((entry) => ({
-    params: { slug: entry.slug },
-    props: { entry },
+export async function getStaticPaths() {
+  const contentEntries = await getCollection('entries');
+  return contentEntries.map(({ data }) => ({
+    params: { slug: data.slug },
+    props: { entry: { ...data, slug: data.slug } },
   }));
 }
 

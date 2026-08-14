@@ -6,6 +6,13 @@ Crear una primera carga amplia del universo sin depender de que el sitio consult
 
 La importacion debe producir datos versionados, reproducibles y revisables. No es necesario copiar el texto completo de una wiki para obtener nombres, alias, categorias, enlaces, continuidades y referencias utiles.
 
+## Formatos
+
+- JSON bruto para respuestas de APIs y capturas intermedias.
+- Markdown con frontmatter como fuente editorial canonica.
+- JSON generado para el indice de busqueda y datos derivados.
+- MDX solo cuando una ficha necesite una presentacion interactiva especial.
+
 ## Flujo propuesto
 
 1. Descargar o consultar APIs publicas de MediaWiki cuando existan.

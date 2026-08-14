@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { entries, type EntryType } from '../../data/entries';
+import type { DictionaryEntry, EntryType } from '../../data/entries';
 
 const filterOptions: Array<{ label: string; value: 'Todos' | EntryType }> = [
   { label: 'Todos', value: 'Todos' },
@@ -17,7 +17,11 @@ function normalize(value: string) {
     .replace(/[\u0300-\u036f]/g, '');
 }
 
-export default function SearchExplorer() {
+type Props = {
+  entries: DictionaryEntry[];
+};
+
+export default function SearchExplorer({ entries }: Props) {
   const [query, setQuery] = useState('');
   const [activeType, setActiveType] = useState<'Todos' | EntryType>('Todos');
   const normalizedQuery = normalize(query.trim());

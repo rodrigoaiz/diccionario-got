@@ -3,7 +3,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import SiteHeader from '../components/layout/SiteHeader.astro';
 import SearchExplorer from '../components/islands/SearchExplorer';
 import MapPreview from '../components/atlas/MapPreview.astro';
-import { featuredEntries } from '../data/entries';
+import { getCollection } from 'astro:content';
+
+const contentEntries = await getCollection('entries');
+const dictionaryEntries = contentEntries.map(({ data }) => ({ ...data, slug: data.slug }));
+const featuredEntries = dictionaryEntries.slice(0, 4);
 ---
 
 <BaseLayout>
@@ -40,7 +44,7 @@ import { featuredEntries } from '../data/entries';
         </div>
         <p>Busca en español, inglés o por alias. Cada entrada separa con claridad lo que pertenece al libro, a la serie o a una interpretación.</p>
       </div>
-      <SearchExplorer client:load />
+       <SearchExplorer entries={dictionaryEntries} client:load />
     </section>
 
     <section class="featured-section shell">

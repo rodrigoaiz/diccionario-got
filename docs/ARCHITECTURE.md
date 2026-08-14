@@ -67,10 +67,11 @@ public/
 
 ## Estrategia de contenido
 
-El contenido estructurado debe poder vivir en JSON o en colecciones de contenido de Astro. La recomendacion inicial es:
+Las fichas editoriales deben vivir como Markdown con frontmatter validado por una coleccion de contenido de Astro. La recomendacion es:
 
-- JSON/TypeScript para entidades, alias, relaciones, coordenadas y referencias.
-- Markdown o MDX para fichas que necesiten una explicacion editorial mas larga.
+- Markdown para fichas, alias, relaciones, coordenadas, referencias y resumen editorial.
+- MDX solo para fichas que necesiten componentes especiales.
+- JSON para capturas brutas, archivos intermedios e indices generados, no como fuente editorial principal.
 - Un identificador estable y un `slug` separado del nombre visible.
 - Ningun componente debe depender del HTML de una wiki externa.
 

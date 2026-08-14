@@ -1,0 +1,93 @@
+[
+  {
+    "id": "place-invernalia",
+    "slug": "invernalia",
+    "nameEs": "Invernalia",
+    "nameEn": "Winterfell",
+    "type": "Lugar",
+    "continuity": "Libros · GOT",
+    "region": "Norte",
+    "aliases": ["Winterfell"],
+    "summary": "Sede ancestral de la Casa Stark y puerta del Norte.",
+    "accent": "moss",
+    "sources": [{"name": "A Wiki of Ice and Fire", "url": "https://awoiaf.westeros.org/", "consulted": "2026-08-14", "confidence": "bibliografico"}]
+  },
+  {
+    "id": "place-desembarco-del-rey",
+    "slug": "desembarco-del-rey",
+    "nameEs": "Desembarco del Rey",
+    "nameEn": "King's Landing",
+    "type": "Lugar",
+    "continuity": "Libros · GOT · HOTD",
+    "region": "Tierras de la Corona",
+    "aliases": ["King's Landing", "King Landing"],
+    "summary": "Capital de los Siete Reinos y centro cambiante del poder.",
+    "accent": "rust",
+    "sources": [{"name": "Wikipedia en español", "url": "https://es.wikipedia.org/", "consulted": "2026-08-14", "confidence": "secundario"}]
+  },
+  {
+    "id": "character-rhaenyra-targaryen",
+    "slug": "rhaenyra-targaryen",
+    "nameEs": "Rhaenyra Targaryen",
+    "nameEn": "Rhaenyra Targaryen",
+    "type": "Personaje",
+    "continuity": "Fuego y sangre · HOTD",
+    "region": "Tierras de la Corona",
+    "aliases": ["La reina que nunca fue", "The Realm's Delight"],
+    "summary": "Heredera disputada del Trono de Hierro durante la Danza de los Dragones.",
+    "accent": "rust",
+    "sources": [{"name": "A Wiki of Ice and Fire", "url": "https://awoiaf.westeros.org/", "consulted": "2026-08-14", "confidence": "bibliografico"}]
+  },
+  {
+    "id": "character-aegon-targaryen",
+    "slug": "aegon-targaryen",
+    "nameEs": "Aegon Targaryen",
+    "nameEn": "Aegon Targaryen",
+    "type": "Personaje",
+    "continuity": "Libros · Fuego y sangre · HOTD",
+    "region": "Varias regiones",
+    "aliases": ["Aegon I", "Aegon II", "Aegon III", "Aegon IV", "Aegon V"],
+    "summary": "Nombre compartido por varios reyes y principes Targaryen.",
+    "accent": "ochre",
+    "sources": [{"name": "A Wiki of Ice and Fire", "url": "https://awoiaf.westeros.org/", "consulted": "2026-08-14", "confidence": "bibliografico"}]
+  },
+  {
+    "id": "house-stark",
+    "slug": "casa-stark",
+    "nameEs": "Casa Stark",
+    "nameEn": "House Stark",
+    "type": "Casa",
+    "continuity": "Libros · GOT",
+    "region": "Norte",
+    "aliases": ["Stark de Invernalia", "The Starks of Winterfell"],
+    "summary": "Casa noble del Norte, vinculada a Invernalia y al lema El invierno se acerca.",
+    "accent": "moss",
+    "sources": [{"name": "A Wiki of Ice and Fire", "url": "https://awoiaf.westeros.org/", "consulted": "2026-08-14", "confidence": "bibliografico"}]
+  },
+  {
+    "id": "dragon-balerion",
+    "slug": "balerion",
+    "nameEs": "Balerion",
+    "nameEn": "Balerion the Black Dread",
+    "type": "Dragon",
+    "continuity": "Fuego y sangre · HOTD",
+    "region": "Tierras de la Corona",
+    "aliases": ["El Terror Negro", "The Black Dread"],
+    "summary": "El dragon de Aegon el Conquistador y una de las criaturas mas grandes de la historia.",
+    "accent": "ochre",
+    "sources": [{"name": "A Wiki of Ice and Fire", "url": "https://awoiaf.westeros.org/", "consulted": "2026-08-14", "confidence": "bibliografico"}]
+  },
+  {
+    "id": "event-la-danza-de-los-dragones",
+    "slug": "la-danza-de-los-dragones",
+    "nameEs": "La Danza de los Dragones",
+    "nameEn": "The Dance of the Dragons",
+    "type": "Evento",
+    "continuity": "Fuego y sangre · HOTD",
+    "region": "Siete Reinos",
+    "aliases": ["Danza de los Dragones", "The Dance"],
+    "summary": "Guerra civil Targaryen que divide el reino y enfrenta a dos reclamantes.",
+    "accent": "rust",
+    "sources": [{"name": "A Wiki of Ice and Fire", "url": "https://awoiaf.westeros.org/", "consulted": "2026-08-14", "confidence": "bibliografico"}]
+  }
+]

@@ -1,0 +1,279 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "titles": [
+    "Casa Stark",
+    "Casa Targaryen",
+    "Casa Lannister",
+    "Casa Arryn",
+    "Casa Baratheon",
+    "Casa Tyrell",
+    "Casa Greyjoy",
+    "Casa Martell"
+  ],
+  "type": "Casa",
+  "fetchedAt": "2026-08-14",
+  "pages": [
+    {
+      "pageid": 724951,
+      "ns": 0,
+      "title": "Casa Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-24T21:23:28Z",
+      "lastrevid": 171392979,
+      "length": 25543,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Stark",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Stark_running_direwolf_white_scroll.png",
+        "wikibase_item": "Q2704863"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q2704863",
+      "wikidataLabelEn": "House Stark",
+      "wikidataAliases": [
+        "Stark",
+        "Stark Casa",
+        "Starks"
+      ]
+    },
+    {
+      "pageid": 726425,
+      "ns": 0,
+      "title": "Casa Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-05T17:30:29Z",
+      "lastrevid": 174711470,
+      "length": 64695,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Targaryen",
+      "pageprops": {
+        "page_image_free": "House_Targaryen.png",
+        "wikibase_item": "Q2341521"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q2341521",
+      "wikidataLabelEn": "House Targaryen",
+      "wikidataAliases": [
+        "Targaryen",
+        "Targaryens"
+      ]
+    },
+    {
+      "pageid": 734075,
+      "ns": 0,
+      "title": "Casa Lannister",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-14T11:25:13Z",
+      "lastrevid": 172131253,
+      "length": 21181,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Lannister",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Lannister&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Lannister",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Lannister_red_scroll.png",
+        "wikibase_item": "Q2739222"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q2739222",
+      "wikidataLabelEn": "House Lannister",
+      "wikidataAliases": [
+        "Lannisters"
+      ]
+    },
+    {
+      "pageid": 903500,
+      "ns": 0,
+      "title": "Casa Tyrell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-14T11:27:22Z",
+      "lastrevid": 171058928,
+      "length": 20382,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Tyrell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Tyrell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Tyrell",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Tyrell_yellow_scroll.jpg",
+        "wikibase_item": "Q1410916"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q1410916",
+      "wikidataLabelEn": "House Tyrell",
+      "wikidataAliases": [
+        "Tyrell",
+        "Tyrells"
+      ]
+    },
+    {
+      "pageid": 922811,
+      "ns": 0,
+      "title": "Casa Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-20T15:43:09Z",
+      "lastrevid": 171058817,
+      "length": 21281,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Greyjoy",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Greyjoy_black_scroll.png",
+        "wikibase_item": "Q1645774"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q1645774",
+      "wikidataLabelEn": "House Greyjoy",
+      "wikidataAliases": [
+        "Balon Greyjoy",
+        "Aeron Greyjoy",
+        "Victarion Greyjoy"
+      ]
+    },
+    {
+      "pageid": 930649,
+      "ns": 0,
+      "title": "Casa Baratheon",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-06T14:24:35Z",
+      "lastrevid": 171766574,
+      "length": 28122,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Baratheon",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Baratheon&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Baratheon",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Baratheon_yellow_scroll_English.png",
+        "wikibase_item": "Q2304848"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Ciervos en la cultura"
+        }
+      ],
+      "wikidataId": "Q2304848",
+      "wikidataLabelEn": "House Baratheon",
+      "wikidataAliases": [
+        "Baratheon",
+        "Baratheons"
+      ]
+    },
+    {
+      "pageid": 938369,
+      "ns": 0,
+      "title": "Casa Arryn",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-24T21:23:55Z",
+      "lastrevid": 171058229,
+      "length": 20767,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Arryn",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Arryn&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Arryn",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Arryn_blue_scroll.png",
+        "wikibase_item": "Q1411019"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q1411019",
+      "wikidataLabelEn": "House Arryn",
+      "wikidataAliases": [
+        "Jon Arryn",
+        "Arryns"
+      ]
+    },
+    {
+      "pageid": 941289,
+      "ns": 0,
+      "title": "Casa Martell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-14T11:26:20Z",
+      "lastrevid": 171058893,
+      "length": 28028,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Martell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Martell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Martell",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Martell_scroll.png",
+        "wikibase_item": "Q1410912"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q1410912",
+      "wikidataLabelEn": "House Martell",
+      "wikidataAliases": [
+        "Martells"
+      ]
+    }
+  ]
+}

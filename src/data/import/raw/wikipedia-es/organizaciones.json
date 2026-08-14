@@ -1,0 +1,56 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "titles": [
+    "Guardia de la Noche"
+  ],
+  "type": "Organizacion",
+  "fetchedAt": "2026-08-14",
+  "pages": [
+    {
+      "pageid": 838725,
+      "ns": 0,
+      "title": "Guardia de la Noche",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-05-28T00:30:16Z",
+      "lastrevid": 173644374,
+      "length": 33654,
+      "fullurl": "https://es.wikipedia.org/wiki/Guardia_de_la_Noche",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Guardia_de_la_Noche&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Guardia_de_la_Noche",
+      "pageprops": {
+        "wikibase_item": "Q1088558"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Night's Watch"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Organizaciones en Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q1088558",
+      "wikidataLabelEn": "Night's Watch",
+      "wikidataAliases": [
+        "El Muro",
+        "Night's Watch"
+      ]
+    }
+  ]
+}

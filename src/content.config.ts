@@ -9,7 +9,7 @@ const entries = defineCollection({
     slug: z.string(),
     nameEs: z.string(),
     nameEn: z.string(),
-    type: z.enum(['Lugar', 'Personaje', 'Casa', 'Dragon', 'Evento']),
+    type: z.enum(['Lugar', 'Personaje', 'Casa', 'Dragon', 'Evento', 'Organizacion']),
     continuity: z.string(),
     region: z.string(),
     aliases: z.array(z.string()),

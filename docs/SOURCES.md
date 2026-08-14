@@ -94,6 +94,18 @@ Los datos estructurados de Wikidata tienen una politica de reutilizacion distint
 
 Usar una imagen solo despues de revisar la ficha individual, autor, licencia, atribucion requerida y compatibilidad con un sitio publico.
 
+### Quartermaester
+
+- <https://quartermaester.info/>
+
+Uso previsto:
+
+- Referencia de experiencia para mapa interactivo.
+- Control de spoilers por capitulo y episodio.
+- Comparacion de regiones, casas y recorridos de personajes.
+
+Precaucion: no usar su mapa, datos o recorridos como contenido propio sin revisar derechos y procedencia. Su valor para este proyecto es orientar la interaccion y detectar necesidades del modelo, no sustituir las fuentes editoriales.
+
 ## Politica de fuentes
 
 La aplicacion debe mostrar la fuente y la fecha de consulta de cada grupo de datos. Las wikis sirven para investigar y enlazar, no para convertir el sitio en una copia automatica de otra comunidad.

@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SiteHeader from '../../components/layout/SiteHeader.astro';
 import { getCollection } from 'astro:content';
 import type { DictionaryEntry } from '../../data/entries';
+import { relationships } from '../../data/relationships';
 
 export async function getStaticPaths() {
   const contentEntries = await getCollection('entries');
@@ -14,6 +15,9 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props as { entry: DictionaryEntry };
 const continuities = entry.continuity.split(' · ');
+const entryRelationships = relationships.filter(
+  (relationship) => relationship.source === entry.slug || relationship.target === entry.slug,
+);
 ---
 
 <BaseLayout
@@ -68,6 +72,25 @@ const continuities = entry.continuity.split(' · ');
             ))}
           </div>
         </section>
+
+        {entryRelationships.length > 0 && (
+          <section class="entry-section">
+            <span class="eyebrow">Relaciones</span>
+            <div class="relationship-list">
+              {entryRelationships.map((relationship) => {
+                const isSource = relationship.source === entry.slug;
+                const relatedSlug = isSource ? relationship.target : relationship.source;
+                const relatedLabel = isSource ? relationship.targetLabel : relationship.sourceLabel;
+                return (
+                  <div class="relationship-row">
+                    <span>{isSource ? relationship.type.replaceAll('_', ' ') : 'relacionado con'}</span>
+                    <a href={`/diccionario/${relatedSlug}/`}>{relatedLabel} <span aria-hidden="true">↗</span></a>
+                  </div>
+                );
+              })}
+            </div>
+          </section>
+        )}
       </article>
 
       <aside class="entry-aside">

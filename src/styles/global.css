@@ -554,6 +554,36 @@ h1 em {
   font-weight: 500;
 }
 
+.relationship-list {
+  border-top: 1px solid var(--line);
+}
+
+.relationship-row {
+  display: grid;
+  grid-template-columns: minmax(130px, 0.7fr) minmax(0, 1fr);
+  gap: 22px;
+  align-items: baseline;
+  padding: 13px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.relationship-row > span {
+  color: var(--faint);
+  font-size: 12px;
+  text-transform: capitalize;
+}
+
+.relationship-row a {
+  color: var(--ochre);
+  font-family: Bitter, serif;
+  font-size: 18px;
+  transition: color 180ms ease;
+}
+
+.relationship-row a:hover {
+  color: var(--text);
+}
+
 .entry-aside {
   display: grid;
   align-content: start;
@@ -1589,7 +1619,8 @@ h1 em {
   }
 
   .alias-row,
-  .continuity-row {
+  .continuity-row,
+  .relationship-row {
     grid-template-columns: 1fr;
     gap: 4px;
   }

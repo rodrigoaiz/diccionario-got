@@ -11,6 +11,8 @@ export type DictionaryEntry = {
   aliases: string[];
   summary: string;
   accent: 'rust' | 'ochre' | 'moss';
+  editorialStatus?: 'revisada' | 'pendiente-de-verificar';
+  mapStatus?: 'aproximada' | 'pendiente';
   wikidataId?: string;
   sourceCategories?: string[];
 };

@@ -15,6 +15,8 @@ const entries = defineCollection({
     aliases: z.array(z.string()),
     summary: z.string(),
     accent: z.enum(['rust', 'ochre', 'moss']),
+    editorialStatus: z.enum(['revisada', 'pendiente-de-verificar']).default('pendiente-de-verificar'),
+    mapStatus: z.enum(['aproximada', 'pendiente']).default('pendiente'),
     wikidataId: z.string().optional(),
     sourceCategories: z.array(z.string()).optional(),
     sources: z.array(

@@ -11,4 +11,6 @@ export type DictionaryEntry = {
   aliases: string[];
   summary: string;
   accent: 'rust' | 'ochre' | 'moss';
+  wikidataId?: string;
+  sourceCategories?: string[];
 };

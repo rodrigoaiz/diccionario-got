@@ -27,9 +27,10 @@ function yaml(value) {
 
 function toMarkdown(page) {
   const slug = slugify(page.title);
+  const englishTitle = page.langlinks?.find((link) => link.lang === 'en')?.title ?? '';
   const source = {
     name: sourceName,
-    url: `https://es.wikipedia.org/?curid=${page.pageid}`,
+    url: page.fullurl ?? `https://es.wikipedia.org/?curid=${page.pageid}`,
     consulted: fetchedAt,
     confidence: 'pendiente-de-verificar',
   };
@@ -37,13 +38,15 @@ function toMarkdown(page) {
     id: `mediawiki-es-${page.pageid}`,
     slug,
     nameEs: page.title,
-    nameEn: '',
+    nameEn: englishTitle,
     type: 'Personaje',
     continuity: 'Pendiente de asignar',
     region: 'Pendiente de asignar',
     aliases: [],
     summary: 'Entrada importada desde una categoria de MediaWiki. Falta redactar el resumen y verificar la continuidad.',
     accent: 'ochre',
+    wikidataId: page.pageprops?.wikibase_item ?? '',
+    sourceCategories: (page.categories ?? []).map((item) => item.title),
     sources: [source],
   };
   const frontmatter = Object.entries(fields)
@@ -80,18 +83,41 @@ async function fetchCategoryMembers() {
   return pages.slice(0, limit);
 }
 
+async function fetchPageMetadata(pages) {
+  if (pages.length === 0) return [];
+
+  const url = new URL(apiUrl);
+  url.searchParams.set('action', 'query');
+  url.searchParams.set('pageids', pages.map((page) => page.pageid).join('|'));
+  url.searchParams.set('prop', 'info|pageprops|langlinks|categories');
+  url.searchParams.set('inprop', 'url');
+  url.searchParams.set('lllang', 'en');
+  url.searchParams.set('cllimit', 'max');
+  url.searchParams.set('format', 'json');
+  url.searchParams.set('formatversion', '2');
+
+  const response = await fetch(url, {
+    headers: { 'User-Agent': 'diccionario-got-import/0.1 (local editorial tool)' },
+  });
+  if (!response.ok) throw new Error(`MediaWiki metadata API responded with ${response.status}`);
+
+  const payload = await response.json();
+  return payload.query?.pages ?? [];
+}
+
 const pages = await fetchCategoryMembers();
+const enrichedPages = await fetchPageMetadata(pages);
 await mkdir(path.dirname(rawPath), { recursive: true });
 await mkdir(contentPath, { recursive: true });
 
 await writeFile(
   rawPath,
-  `${JSON.stringify({ source: sourceName, api: apiUrl, category, fetchedAt, pages }, null, 2)}\n`,
+  `${JSON.stringify({ source: sourceName, api: apiUrl, category, fetchedAt, pages: enrichedPages }, null, 2)}\n`,
   'utf8',
 );
 
 await Promise.all(
-  pages.map((page) => writeFile(path.join(contentPath, `${slugify(page.title)}.md`), toMarkdown(page), 'utf8')),
+  enrichedPages.map((page) => writeFile(path.join(contentPath, `${slugify(page.title)}.md`), toMarkdown(page), 'utf8')),
 );
 
-console.log(`Imported ${pages.length} MediaWiki pages from ${category}`);
+console.log(`Imported ${enrichedPages.length} MediaWiki pages with metadata from ${category}`);

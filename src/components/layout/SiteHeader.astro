@@ -1,3 +1,10 @@
+---
+const pathname = Astro.url.pathname;
+const isDictionary = pathname === '/' || pathname.startsWith('/diccionario');
+const isMap = pathname.startsWith('/mapa');
+const isSources = pathname.startsWith('/fuentes');
+---
+
 <header class="site-header">
   <a class="wordmark" href="/" aria-label="Diccionario de referencia de Poniente, inicio">
     <span class="wordmark-seal" aria-hidden="true">P</span>
@@ -8,9 +15,9 @@
   </a>
 
   <nav class="primary-nav" aria-label="Navegacion principal">
-    <a class="active" href="#diccionario">Diccionario <span>01</span></a>
-    <a href="#mapa">Mapa <span>02</span></a>
-    <a href="#metodo">Fuentes <span>03</span></a>
+    <a class={isDictionary ? 'active' : ''} href="/diccionario/">Diccionario <span>01</span></a>
+    <a class={isMap ? 'active' : ''} href="/mapa/">Mapa <span>02</span></a>
+    <a class={isSources ? 'active' : ''} href="/fuentes/">Fuentes <span>03</span></a>
   </nav>
 
   <button class="theme-toggle" type="button" data-theme-toggle aria-label="Cambiar tema" aria-pressed="true">

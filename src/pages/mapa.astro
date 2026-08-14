@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SiteHeader from '../components/layout/SiteHeader.astro';
+import MapPreview from '../components/atlas/MapPreview.astro';
+---
+
+<BaseLayout
+  title="Mapa | Poniente"
+  description="Mapa esquemático de apoyo para orientarse entre regiones y lugares de Poniente."
+>
+  <SiteHeader />
+  <main class="map-page shell">
+    <div class="page-intro">
+      <span class="eyebrow">02 / Mapa de apoyo</span>
+      <h1>Orientarse también<br /><em>es leer.</em></h1>
+      <p>Una vista cartográfica para relacionar entradas y regiones. El mapa acompaña al diccionario; no sustituye la ficha ni sus fuentes.</p>
+    </div>
+    <MapPreview />
+    <section class="map-note-grid">
+      <div>
+        <span class="eyebrow">Criterio cartográfico</span>
+        <h2>Posiciones aproximadas, relaciones precisas.</h2>
+      </div>
+      <p>Las coordenadas sirven para situar lugares y abrir relaciones. No representan una escala oficial ni deben leerse como una reconstrucción definitiva del territorio.</p>
+      <a class="text-link" href="/diccionario/">Volver al diccionario <span aria-hidden="true">↗</span></a>
+    </section>
+  </main>
+  <footer class="site-footer shell">
+    <span>Diccionario de referencia de Poniente</span>
+    <a href="/fuentes/">Ver fuentes <span aria-hidden="true">↗</span></a>
+  </footer>
+</BaseLayout>

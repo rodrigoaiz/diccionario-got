@@ -1,0 +1,87 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SiteHeader from '../components/layout/SiteHeader.astro';
+
+const sources = [
+  {
+    number: '01',
+    name: 'Wikipedia en español',
+    role: 'Nombres localizados y punto de partida',
+    url: 'https://es.wikipedia.org/',
+    note: 'Ayuda a localizar nombres usados en español, títulos de episodios y enlaces iniciales. Cada dato importante debe contrastarse.',
+  },
+  {
+    number: '02',
+    name: 'A Wiki of Ice and Fire',
+    role: 'Estructura, capítulos y relaciones',
+    url: 'https://awoiaf.westeros.org/',
+    note: 'Fuente secundaria para genealogías, geografía, capítulos, casas y comparación entre novelas y series.',
+  },
+  {
+    number: '03',
+    name: 'Wikidata',
+    role: 'Identificadores y enlaces multilingües',
+    url: 'https://www.wikidata.org/',
+    note: 'Aporta IDs estables, alias y relaciones estructuradas. La afirmación concreta siempre conserva sus referencias.',
+  },
+  {
+    number: '04',
+    name: 'HBO / Max',
+    role: 'Continuidad televisiva',
+    url: 'https://www.hbomax.com/',
+    note: 'Se consulta para temporadas, episodios y títulos oficiales sin reutilizar material promocional.',
+  },
+  {
+    number: '05',
+    name: 'Hielo y Fuego Wiki',
+    role: 'Variantes terminológicas',
+    url: 'https://hieloyfuego.fandom.com/wiki/Portada',
+    note: 'Sirve para detectar variantes en español y relaciones que después requieren verificación independiente.',
+  },
+];
+---
+
+<BaseLayout
+  title="Fuentes | Poniente"
+  description="Metodología, fuentes y criterios editoriales del Diccionario de referencia de Poniente."
+>
+  <SiteHeader />
+  <main class="sources-page shell">
+    <div class="page-intro">
+      <span class="eyebrow">03 / Método editorial</span>
+      <h1>Toda referencia<br /><em>tiene un origen.</em></h1>
+      <p>Las fuentes no se esconden al pie de la página. Forman parte de la ficha para que cada lector pueda distinguir dato, traducción, inferencia y pendiente.</p>
+    </div>
+
+    <section class="source-list" aria-labelledby="source-list-title">
+      <div class="source-list-heading">
+        <span class="eyebrow">Mapa de procedencia</span>
+        <h2 id="source-list-title">Fuentes consultadas</h2>
+      </div>
+      {sources.map((source) => (
+        <article class="source-row">
+          <span class="source-number">{source.number}</span>
+          <div class="source-name">
+            <h3>{source.name}</h3>
+            <span>{source.role}</span>
+          </div>
+          <p>{source.note}</p>
+          <a class="source-url" href={source.url} target="_blank" rel="noreferrer">Visitar fuente <span aria-hidden="true">↗</span></a>
+        </article>
+      ))}
+    </section>
+
+    <section class="source-policy">
+      <div class="method-mark" aria-hidden="true">P</div>
+      <div>
+        <span class="eyebrow">Regla de trabajo</span>
+        <h2>Investigar no significa copiar.</h2>
+      </div>
+      <p>El proyecto guarda enlaces, licencias, fechas y niveles de confianza. Los resúmenes son redacción propia y las continuidades nunca se mezclan automáticamente.</p>
+    </section>
+  </main>
+  <footer class="site-footer shell">
+    <span>Diccionario de referencia de Poniente</span>
+    <a href="/diccionario/">Volver al diccionario <span aria-hidden="true">↗</span></a>
+  </footer>
+</BaseLayout>

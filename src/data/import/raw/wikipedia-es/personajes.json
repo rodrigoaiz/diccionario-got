@@ -5,24 +5,181 @@
   "fetchedAt": "2026-08-14",
   "pages": [
     {
-      "pageid": 6600208,
+      "pageid": 936050,
       "ns": 0,
-      "title": "Ellaria Arena"
-    },
-    {
-      "pageid": 941408,
-      "ns": 0,
-      "title": "Petyr Baelish"
+      "title": "Renly Baratheon",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 167918680,
+      "length": 14474,
+      "fullurl": "https://es.wikipedia.org/wiki/Renly_Baratheon",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Renly_Baratheon&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Renly_Baratheon",
+      "pageprops": {
+        "defaultsort": "Baratheon, Renly",
+        "wikibase_item": "Q18920105"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Renly Baratheon"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres gay ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Realeza ficticia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ]
     },
     {
       "pageid": 937060,
       "ns": 0,
-      "title": "Joffrey Baratheon"
+      "title": "Joffrey Baratheon",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 163637432,
+      "length": 21904,
+      "fullurl": "https://es.wikipedia.org/wiki/Joffrey_Baratheon",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Joffrey_Baratheon&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Joffrey_Baratheon",
+      "pageprops": {
+        "defaultsort": "Baratheon, Joffrey",
+        "page_image_free": "Joffrey_Baratheon_Flag.png",
+        "wikibase_item": "Q12900597"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Joffrey Baratheon"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Narcisismo en la cultura"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Príncipes ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Psicópatas ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ]
     },
     {
-      "pageid": 936050,
+      "pageid": 941408,
       "ns": 0,
-      "title": "Renly Baratheon"
+      "title": "Petyr Baelish",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 167009865,
+      "length": 13329,
+      "fullurl": "https://es.wikipedia.org/wiki/Petyr_Baelish",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Petyr_Baelish&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Petyr_Baelish",
+      "pageprops": {
+        "defaultsort": "Baelish, Petyr",
+        "wikibase_item": "Q4360302"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Petyr Baelish"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Agentes secretos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ]
+    },
+    {
+      "pageid": 6600208,
+      "ns": 0,
+      "title": "Ellaria Arena",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:34Z",
+      "lastrevid": 169336300,
+      "length": 7673,
+      "fullurl": "https://es.wikipedia.org/wiki/Ellaria_Arena",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Ellaria_Arena&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Ellaria_Arena",
+      "pageprops": {
+        "defaultsort": "Arena, Ellaria",
+        "wikibase_item": "Q24933002"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Ellaria Sand"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos de niños en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres bisexuales ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nobles ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Poliamorosos ficticios"
+        }
+      ]
     }
   ]
 }

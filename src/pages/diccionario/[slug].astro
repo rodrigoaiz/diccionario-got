@@ -49,7 +49,7 @@ const continuities = entry.continuity.split(' · ');
           <span class="eyebrow">Equivalencias y alias</span>
           <div class="alias-list">
             <div class="alias-row"><span>Nombre en español</span><strong>{entry.nameEs}</strong></div>
-            <div class="alias-row"><span>Nombre original</span><strong>{entry.nameEn}</strong></div>
+            {entry.nameEn && <div class="alias-row"><span>Nombre original</span><strong>{entry.nameEn}</strong></div>}
             {entry.aliases.map((alias) => (
               <div class="alias-row"><span>Alias registrado</span><strong>{alias}</strong></div>
             ))}

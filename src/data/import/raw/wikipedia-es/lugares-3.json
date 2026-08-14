@@ -1,0 +1,155 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "titles": [
+    "Tierras de la Corona",
+    "Lannisport",
+    "Islas del Hierro",
+    "Isla del Oso",
+    "Nido de Águilas"
+  ],
+  "type": "Lugar",
+  "fetchedAt": "2026-08-14",
+  "pages": [
+    {
+      "pageid": 938507,
+      "ns": 0,
+      "title": "Islas del Hierro",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-03T19:49:00Z",
+      "lastrevid": 92721289,
+      "length": 72,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Islas_del_Hierro",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Islas_del_Hierro&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Islas_del_Hierro",
+      "wikidataId": "Q53558692",
+      "wikidataLabelEn": "The Iron Islands",
+      "wikidataAliases": [
+        "Las Islas del Hierro",
+        "Iron Islands"
+      ]
+    },
+    {
+      "pageid": 1170818,
+      "ns": 0,
+      "title": "Isla del Oso",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2024-01-30T21:40:41Z",
+      "lastrevid": 136044066,
+      "length": 28,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Isla_del_Oso",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Isla_del_Oso&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Isla_del_Oso",
+      "wikidataId": "Q194364",
+      "wikidataLabelEn": "Bear Island",
+      "wikidataAliases": [
+        "Bjornoya",
+        "Bjornøya",
+        "Bjørnøya"
+      ]
+    },
+    {
+      "pageid": 1534103,
+      "ns": 0,
+      "title": "Tierras de la Corona",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-13T10:16:49Z",
+      "lastrevid": 168485021,
+      "length": 5059,
+      "fullurl": "https://es.wikipedia.org/wiki/Tierras_de_la_Corona",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Tierras_de_la_Corona&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Tierras_de_la_Corona",
+      "pageprops": {
+        "wikibase_item": "Q5473816"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Crown land"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Monarquía"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con texto en alemán"
+        }
+      ],
+      "wikidataId": "Q5473816",
+      "wikidataLabelEn": "Crown land",
+      "wikidataAliases": [
+        "crown dominion",
+        "crown land"
+      ]
+    },
+    {
+      "pageid": 7996788,
+      "ns": 0,
+      "title": "Lannisport",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-03T19:49:00Z",
+      "lastrevid": 100408472,
+      "length": 66,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Lannisport",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Lannisport&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Lannisport",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 9553843,
+      "ns": 0,
+      "title": "Nido de Águilas",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T21:46:46Z",
+      "lastrevid": 128446006,
+      "length": 45,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Nido_de_%C3%81guilas",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Nido_de_%C3%81guilas&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Nido_de_%C3%81guilas",
+      "wikidataId": "Q6042739",
+      "wikidataLabelEn": "Nido de águilas",
+      "wikidataAliases": [
+        "Nido de águilas (álbum)"
+      ]
+    }
+  ]
+}

@@ -26,7 +26,10 @@
       "redirect": true,
       "fullurl": "https://es.wikipedia.org/wiki/Rocadrag%C3%B3n",
       "editurl": "https://es.wikipedia.org/w/index.php?title=Rocadrag%C3%B3n&action=edit",
-      "canonicalurl": "https://es.wikipedia.org/wiki/Rocadrag%C3%B3n"
+      "canonicalurl": "https://es.wikipedia.org/wiki/Rocadrag%C3%B3n",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
     },
     {
       "pageid": 945906,
@@ -42,7 +45,10 @@
       "redirect": true,
       "fullurl": "https://es.wikipedia.org/wiki/Altojard%C3%ADn",
       "editurl": "https://es.wikipedia.org/w/index.php?title=Altojard%C3%ADn&action=edit",
-      "canonicalurl": "https://es.wikipedia.org/wiki/Altojard%C3%ADn"
+      "canonicalurl": "https://es.wikipedia.org/wiki/Altojard%C3%ADn",
+      "wikidataId": "Q57740197",
+      "wikidataLabelEn": "Highgarden",
+      "wikidataAliases": []
     },
     {
       "pageid": 946230,
@@ -58,7 +64,10 @@
       "redirect": true,
       "fullurl": "https://es.wikipedia.org/wiki/Harrenhal",
       "editurl": "https://es.wikipedia.org/w/index.php?title=Harrenhal&action=edit",
-      "canonicalurl": "https://es.wikipedia.org/wiki/Harrenhal"
+      "canonicalurl": "https://es.wikipedia.org/wiki/Harrenhal",
+      "wikidataId": "Q57812971",
+      "wikidataLabelEn": "Harrenhal",
+      "wikidataAliases": []
     },
     {
       "pageid": 5753993,
@@ -74,7 +83,10 @@
       "redirect": true,
       "fullurl": "https://es.wikipedia.org/wiki/El_Muro",
       "editurl": "https://es.wikipedia.org/w/index.php?title=El_Muro&action=edit",
-      "canonicalurl": "https://es.wikipedia.org/wiki/El_Muro"
+      "canonicalurl": "https://es.wikipedia.org/wiki/El_Muro",
+      "wikidataId": "Q20220860",
+      "wikidataLabelEn": "El Muro",
+      "wikidataAliases": []
     },
     {
       "pageid": 6404709,
@@ -90,7 +102,10 @@
       "redirect": true,
       "fullurl": "https://es.wikipedia.org/wiki/Aguasdulces",
       "editurl": "https://es.wikipedia.org/w/index.php?title=Aguasdulces&action=edit",
-      "canonicalurl": "https://es.wikipedia.org/wiki/Aguasdulces"
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aguasdulces",
+      "wikidataId": "Q57739897",
+      "wikidataLabelEn": "Riverrun",
+      "wikidataAliases": []
     }
   ]
 }

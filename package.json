@@ -9,6 +9,7 @@
     "preview": "astro preview",
     "check": "astro check",
     "import:test": "node scripts/import/test-import.mjs",
+    "review:characters": "node scripts/import/review-characters.mjs",
     "import:mediawiki": "node scripts/import/mediawiki-import.mjs"
   },
   "dependencies": {

@@ -17,6 +17,15 @@ const entries = defineCollection({
     accent: z.enum(['rust', 'ochre', 'moss']),
     editorialStatus: z.enum(['revisada', 'pendiente-de-verificar']).default('pendiente-de-verificar'),
     mapStatus: z.enum(['aproximada', 'pendiente']).default('pendiente'),
+    spoilerLevel: z.enum(['sin-spoiler', 'inicio-de-la-obra', 'intermedio', 'final-de-la-obra', 'spoiler-total']).default('spoiler-total'),
+    references: z.array(
+      z.object({
+        kind: z.enum(['libro', 'serie']),
+        work: z.string(),
+        detail: z.string(),
+        spoilerLevel: z.enum(['sin-spoiler', 'inicio-de-la-obra', 'intermedio', 'final-de-la-obra', 'spoiler-total']),
+      }),
+    ).default([]),
     wikidataId: z.string().optional(),
     sourceCategories: z.array(z.string()).optional(),
     sources: z.array(

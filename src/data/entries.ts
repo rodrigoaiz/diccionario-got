@@ -13,6 +13,13 @@ export type DictionaryEntry = {
   accent: 'rust' | 'ochre' | 'moss';
   editorialStatus?: 'revisada' | 'pendiente-de-verificar';
   mapStatus?: 'aproximada' | 'pendiente';
+  spoilerLevel?: 'sin-spoiler' | 'inicio-de-la-obra' | 'intermedio' | 'final-de-la-obra' | 'spoiler-total';
+  references?: Array<{
+    kind: 'libro' | 'serie';
+    work: string;
+    detail: string;
+    spoilerLevel: 'sin-spoiler' | 'inicio-de-la-obra' | 'intermedio' | 'final-de-la-obra' | 'spoiler-total';
+  }>;
   wikidataId?: string;
   sourceCategories?: string[];
 };

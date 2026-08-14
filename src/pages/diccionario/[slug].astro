@@ -15,6 +15,14 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props as { entry: DictionaryEntry };
 const continuities = entry.continuity.split(' · ');
+const spoilerLevel = entry.spoilerLevel ?? 'spoiler-total';
+const spoilerLabel = {
+  'sin-spoiler': 'Sin spoilers',
+  'inicio-de-la-obra': 'Inicio de la obra',
+  intermedio: 'Intermedio',
+  'final-de-la-obra': 'Final de la obra',
+  'spoiler-total': 'Spoiler total',
+}[spoilerLevel];
 const entryRelationships = relationships.filter(
   (relationship) => relationship.source === entry.slug || relationship.target === entry.slug,
 );
@@ -91,6 +99,24 @@ const entryRelationships = relationships.filter(
             </div>
           </section>
         )}
+
+        {entry.references && entry.references.length > 0 && (
+          <section class="entry-section">
+            <span class="eyebrow">Referencias iniciales</span>
+            <div class="reference-list">
+              {entry.references.map((reference) => (
+                <div class="reference-row">
+                  <span class="reference-kind">{reference.kind}</span>
+                  <div>
+                    <strong>{reference.work}</strong>
+                    <p>{reference.detail}</p>
+                  </div>
+                  <span class="reference-spoiler">{reference.spoilerLevel.replaceAll('-', ' ')}</span>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
       </article>
 
       <aside class="entry-aside">
@@ -99,12 +125,13 @@ const entryRelationships = relationships.filter(
           <dl class="entry-facts">
             <div><dt>Tipo</dt><dd>{entry.type}</dd></div>
             <div><dt>Región</dt><dd>{entry.region}</dd></div>
+            <div><dt>Spoilers</dt><dd class="confidence"><i></i> {spoilerLabel}</dd></div>
             <div><dt>Confianza</dt><dd class="confidence"><i></i> Pendiente de ampliar</dd></div>
           </dl>
         </div>
         <div class="spoiler-note">
-          <span class="spoiler-label">Aviso de lectura</span>
-          <p>Esta ficha se encuentra en una primera capa editorial. Las referencias sensibles se añadirán indicando obra, capítulo, temporada o episodio.</p>
+          <span class="spoiler-label">{spoilerLevel === 'sin-spoiler' ? 'Lectura segura' : 'Aviso de spoilers'}</span>
+          <p>{spoilerLevel === 'sin-spoiler' ? 'Esta ficha no contiene información posterior al inicio de la obra.' : `Esta ficha puede contener información hasta el nivel: ${spoilerLabel}.`}</p>
         </div>
         <div class="source-note">
           <span class="eyebrow">Fuente y fecha</span>

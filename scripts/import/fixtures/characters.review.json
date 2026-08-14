@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "eddard-stark",
+    "region": "Norte",
+    "continuity": "Libros · GOT",
+    "aliases": ["Ned Stark", "Lord Eddard Stark"],
+    "summary": "Señor de Invernalia y figura central de la Casa Stark, conocido por su sentido del deber y su rigor moral.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones; capítulos POV y apariciones de la saga principal.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-2; referencias de la casa y la corte.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "catelyn-stark",
+    "region": "Norte",
+    "continuity": "Libros · GOT",
+    "aliases": ["Catelyn Tully", "Lady Stark"],
+    "summary": "Noble de la Casa Tully y matriarca de la familia Stark, cuya perspectiva conecta varias casas durante la guerra.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones, A Clash of Kings y A Storm of Swords; capítulos POV.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-3; alianzas y conflicto sucesorio.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "robb-stark",
+    "region": "Norte",
+    "continuity": "Libros · GOT",
+    "aliases": ["El Joven Lobo", "The Young Wolf"],
+    "summary": "Heredero de Invernalia y rey en el Norte durante la Guerra de los Cinco Reyes.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones, A Clash of Kings y A Storm of Swords; campaña del Norte.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-3; Guerra de los Cinco Reyes.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "sansa-stark",
+    "region": "Norte",
+    "continuity": "Libros · GOT",
+    "aliases": ["Sansa de Invernalia", "Little Bird"],
+    "summary": "Hija de Eddard Stark cuya educación cortesana se convierte en una larga formación política y de supervivencia.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones en adelante; capítulos POV y evolución en la corte.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-8; exilio, alianzas y regreso al Norte.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "bran-stark",
+    "region": "Norte",
+    "continuity": "Libros · GOT",
+    "aliases": ["Bran el Roto", "Bran the Broken"],
+    "summary": "Heredero de Invernalia cuya percepción del mundo cambia tras su caída y su aprendizaje más allá del Muro.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones en adelante; capítulos POV y aprendizaje sobrenatural.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-8; visiones, cuervo de tres ojos y política final.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "arya-stark",
+    "region": "Norte",
+    "continuity": "Libros · GOT",
+    "aliases": ["Arya de Invernalia", "No One"],
+    "summary": "Hija de la Casa Stark que transforma su identidad y sus habilidades para sobrevivir lejos de su hogar.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones en adelante; capítulos POV y viajes por Poniente y Essos.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-8; entrenamiento, regreso y consecuencias de la guerra.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "jon-snow",
+    "region": "Norte",
+    "continuity": "Libros · GOT",
+    "aliases": ["Jon Nieve", "Lord Snow"],
+    "summary": "Hijo bastardo de Invernalia y miembro de la Guardia de la Noche, situado entre el Norte y las tierras más allá del Muro.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones en adelante; capítulos POV y Guardia de la Noche.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-8; Guardia de la Noche, Norte y conflicto sucesorio.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "daenerys-targaryen",
+    "region": "Essos",
+    "continuity": "Libros · GOT",
+    "aliases": ["Daenerys Stormborn", "Madre de Dragones", "Mother of Dragons"],
+    "summary": "Princesa exiliada de la Casa Targaryen que reúne seguidores y dragones mientras reclama su lugar en la historia de Poniente.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones en adelante; capítulos POV y recorrido por Essos.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-8; exilio, conquista y regreso a Poniente.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "tywin-lannister",
+    "region": "El Oeste",
+    "continuity": "Libros · GOT",
+    "aliases": ["Lord Tywin", "Tywin de Roca Casterly"],
+    "summary": "Señor de Roca Casterly y patriarca de la Casa Lannister, cuya estrategia sostiene gran parte del poder de la corona.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones en adelante; estrategia de guerra y política de la Casa Lannister.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-4; guerra, corte y sucesión Lannister.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "jaime-lannister",
+    "region": "El Oeste",
+    "continuity": "Libros · GOT",
+    "aliases": ["Matarreyes", "Kingslayer"],
+    "summary": "Caballero de la Casa Lannister cuya reputación, lealtades y sentido del honor cambian a lo largo de la guerra.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Clash of Kings en adelante; capítulos POV y conflicto Lannister.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-8; guerra, cautiverio y retorno.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "cersei-lannister",
+    "region": "El Oeste",
+    "continuity": "Libros · GOT",
+    "aliases": ["Cersei de la Casa Lannister", "La reina regente"],
+    "summary": "Reina de los Siete Reinos y miembro de la Casa Lannister, determinada a conservar el poder de su familia y sus hijos.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones en adelante; capítulos POV desde A Feast for Crows.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-8; corte, guerra y poder de la corona.","spoilerLevel":"spoiler-total"}]
+  },
+  {
+    "slug": "tyrion-lannister",
+    "region": "El Oeste",
+    "continuity": "Libros · GOT",
+    "aliases": ["El Gnomo", "The Imp"],
+    "summary": "Hijo de Tywin Lannister y observador político que utiliza ingenio, lenguaje y estrategia para sobrevivir a la corte.",
+    "spoilerLevel": "spoiler-total",
+    "references": [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones en adelante; capítulos POV y desplazamientos entre continentes.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-8; corte, exilio y alianzas finales.","spoilerLevel":"spoiler-total"}]
+  }
+]

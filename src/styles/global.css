@@ -584,6 +584,48 @@ h1 em {
   color: var(--text);
 }
 
+.reference-list {
+  display: grid;
+  border-top: 1px solid var(--line);
+}
+
+.reference-row {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr) auto;
+  gap: 18px;
+  align-items: start;
+  padding: 15px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.reference-kind,
+.reference-spoiler {
+  color: var(--faint);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.reference-row strong {
+  color: var(--text);
+  font-family: Bitter, serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.reference-row p {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.reference-spoiler {
+  color: var(--rust);
+  font-size: 9px;
+  text-align: right;
+}
+
 .entry-aside {
   display: grid;
   align-content: start;
@@ -1631,6 +1673,15 @@ h1 em {
 
   .continuity-row small {
     grid-column: 2;
+  }
+
+  .reference-row {
+    grid-template-columns: 1fr;
+    gap: 5px;
+  }
+
+  .reference-spoiler {
+    text-align: left;
   }
 
   .explorer-toolbar {

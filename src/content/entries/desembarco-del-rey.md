@@ -9,6 +9,8 @@ region: "Tierras de la Corona"
 aliases: ["King's Landing","King Landing"]
 summary: "Capital de los Siete Reinos y centro cambiante del poder."
 accent: "rust"
+editorialStatus: "revisada"
+mapStatus: "aproximada"
 sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/","consulted":"2026-08-14","confidence":"secundario"}]
 ---
 

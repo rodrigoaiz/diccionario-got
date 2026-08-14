@@ -4,16 +4,22 @@ slug: "isla-del-oso"
 nameEs: "Isla del Oso"
 nameEn: "Bear Island"
 type: "Lugar"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
-aliases: ["Bjornoya","Bjornøya","Bjørnøya"]
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este lugar."
+continuity: "Libros · GOT"
+region: "Norte"
+aliases: ["Bear Island", "Bjornoya"]
+summary: "Isla septentrional gobernada por la Casa Mormont y situada frente a las costas del Norte."
 accent: "moss"
-wikidataId: "Q194364"
+editorialStatus: "pendiente-de-verificar"
+mapStatus: "pendiente"
+wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Isla_del_Oso","consulted":"2026-08-14","confidence":"pendiente-de-verificar"},{"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q194364","consulted":"2026-08-14","confidence":"estructurado"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Isla_del_Oso","consulted":"2026-08-14","confidence":"pendiente-de-verificar"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este lugar.
+La Isla del Oso es el hogar de la Casa Mormont y uno de los territorios insulares del Norte. Su entrada necesita una fuente específica del universo porque la página localizada puede confundirse con la isla real de Bjørnøya.
+
+## Estado editorial
+
+Nombre, región y continuidad propuestos. La fuente y la identidad cartográfica quedan pendientes de desambiguación.

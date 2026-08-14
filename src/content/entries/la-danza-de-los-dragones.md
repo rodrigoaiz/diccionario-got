@@ -9,6 +9,8 @@ region: "Siete Reinos"
 aliases: ["Danza de los Dragones","The Dance"]
 summary: "Guerra civil Targaryen que divide el reino y enfrenta a dos reclamantes."
 accent: "rust"
+editorialStatus: "revisada"
+mapStatus: "pendiente"
 sources: [{"name":"A Wiki of Ice and Fire","url":"https://awoiaf.westeros.org/","consulted":"2026-08-14","confidence":"bibliografico"}]
 ---
 

@@ -1,0 +1,107 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "titles": [
+    "Valyria",
+    "Dorne",
+    "Pentos",
+    "Qarth",
+    "Braavos"
+  ],
+  "type": "Lugar",
+  "fetchedAt": "2026-08-14",
+  "pages": [
+    {
+      "pageid": 6453028,
+      "ns": 0,
+      "title": "Braavos",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-29T05:42:21Z",
+      "lastrevid": 77322389,
+      "length": 41,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Braavos",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Braavos&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Braavos"
+    },
+    {
+      "pageid": 7285633,
+      "ns": 0,
+      "title": "Dorne",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-03T19:49:00Z",
+      "lastrevid": 96934394,
+      "length": 61,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Dorne",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Dorne&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Dorne"
+    },
+    {
+      "pageid": 7294191,
+      "ns": 0,
+      "title": "Valyria",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-01T02:40:41Z",
+      "lastrevid": 172191526,
+      "length": 11504,
+      "fullurl": "https://es.wikipedia.org/wiki/Valyria",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Valyria&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Valyria",
+      "pageprops": {
+        "wikibase_item": "Q24937459"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Lugares en Canción de hielo y fuego"
+        }
+      ]
+    },
+    {
+      "pageid": 7311025,
+      "ns": 0,
+      "title": "Qarth",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-16T11:16:05Z",
+      "lastrevid": 89426126,
+      "length": 29,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Qarth",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Qarth&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Qarth"
+    },
+    {
+      "pageid": 10261830,
+      "ns": 0,
+      "title": "Pentos",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2024-10-02T18:09:18Z",
+      "lastrevid": 144183998,
+      "length": 23,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Pentos",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Pentos&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Pentos"
+    }
+  ]
+}

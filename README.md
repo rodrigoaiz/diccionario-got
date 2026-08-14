@@ -55,3 +55,9 @@ npm run dev
 
 `npm run import:test` regenera las fichas de prueba en `src/content/entries/` a partir de `scripts/import/fixtures/entries.sample.json`.
 `npm run import:mediawiki` consulta una categoria real, guarda la respuesta bruta y crea fichas minimas pendientes de revision.
+
+Para importar lugares concretos sin sobreescribir fichas existentes:
+
+```bash
+IMPORT_TYPE=Lugar IMPORT_LABEL=lugares WIKI_TITLES="Valyria,Dorne,Pentos,Qarth,Braavos" npm run import:mediawiki
+```

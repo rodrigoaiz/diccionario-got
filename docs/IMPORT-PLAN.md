@@ -15,7 +15,7 @@ La importacion debe producir datos versionados, reproducibles y revisables. No e
 
 ## Primer adaptador
 
-El primer adaptador funcional usa la API de MediaWiki con un limite configurable. Guarda titulos, IDs, categoria, URL y fecha de consulta, pero no copia el texto de las paginas. Las fichas creadas quedan marcadas como `pendiente-de-verificar` hasta completar continuidad, equivalencias y resumen propio.
+El primer adaptador funcional usa la API de MediaWiki con un limite configurable. Acepta una categoria o una lista de titulos concretos. Guarda titulos, IDs, categoria, URL y fecha de consulta, pero no copia el texto de las paginas. Las fichas creadas quedan marcadas como `pendiente-de-verificar` hasta completar continuidad, equivalencias y resumen propio. Por defecto no sobreescribe fichas existentes.
 
 ## Flujo propuesto
 

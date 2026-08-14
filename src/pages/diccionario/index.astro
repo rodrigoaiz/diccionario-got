@@ -1,0 +1,24 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/layout/SiteHeader.astro';
+import SearchExplorer from '../../components/islands/SearchExplorer';
+---
+
+<BaseLayout
+  title="Diccionario | Poniente"
+  description="Busca nombres, alias y equivalencias del universo de Poniente."
+>
+  <SiteHeader />
+  <main class="dictionary-page shell">
+    <div class="page-intro">
+      <span class="eyebrow">01 / Diccionario completo</span>
+      <h1>Encuentra la entrada<br /><em>que te falta.</em></h1>
+      <p>El índice crece por capas: primero la equivalencia y la continuidad, después las relaciones, referencias y contexto editorial.</p>
+    </div>
+    <SearchExplorer client:load />
+  </main>
+  <footer class="site-footer shell">
+    <span>Diccionario de referencia de Poniente</span>
+    <a href="/">Volver al inicio <span aria-hidden="true">↗</span></a>
+  </footer>
+</BaseLayout>

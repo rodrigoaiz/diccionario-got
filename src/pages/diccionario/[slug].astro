@@ -1,0 +1,95 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiteHeader from '../../components/layout/SiteHeader.astro';
+import { entries, type DictionaryEntry } from '../../data/entries';
+
+export function getStaticPaths() {
+  return entries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props as { entry: DictionaryEntry };
+const continuities = entry.continuity.split(' · ');
+---
+
+<BaseLayout
+  title={`${entry.nameEs} | Diccionario de Poniente`}
+  description={entry.summary}
+>
+  <SiteHeader />
+  <main class="entry-page shell">
+    <a class="back-link" href="/diccionario/">&larr; Volver al diccionario</a>
+
+    <header class="entry-header">
+      <div>
+        <div class="entry-kicker">
+          <span class={`entry-dot accent-${entry.accent}`}></span>
+          <span>{entry.type}</span>
+          <span>·</span>
+          <span>{entry.region}</span>
+        </div>
+        <h1>{entry.nameEs}</h1>
+        <p class="entry-original">{entry.nameEn}</p>
+      </div>
+      <div class="entry-number">Ficha <strong>01</strong></div>
+    </header>
+
+    <div class="entry-layout">
+      <article class="entry-main">
+        <div class="entry-summary">
+          <span class="eyebrow">Resumen</span>
+          <p>{entry.summary}</p>
+        </div>
+
+        <section class="entry-section">
+          <span class="eyebrow">Equivalencias y alias</span>
+          <div class="alias-list">
+            <div class="alias-row"><span>Nombre en español</span><strong>{entry.nameEs}</strong></div>
+            <div class="alias-row"><span>Nombre original</span><strong>{entry.nameEn}</strong></div>
+            {entry.aliases.map((alias) => (
+              <div class="alias-row"><span>Alias registrado</span><strong>{alias}</strong></div>
+            ))}
+          </div>
+        </section>
+
+        <section class="entry-section">
+          <span class="eyebrow">Continuidades</span>
+          <div class="continuity-list">
+            {continuities.map((continuity, index) => (
+              <div class="continuity-row">
+                <span>0{index + 1}</span>
+                <strong>{continuity}</strong>
+                <small>Referencia separada</small>
+              </div>
+            ))}
+          </div>
+        </section>
+      </article>
+
+      <aside class="entry-aside">
+        <div class="aside-block">
+          <span class="eyebrow">Ficha técnica</span>
+          <dl class="entry-facts">
+            <div><dt>Tipo</dt><dd>{entry.type}</dd></div>
+            <div><dt>Región</dt><dd>{entry.region}</dd></div>
+            <div><dt>Confianza</dt><dd class="confidence"><i></i> Pendiente de ampliar</dd></div>
+          </dl>
+        </div>
+        <div class="spoiler-note">
+          <span class="spoiler-label">Aviso de lectura</span>
+          <p>Esta ficha se encuentra en una primera capa editorial. Las referencias sensibles se añadirán indicando obra, capítulo, temporada o episodio.</p>
+        </div>
+        <div class="source-note">
+          <span class="eyebrow">Fuente y fecha</span>
+          <p>Registro inicial del proyecto. La procedencia detallada se completará durante la carga editorial.</p>
+        </div>
+      </aside>
+    </div>
+  </main>
+  <footer class="site-footer shell">
+    <span>Diccionario de referencia de Poniente</span>
+    <a href="/diccionario/">Otra búsqueda <span aria-hidden="true">↗</span></a>
+  </footer>
+</BaseLayout>

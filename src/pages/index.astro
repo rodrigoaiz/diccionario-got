@@ -1,0 +1,86 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SiteHeader from '../components/layout/SiteHeader.astro';
+import SearchExplorer from '../components/islands/SearchExplorer';
+import MapPreview from '../components/atlas/MapPreview.astro';
+import { featuredEntries } from '../data/entries';
+---
+
+<BaseLayout>
+  <SiteHeader />
+
+  <main>
+    <section class="hero shell">
+      <div class="hero-copy">
+        <p class="eyebrow reveal-one">Entrada principal <span>·</span> edición bilingüe</p>
+        <h1 class="reveal-two">&iquest;Qu&eacute; nombre<br /><em>est&aacute;s buscando?</em></h1>
+        <p class="hero-intro reveal-three">
+          Una referencia para leer Poniente sin perderse entre traducciones, adaptaciones y siglos de historia.
+        </p>
+        <div class="hero-note reveal-four">
+          <span class="note-mark">01</span>
+          <p><strong>Una entrada, dos nombres.</strong> Empieza por la palabra que tienes delante y deja que el atlas haga el resto.</p>
+        </div>
+      </div>
+
+      <div class="hero-index" aria-label="Resumen del atlas">
+        <div class="index-line"><span>Volumen</span><strong>I</strong></div>
+        <div class="index-line"><span>Entradas preparadas</span><strong>07</strong></div>
+        <div class="index-line"><span>Continuidades</span><strong>05</strong></div>
+        <div class="index-line"><span>Estado</span><strong class="status"><i></i> En edición</strong></div>
+        <p class="index-caption">Un proyecto independiente de consulta y orientación para lectores.</p>
+      </div>
+    </section>
+
+    <section class="dictionary-section shell" id="diccionario">
+      <div class="section-heading">
+        <div>
+          <span class="eyebrow">01 / Diccionario</span>
+          <h2>La respuesta empieza<br />por el nombre.</h2>
+        </div>
+        <p>Busca en español, inglés o por alias. Cada entrada separa con claridad lo que pertenece al libro, a la serie o a una interpretación.</p>
+      </div>
+      <SearchExplorer client:load />
+    </section>
+
+    <section class="featured-section shell">
+      <div class="section-heading compact-heading">
+        <div>
+          <span class="eyebrow">Selección editorial</span>
+          <h2>Para seguir tirando del hilo</h2>
+        </div>
+        <a class="text-link" href="#diccionario">Ver todas las entradas <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="featured-grid">
+        {featuredEntries.map((entry, index) => (
+          <a class={`featured-entry featured-${index + 1}`} href={`/diccionario/${entry.slug}/`}>
+            <span class={`featured-number accent-${entry.accent}`}>{String(index + 1).padStart(2, '0')}</span>
+            <span class="featured-type">{entry.type} <i>·</i> {entry.region}</span>
+            <strong>{entry.nameEs}</strong>
+            <span class="featured-alias">{entry.nameEn}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="map-section shell" id="mapa">
+      <MapPreview />
+    </section>
+
+    <section class="method-section shell" id="metodo">
+      <div class="method-mark" aria-hidden="true">P</div>
+      <div>
+        <span class="eyebrow">Nota editorial</span>
+        <h2>La procedencia también cuenta una historia.</h2>
+      </div>
+      <p>Las traducciones, los alias y los hechos no se mezclan sin aviso. Cada ficha irá acompañada de su continuidad, nivel de confianza, fuente y fecha de consulta.</p>
+      <a class="text-link" href="#metodo">Conocer el método <span aria-hidden="true">↗</span></a>
+    </section>
+  </main>
+
+  <footer class="site-footer shell">
+    <span>Diccionario de referencia de Poniente</span>
+    <span>Lectura en español · Equivalencias en inglés</span>
+    <span>Edición abierta · 2026</span>
+  </footer>
+</BaseLayout>

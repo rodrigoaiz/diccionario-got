@@ -84,7 +84,7 @@ export default function SearchExplorer({ entries }: Props) {
               <span className="result-main">
                 <span className="result-name-line">
                   <strong>{entry.nameEs}</strong>
-                  <span className="result-english">{entry.nameEn}</span>
+                  {entry.nameEn && <span className="result-english">{entry.nameEn}</span>}
                 </span>
                 <span className="result-summary">{entry.summary}</span>
                 <span className="result-meta">

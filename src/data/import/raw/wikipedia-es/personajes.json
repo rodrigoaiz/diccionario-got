@@ -1,0 +1,28 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "fetchedAt": "2026-08-14",
+  "pages": [
+    {
+      "pageid": 6600208,
+      "ns": 0,
+      "title": "Ellaria Arena"
+    },
+    {
+      "pageid": 941408,
+      "ns": 0,
+      "title": "Petyr Baelish"
+    },
+    {
+      "pageid": 937060,
+      "ns": 0,
+      "title": "Joffrey Baratheon"
+    },
+    {
+      "pageid": 936050,
+      "ns": 0,
+      "title": "Renly Baratheon"
+    }
+  ]
+}

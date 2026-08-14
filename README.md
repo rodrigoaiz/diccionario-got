@@ -49,7 +49,9 @@ Antes de cerrar el importador, confirmar las preguntas de [`docs/OPEN-QUESTIONS.
 ```bash
 npm install
 npm run import:test
+IMPORT_LIMIT=4 npm run import:mediawiki
 npm run dev
 ```
 
 `npm run import:test` regenera las fichas de prueba en `src/content/entries/` a partir de `scripts/import/fixtures/entries.sample.json`.
+`npm run import:mediawiki` consulta una categoria real, guarda la respuesta bruta y crea fichas minimas pendientes de revision.

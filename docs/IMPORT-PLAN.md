@@ -13,6 +13,10 @@ La importacion debe producir datos versionados, reproducibles y revisables. No e
 - JSON generado para el indice de busqueda y datos derivados.
 - MDX solo cuando una ficha necesite una presentacion interactiva especial.
 
+## Primer adaptador
+
+El primer adaptador funcional usa la API de MediaWiki con un limite configurable. Guarda titulos, IDs, categoria, URL y fecha de consulta, pero no copia el texto de las paginas. Las fichas creadas quedan marcadas como `pendiente-de-verificar` hasta completar continuidad, equivalencias y resumen propio.
+
 ## Flujo propuesto
 
 1. Descargar o consultar APIs publicas de MediaWiki cuando existan.

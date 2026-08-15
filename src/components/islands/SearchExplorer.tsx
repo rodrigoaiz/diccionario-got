@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useState } from 'react';
 import type { DictionaryEntry, EntryType } from '../../data/entries';
 import { getContinuityLabel, getEntrySummary, getRegionLabel } from '../../data/entryPresentation';
 import Icon from '../ui/Icon';
@@ -32,49 +32,7 @@ type Props = {
 export default function SearchExplorer({ entries }: Props) {
   const [query, setQuery] = useState('');
   const [activeType, setActiveType] = useState<'Todos' | EntryType>('Todos');
-  const [isCommandOpen, setIsCommandOpen] = useState(false);
-  const searchInputRef = useRef<HTMLInputElement>(null);
-  const commandInputRef = useRef<HTMLInputElement>(null);
   const normalizedQuery = normalize(query.trim());
-
-  useEffect(() => {
-    const handleShortcut = (event: KeyboardEvent) => {
-      const target = event.target as HTMLElement | null;
-      const isTyping = target?.matches('input, textarea, select, [contenteditable="true"]');
-
-      if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 'k') {
-        event.preventDefault();
-        setIsCommandOpen(true);
-        return;
-      }
-
-      if (event.key === 'Escape' && isCommandOpen) {
-        event.preventDefault();
-        setIsCommandOpen(false);
-        return;
-      }
-
-      if (event.key !== '/' || isTyping || event.metaKey || event.ctrlKey || event.altKey) return;
-      event.preventDefault();
-      searchInputRef.current?.focus();
-    };
-
-    window.addEventListener('keydown', handleShortcut);
-    return () => window.removeEventListener('keydown', handleShortcut);
-  }, [isCommandOpen]);
-
-  useEffect(() => {
-    if (!isCommandOpen) return;
-
-    const previouslyFocused = document.activeElement as HTMLElement | null;
-    document.body.classList.add('search-command-open');
-    commandInputRef.current?.focus();
-
-    return () => {
-      document.body.classList.remove('search-command-open');
-      previouslyFocused?.focus();
-    };
-  }, [isCommandOpen]);
 
   const matchingEntries = entries.filter((entry) => {
     const isVisibleByStatus = entry.type !== 'Pendiente' || activeType === 'Pendiente';
@@ -87,7 +45,6 @@ export default function SearchExplorer({ entries }: Props) {
 
   const hasQueryOrFilter = Boolean(normalizedQuery) || activeType !== 'Todos';
   const visibleEntries = hasQueryOrFilter ? matchingEntries : matchingEntries.slice(0, INITIAL_RESULT_LIMIT);
-  const commandEntries = matchingEntries.slice(0, 6);
 
   const formatEntryCount = (count: number) => `${count} ${count === 1 ? 'entrada' : 'entradas'}`;
 
@@ -104,8 +61,6 @@ export default function SearchExplorer({ entries }: Props) {
             className="search-field"
             type="search"
             placeholder="Busca en español, inglés o por alias..."
-            aria-keyshortcuts="Control+K Meta+K"
-            ref={searchInputRef}
             value={query}
             onChange={(event) => setQuery(event.target.value)}
           />
@@ -182,75 +137,6 @@ export default function SearchExplorer({ entries }: Props) {
         </p>
       )}
 
-      {isCommandOpen && (
-        <div
-          className="search-command-layer"
-          onMouseDown={(event) => {
-            if (event.target === event.currentTarget) setIsCommandOpen(false);
-          }}
-        >
-          <section className="search-command" role="dialog" aria-modal="true" aria-labelledby="search-command-title">
-            <div className="search-command-header">
-              <div>
-                <span className="eyebrow">Atajo de búsqueda</span>
-                <h2 id="search-command-title">Encuentra una entrada</h2>
-              </div>
-              <button className="search-command-close" type="button" aria-label="Cerrar búsqueda" onClick={() => setIsCommandOpen(false)}>
-                <Icon name="close" size={18} />
-              </button>
-            </div>
-
-            <div className="search-command-field-wrap">
-              <span className="search-mark"><Icon name="search" size={22} /></span>
-              <label className="sr-only" htmlFor="dictionary-command-search">
-                Buscar en el diccionario
-              </label>
-              <input
-                id="dictionary-command-search"
-                ref={commandInputRef}
-                className="search-command-field"
-                type="search"
-                placeholder="Escribe un personaje, lugar, casa o alias..."
-                value={query}
-                onChange={(event) => setQuery(event.target.value)}
-              />
-              <kbd>Esc</kbd>
-            </div>
-
-            <div className="search-command-results" aria-label="Resultados rápidos">
-              {commandEntries.length > 0 ? (
-                commandEntries.map((entry, index) => (
-                  <a
-                    className="command-result"
-                    href={`/diccionario/${entry.slug}/`}
-                    key={entry.slug}
-                    onClick={() => setIsCommandOpen(false)}
-                  >
-                    <span className={`result-index accent-${entry.accent}`}>{String(index + 1).padStart(2, '0')}</span>
-                    <span className="command-result-copy">
-                      <span className="command-result-name">
-                        <strong>{entry.nameEs}</strong>
-                        {entry.nameEn && <small>{entry.nameEn}</small>}
-                      </span>
-                      <span className="command-result-meta">
-                        {entry.type} · {getContinuityLabel(entry.continuity)}
-                      </span>
-                    </span>
-                    <span className="result-arrow"><Icon name="arrow-up-right" size={18} /></span>
-                  </a>
-                ))
-              ) : (
-                <p className="search-command-empty">No encontramos una entrada con ese nombre.</p>
-              )}
-            </div>
-
-            <div className="search-command-footer">
-              <span>Escribe para filtrar resultados</span>
-              <span><kbd>Esc</kbd> cerrar</span>
-            </div>
-          </section>
-        </div>
-      )}
     </div>
   );
 }

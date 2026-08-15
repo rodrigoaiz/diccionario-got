@@ -1,11 +1,15 @@
 ---
 import Icon from '../ui/Icon.astro';
 import FactionPicker from './FactionPicker.astro';
+import SearchCommand from '../islands/SearchCommand';
+import { getCollection } from 'astro:content';
 
 const pathname = Astro.url.pathname;
 const isDictionary = pathname === '/' || pathname.startsWith('/diccionario');
 const isMap = pathname.startsWith('/mapa');
 const isSources = pathname.startsWith('/fuentes');
+const contentEntries = await getCollection('entries');
+const dictionaryEntries = contentEntries.map(({ data }) => ({ ...data, slug: data.slug }));
 ---
 
 <header class="site-header">
@@ -24,7 +28,8 @@ const isSources = pathname.startsWith('/fuentes');
   </nav>
 
   <div class="header-tools">
-    <FactionPicker />
+    {pathname === '/' && <FactionPicker />}
+    <SearchCommand entries={dictionaryEntries} client:load />
     <button class="theme-toggle" type="button" data-theme-toggle aria-label="Cambiar tema" aria-pressed="true">
       <span class="theme-icon"><Icon name="theme" size={19} /></span>
       <span class="theme-label">Modo claro</span>

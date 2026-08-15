@@ -12,6 +12,8 @@ import Icon from '../ui/Icon.astro';
     <span class="faction-trigger-chevron"><Icon name="chevron-down" size={15} /></span>
   </button>
 
+  <div class="faction-hint" data-faction-hint role="status" hidden>Elige un bando para vestir el diccionario.</div>
+
   <div class="faction-menu" id="faction-menu" data-faction-menu hidden>
     <div class="faction-menu-copy">
       <span class="eyebrow">La danza de los dragones</span>
@@ -44,6 +46,7 @@ import Icon from '../ui/Icon.astro';
     const factionOptions = factionPicker?.querySelectorAll('[data-faction-option]');
     const factionTrigger = factionPicker?.querySelector('[data-faction-trigger]');
     const factionMenu = factionPicker?.querySelector('[data-faction-menu]');
+    const factionHint = factionPicker?.querySelector('[data-faction-hint]');
     const currentSigil = factionPicker?.querySelector('[data-faction-current-sigil]');
     const currentLabel = factionPicker?.querySelector('[data-faction-current-label]');
     const savedFaction = window.localStorage.getItem('got-faction');
@@ -64,8 +67,17 @@ import Icon from '../ui/Icon.astro';
 
     updateFaction(savedFaction === 'black' ? 'black' : 'green');
 
+    if (!savedFaction && factionHint) {
+      factionHint.hidden = false;
+      window.setTimeout(() => factionHint.classList.add('is-fading'), 4200);
+      window.setTimeout(() => {
+        factionHint.hidden = true;
+      }, 4600);
+    }
+
     factionTrigger?.addEventListener('click', () => {
       const isOpen = factionTrigger.getAttribute('aria-expanded') === 'true';
+      if (factionHint) factionHint.hidden = true;
       setMenuOpen(!isOpen);
     });
 

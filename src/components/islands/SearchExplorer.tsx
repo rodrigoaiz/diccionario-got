@@ -13,6 +13,8 @@ const filterOptions: Array<{ label: string; value: 'Todos' | EntryType }> = [
   { label: 'Pendientes', value: 'Pendiente' },
 ];
 
+const INITIAL_RESULT_LIMIT = 8;
+
 function normalize(value: string) {
   return value
     .toLocaleLowerCase('es')
@@ -30,7 +32,7 @@ export default function SearchExplorer({ entries }: Props) {
   const [activeType, setActiveType] = useState<'Todos' | EntryType>('Todos');
   const normalizedQuery = normalize(query.trim());
 
-  const visibleEntries = entries.filter((entry) => {
+  const matchingEntries = entries.filter((entry) => {
     const isVisibleByStatus = entry.type !== 'Pendiente' || activeType === 'Pendiente';
     const matchesType = activeType === 'Todos' || entry.type === activeType;
     const searchableText = normalize(
@@ -40,6 +42,9 @@ export default function SearchExplorer({ entries }: Props) {
   });
 
   const hasQueryOrFilter = Boolean(normalizedQuery) || activeType !== 'Todos';
+  const visibleEntries = hasQueryOrFilter ? matchingEntries : matchingEntries.slice(0, INITIAL_RESULT_LIMIT);
+
+  const formatEntryCount = (count: number) => `${count} ${count === 1 ? 'entrada' : 'entradas'}`;
 
   return (
     <div className="dictionary-explorer">
@@ -60,7 +65,9 @@ export default function SearchExplorer({ entries }: Props) {
           <kbd>/</kbd>
         </div>
         <p className="search-count" aria-live="polite">
-          {visibleEntries.length} {visibleEntries.length === 1 ? 'entrada' : 'entradas'}
+          {hasQueryOrFilter
+            ? formatEntryCount(visibleEntries.length)
+            : `${visibleEntries.length} de ${formatEntryCount(matchingEntries.length)}`}
         </p>
       </div>
 
@@ -124,7 +131,7 @@ export default function SearchExplorer({ entries }: Props) {
 
       {!hasQueryOrFilter && (
         <p className="explorer-footnote">
-          Mostrando una selección inicial. El índice completo crecerá con cada carga editorial.
+          Mostrando las primeras {visibleEntries.length} entradas. Escribe para buscar en el índice completo.
         </p>
       )}
     </div>

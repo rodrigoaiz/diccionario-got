@@ -28,6 +28,17 @@ const featuredEntries = preparedEntries.slice(0, 4);
   <SiteHeader />
 
   <main>
+    <section class="primary-search shell" id="diccionario">
+      <div class="primary-search-heading">
+        <div>
+          <span class="eyebrow">Consulta principal <span>·</span> {preparedEntries.length} términos indexados</span>
+          <h2>Busca el nombre<br /><em>que necesitas.</em></h2>
+        </div>
+        <p>Escribe en español, inglés o por alias. La equivalencia y la ficha aparecen sin rodeos.</p>
+      </div>
+      <SearchExplorer entries={dictionaryEntries} client:load />
+    </section>
+
     <section class="hero shell">
       <div class="hero-copy">
         <p class="eyebrow reveal-one">Diccionario español <span>↔</span> inglés · Juego de Tronos</p>
@@ -39,6 +50,10 @@ const featuredEntries = preparedEntries.slice(0, 4);
           <span class="note-mark">01</span>
           <p><strong>Escribe como te salga.</strong> Aceptamos nombres en español, inglés y alias para que vuelvas rápido a la historia.</p>
         </div>
+        <a class="hero-cta reveal-five" href="#diccionario">
+          <span>Buscar un término</span>
+          <span aria-hidden="true">↗</span>
+        </a>
       </div>
 
       <aside class="hero-aside" aria-label="Tu bando y estado del diccionario">
@@ -52,16 +67,6 @@ const featuredEntries = preparedEntries.slice(0, 4);
         </div>
       </aside>
 
-      <div class="hero-search" id="diccionario">
-        <div class="hero-search-heading">
-          <div>
-            <span class="eyebrow">Busca primero</span>
-            <h2>¿Qué nombre tienes delante?</h2>
-          </div>
-          <p>Prueba con español, inglés o un alias. Después puedes filtrar por tipo.</p>
-        </div>
-        <SearchExplorer entries={dictionaryEntries} client:load />
-      </div>
     </section>
 
     <section class="featured-section shell">

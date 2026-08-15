@@ -15,6 +15,9 @@
   --rust: oklch(63% 0.13 43);
   --team-accent: oklch(77% 0.12 81);
   --ochre: var(--team-accent);
+  --faction-gradient:
+    radial-gradient(circle at 8% 0%, color-mix(in oklch, var(--team-accent) 27%, transparent), transparent 34%),
+    radial-gradient(circle at 92% 26%, color-mix(in oklch, var(--team-accent) 15%, transparent), transparent 36%);
   --moss: oklch(65% 0.09 133);
   --accent-ink: oklch(20% 0.025 148);
   --space-xs: 4px;
@@ -43,6 +46,9 @@
   --rust: oklch(52% 0.14 43);
   --team-accent: oklch(55% 0.13 76);
   --ochre: var(--team-accent);
+  --faction-gradient:
+    radial-gradient(circle at 8% 0%, color-mix(in oklch, var(--team-accent) 18%, transparent), transparent 34%),
+    radial-gradient(circle at 92% 26%, color-mix(in oklch, var(--team-accent) 10%, transparent), transparent 36%);
   --moss: oklch(48% 0.10 133);
   --accent-ink: oklch(20% 0.025 148);
   color-scheme: light;
@@ -53,7 +59,7 @@
 }
 
 :root[data-faction='black'] {
-  --team-accent: oklch(66% 0.15 35);
+  --team-accent: oklch(66% 0.16 28);
 }
 
 :root[data-theme='light'][data-faction='green'] {
@@ -61,7 +67,7 @@
 }
 
 :root[data-theme='light'][data-faction='black'] {
-  --team-accent: oklch(51% 0.14 35);
+  --team-accent: oklch(50% 0.15 28);
 }
 
 * {
@@ -73,6 +79,8 @@ html {
 }
 
 body {
+  position: relative;
+  isolation: isolate;
   margin: 0;
   min-width: 320px;
   color: var(--text);
@@ -93,6 +101,16 @@ body::before {
   background-image: radial-gradient(oklch(100% 0 0 / 0.08) 0.7px, transparent 0.7px);
   background-size: 7px 7px;
   mix-blend-mode: soft-light;
+}
+
+body::after {
+  position: fixed;
+  z-index: -1;
+  inset: 0;
+  pointer-events: none;
+  content: '';
+  background: var(--faction-gradient);
+  transition: opacity 300ms ease;
 }
 
 a {
@@ -330,6 +348,8 @@ h1 em {
   padding: 20px 0 22px;
   border-top: 1px solid var(--line-strong);
   border-bottom: 1px solid var(--line-strong);
+  background: color-mix(in oklch, var(--team-accent) 7%, transparent);
+  transition: background-color 300ms ease, border-color 300ms ease;
 }
 
 .faction-picker .eyebrow {
@@ -412,6 +432,31 @@ h1 em {
   margin: 0;
 }
 
+.hero-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 22px;
+  padding: 10px 0 8px;
+  border-bottom: 1px solid var(--ochre);
+  color: var(--ochre);
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  transition: color 180ms ease, border-color 180ms ease, transform 180ms ease;
+}
+
+.hero-cta span:last-child {
+  font-size: 18px;
+  line-height: 1;
+}
+
+.hero-cta:hover {
+  border-color: var(--text);
+  color: var(--text);
+  transform: translateX(3px);
+}
+
 .hero-note strong {
   color: var(--text);
   font-weight: 600;
@@ -485,12 +530,13 @@ h1 em {
   text-align: right;
 }
 
-.hero-search {
-  grid-column: 1 / -1;
-  padding-top: 2px;
+.primary-search {
+  padding-top: clamp(44px, 6vw, 78px);
+  padding-bottom: clamp(52px, 8vw, 96px);
+  border-bottom: 1px solid var(--line-strong);
 }
 
-.hero-search-heading {
+.primary-search-heading {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(240px, 320px);
   gap: 40px;
@@ -500,25 +546,38 @@ h1 em {
   border-bottom: 1px solid var(--line-strong);
 }
 
-.hero-search-heading .eyebrow {
+.primary-search-heading .eyebrow {
   margin-bottom: 12px;
 }
 
-.hero-search-heading h2 {
+.primary-search-heading h2 {
   margin: 0;
   color: var(--text);
   font-family: Bitter, serif;
-  font-size: clamp(2rem, 4.5vw, 4.1rem);
+  font-size: clamp(2.7rem, 6vw, 5.7rem);
   font-weight: 500;
   letter-spacing: -0.045em;
   line-height: 0.98;
 }
 
-.hero-search-heading > p {
+.primary-search-heading h2 em {
+  color: var(--ochre);
+  font-style: normal;
+}
+
+.primary-search-heading > p {
   max-width: 300px;
   margin: 0 0 3px;
   color: var(--muted);
   font-size: 15px;
+}
+
+.primary-search .dictionary-explorer {
+  border-top: 0;
+}
+
+.primary-search .explorer-toolbar {
+  padding-top: 0;
 }
 
 .dictionary-section,
@@ -893,19 +952,11 @@ h1 em {
   border-top: 1px solid var(--line-strong);
 }
 
-.hero-search .dictionary-explorer {
-  border-top: 0;
-}
-
 .explorer-toolbar {
   display: flex;
   align-items: center;
   gap: 24px;
   padding: 18px 0 14px;
-}
-
-.hero-search .explorer-toolbar {
-  padding-top: 0;
 }
 
 .search-field-wrap {
@@ -1638,13 +1689,15 @@ h1 em {
   .reveal-one,
   .reveal-two,
   .reveal-three,
-  .reveal-four {
+  .reveal-four,
+  .reveal-five {
     animation: reveal-in 700ms cubic-bezier(0.16, 1, 0.3, 1) both;
   }
 
   .reveal-two { animation-delay: 80ms; }
   .reveal-three { animation-delay: 150ms; }
   .reveal-four { animation-delay: 220ms; }
+  .reveal-five { animation-delay: 290ms; }
 }
 
 @keyframes reveal-in {
@@ -1686,25 +1739,12 @@ h1 em {
     padding-top: 74px;
   }
 
-  .hero-copy {
-    order: 1;
-  }
-
-  .hero-search {
-    order: 2;
-  }
-
-  .hero-aside {
-    order: 3;
-    padding-top: 0;
-  }
-
   .hero-index {
     max-width: 460px;
     width: 100%;
   }
 
-  .hero-search-heading {
+  .primary-search-heading {
     grid-template-columns: 1fr;
     gap: 16px;
   }

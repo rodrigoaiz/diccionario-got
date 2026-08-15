@@ -24,6 +24,7 @@ export const relationships: Relationship[] = [
   { source: 'rhaenyra-targaryen', sourceLabel: 'Rhaenyra Targaryen', type: 'pertenece_a', target: 'casa-targaryen', targetLabel: 'Casa Targaryen' },
   { source: 'aegon-targaryen', sourceLabel: 'Aegon Targaryen', type: 'vinculado_a', target: 'casa-targaryen', targetLabel: 'Casa Targaryen' },
   { source: 'casa-stark', sourceLabel: 'Casa Stark', type: 'sede_en', target: 'invernalia', targetLabel: 'Invernalia' },
+  { source: 'casa-baratheon', sourceLabel: 'Casa Baratheon', type: 'sede_en', target: 'bastion-de-tormentas', targetLabel: 'Bastión de Tormentas' },
   { source: 'casa-arryn', sourceLabel: 'Casa Arryn', type: 'sede_en', target: 'nido-de-aguilas', targetLabel: 'Nido de Águilas' },
   { source: 'casa-tyrell', sourceLabel: 'Casa Tyrell', type: 'sede_en', target: 'altojardin', targetLabel: 'Altojardín' },
   { source: 'casa-greyjoy', sourceLabel: 'Casa Greyjoy', type: 'domina', target: 'islas-del-hierro', targetLabel: 'Islas del Hierro' },

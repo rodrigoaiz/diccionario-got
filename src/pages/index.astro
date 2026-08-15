@@ -28,17 +28,6 @@ const featuredEntries = preparedEntries.slice(0, 4);
   <SiteHeader />
 
   <main>
-    <section class="search-bridge shell" aria-label="Acceso rápido al buscador">
-      <a class="hero-cta" href="#diccionario">
-        <span class="hero-cta-mark"><Icon name="arrow-down" size={18} /></span>
-        <span class="hero-cta-copy">
-          <strong>Encuentra tu término</strong>
-          <small>Buscar en español o inglés</small>
-        </span>
-      </a>
-      <span class="search-bridge-label">Consulta rápida <i>·</i> {preparedEntries.length} términos indexados</span>
-    </section>
-
     <section class="hero shell">
       <div class="hero-copy">
         <p class="eyebrow reveal-one">Diccionario español <span><Icon name="arrow-left-right" size={15} /></span> inglés · Juego de Tronos</p>
@@ -53,6 +42,13 @@ const featuredEntries = preparedEntries.slice(0, 4);
       </div>
 
       <aside class="hero-aside" aria-label="Estado del diccionario">
+        <a class="hero-cta" href="#diccionario">
+          <span class="hero-cta-mark"><Icon name="arrow-down" size={18} /></span>
+          <span class="hero-cta-copy">
+            <strong>Encuentra tu término</strong>
+            <small>Buscar en español o inglés</small>
+          </span>
+        </a>
         <div class="hero-index">
           <p class="index-kicker">El diccionario, ahora</p>
           <div class="index-line"><span>Términos indexados</span><strong>{String(preparedEntries.length).padStart(2, '0')}</strong></div>

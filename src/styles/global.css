@@ -322,10 +322,6 @@ input:focus-visible {
   padding-bottom: clamp(72px, 9vw, 120px);
 }
 
-.hero-aside {
-  gap: 24px;
-}
-
 .hero-aside .hero-cta {
   margin: 0;
   justify-self: start;
@@ -393,7 +389,7 @@ h1 em {
 .hero-aside {
   display: grid;
   align-self: center;
-  gap: 42px;
+  gap: 24px;
 }
 
 .faction-picker {
@@ -2270,6 +2266,11 @@ body.search-command-open {
 
   .wordmark-title {
     font-size: 18px;
+    white-space: nowrap;
+  }
+
+  .wordmark-kicker {
+    display: none;
   }
 
   .theme-label {
@@ -2277,7 +2278,7 @@ body.search-command-open {
   }
 
   .header-tools {
-    gap: 8px;
+    gap: 4px;
   }
 
   .header-search-label,
@@ -2294,9 +2295,17 @@ body.search-command-open {
   }
 
   .faction-trigger {
-    min-width: 42px;
-    padding-inline: 6px;
+    width: 36px;
+    min-width: 36px;
+    min-height: 40px;
+    padding: 5px;
     justify-content: center;
+  }
+
+  .faction-trigger-sigil {
+    width: 24px;
+    height: 24px;
+    font-size: 12px;
   }
 
   .faction-trigger-copy {
@@ -2305,6 +2314,20 @@ body.search-command-open {
 
   .faction-trigger-chevron {
     display: none;
+  }
+
+  .header-search {
+    width: 36px;
+    min-height: 40px;
+    padding: 5px;
+    justify-content: center;
+  }
+
+  .theme-toggle {
+    width: 36px;
+    min-height: 40px;
+    padding: 5px;
+    justify-content: center;
   }
 
   h1 {

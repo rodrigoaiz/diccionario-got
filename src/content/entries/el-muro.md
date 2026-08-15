@@ -6,8 +6,8 @@ nameEn: "The Wall"
 type: "Lugar"
 continuity: "Libros · GOT"
 region: "Norte"
-aliases: ["The Wall", "el Muro de hielo"]
-summary: "Gigantesca barrera de hielo que separa el Norte de las tierras más allá y sirve de sede a la Guardia de la Noche."
+aliases: ["The Wall", "el Muro de hielo", "la Muralla de hielo"]
+summary: "No es una muralla común: es una barrera gigantesca de hielo que separa el Norte de las tierras más allá y sirve de sede a la Guardia de la Noche."
 accent: "moss"
 editorialStatus: "revisada"
 mapStatus: "pendiente"
@@ -18,7 +18,7 @@ sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/E
 
 ## Resumen
 
-El Muro se extiende de costa a costa en el extremo norte de Poniente. Además de ser una frontera física, organiza la historia de la Guardia de la Noche y las amenazas que llegan desde más allá.
+El Muro se extiende de costa a costa en el extremo norte de Poniente. Es una fortificación de hielo, no una ciudad ni una casa, y organiza la historia de la Guardia de la Noche y las amenazas que llegan desde más allá.
 
 ## Estado editorial
 

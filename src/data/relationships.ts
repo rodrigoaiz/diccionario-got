@@ -29,6 +29,8 @@ export const relationships: Relationship[] = [
   { source: 'casa-durrandon', sourceLabel: 'Casa Durrandon', type: 'antecesora_de', target: 'casa-baratheon', targetLabel: 'Casa Baratheon' },
   { source: 'casa-arryn', sourceLabel: 'Casa Arryn', type: 'sede_en', target: 'nido-de-aguilas', targetLabel: 'Nido de Águilas' },
   { source: 'casa-tyrell', sourceLabel: 'Casa Tyrell', type: 'sede_en', target: 'altojardin', targetLabel: 'Altojardín' },
+  { source: 'casa-rowan', sourceLabel: 'Casa Rowan', type: 'sede_en', target: 'sotodeoro', targetLabel: 'Sotodeoro' },
+  { source: 'sotodeoro', sourceLabel: 'Sotodeoro', type: 'forma_parte_de', target: 'el-dominio', targetLabel: 'El Dominio' },
   { source: 'casa-greyjoy', sourceLabel: 'Casa Greyjoy', type: 'domina', target: 'islas-del-hierro', targetLabel: 'Islas del Hierro' },
   { source: 'casa-martell', sourceLabel: 'Casa Martell', type: 'gobierna', target: 'dorne', targetLabel: 'Dorne' },
   { source: 'casa-martell', sourceLabel: 'Casa Martell', type: 'sede_en', target: 'lanza-del-sol', targetLabel: 'Lanza del Sol' },

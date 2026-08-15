@@ -2,18 +2,20 @@
 id: "mediawiki-es-7294194"
 slug: "acero-valyrio"
 nameEs: "Acero valyrio"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "Valyrian steel"
+type: "Concepto"
+continuity: "Libros · GOT"
+region: "Valyria"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
-accent: "ochre"
+summary: "Aleación legendaria de Valyria, reconocible por su ligereza, dureza y brillo oscuro; las armas fabricadas con ella conservan un valor excepcional en Poniente."
+accent: "moss"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Acero_valyrio","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Acero_valyrio","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Aleación legendaria de Valyria, reconocible por su ligereza, dureza y brillo oscuro; las armas fabricadas con ella conservan un valor excepcional en Poniente.

@@ -2,18 +2,20 @@
 id: "mediawiki-es-7509019"
 slug: "casa-tarly"
 nameEs: "Casa Tarly"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "House Tarly"
+type: "Casa"
+continuity: "Libros · GOT"
+region: "El Dominio"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Casa militar del Dominio, asentada en Colina Cuerno y conocida por su disciplina, sus ambiciones y sus vínculos con los Tyrell."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Tarly","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Tarly","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Casa militar del Dominio, asentada en Colina Cuerno y conocida por su disciplina, sus ambiciones y sus vínculos con los Tyrell.

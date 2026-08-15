@@ -2,18 +2,20 @@
 id: "mediawiki-es-6821985"
 slug: "casa-connington"
 nameEs: "Casa Connington"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "House Connington"
+type: "Casa"
+continuity: "Libros"
+region: "Tierras de la Tormenta"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Casa noble de las Tierras de la Tormenta, recordada por su antiguo vínculo con la corona y por la trayectoria de Jon Connington."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Connington","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Connington","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Casa noble de las Tierras de la Tormenta, recordada por su antiguo vínculo con la corona y por la trayectoria de Jon Connington.

@@ -9,6 +9,7 @@ const filterOptions: Array<{ label: string; value: 'Todos' | EntryType }> = [
   { label: 'Dragones', value: 'Dragon' },
   { label: 'Eventos', value: 'Evento' },
   { label: 'Organizaciones', value: 'Organizacion' },
+  { label: 'Conceptos', value: 'Concepto' },
   { label: 'Pendientes', value: 'Pendiente' },
 ];
 

@@ -2,18 +2,20 @@
 id: "mediawiki-es-7295179"
 slug: "compania-dorada"
 nameEs: "Compañía Dorada"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "Golden Company"
+type: "Organizacion"
+continuity: "Libros · GOT"
+region: "Essos"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Compañía de mercenarios fundada por exiliados de Poniente, famosa por su disciplina y por la reputación de no romper un contrato."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Dorada","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Dorada","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Compañía de mercenarios fundada por exiliados de Poniente, famosa por su disciplina y por la reputación de no romper un contrato.

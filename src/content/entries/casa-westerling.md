@@ -2,18 +2,20 @@
 id: "mediawiki-es-6943059"
 slug: "casa-westerling"
 nameEs: "Casa Westerling"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "House Westerling"
+type: "Casa"
+continuity: "Libros"
+region: "El Oeste"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Casa noble de las Tierras del Oeste vinculada a Robb Stark por el matrimonio de Jeyne Westerling."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Westerling","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Westerling","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Casa noble de las Tierras del Oeste vinculada a Robb Stark por el matrimonio de Jeyne Westerling.

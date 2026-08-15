@@ -2,18 +2,20 @@
 id: "mediawiki-es-6941511"
 slug: "casa-stokeworth"
 nameEs: "Casa Stokeworth"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "House Stokeworth"
+type: "Casa"
+continuity: "Libros · GOT"
+region: "Tierras de la Corona"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Casa noble próxima a Desembarco del Rey, cuya posición la obliga a navegar las luchas de poder de la capital."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Stokeworth","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Stokeworth","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Casa noble próxima a Desembarco del Rey, cuya posición la obliga a navegar las luchas de poder de la capital.

@@ -2,18 +2,20 @@
 id: "mediawiki-es-6631657"
 slug: "casa-karstark"
 nameEs: "Casa Karstark"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "House Karstark"
+type: "Casa"
+continuity: "Libros · GOT"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Rama poderosa del Norte descendiente de los Stark, cuya lealtad se fractura tras las pérdidas sufridas durante la guerra."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Karstark","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Karstark","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Rama poderosa del Norte descendiente de los Stark, cuya lealtad se fractura tras las pérdidas sufridas durante la guerra.

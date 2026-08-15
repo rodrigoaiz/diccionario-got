@@ -2,18 +2,20 @@
 id: "mediawiki-es-7460337"
 slug: "casa-hornwood"
 nameEs: "Casa Hornwood"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "House Hornwood"
+type: "Casa"
+continuity: "Libros · GOT"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Casa del Norte que queda expuesta a la lucha por la herencia y el control de sus tierras durante la guerra de los Cinco Reyes."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Hornwood","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Hornwood","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Casa del Norte que queda expuesta a la lucha por la herencia y el control de sus tierras durante la guerra de los Cinco Reyes.

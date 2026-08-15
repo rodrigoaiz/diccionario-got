@@ -2,18 +2,20 @@
 id: "mediawiki-es-7292628"
 slug: "hermandad-sin-estandartes"
 nameEs: "Hermandad sin Estandartes"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "Brotherhood Without Banners"
+type: "Organizacion"
+continuity: "Libros · GOT"
+region: "Tierras de los Ríos"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Grupo armado que intenta proteger a la población de los ríos sin jurar lealtad permanente a ninguna corona o gran casa."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Hermandad_sin_Estandartes","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Hermandad_sin_Estandartes","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Grupo armado que intenta proteger a la población de los ríos sin jurar lealtad permanente a ninguna corona o gran casa.

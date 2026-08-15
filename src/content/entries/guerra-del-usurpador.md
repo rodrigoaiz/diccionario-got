@@ -2,18 +2,20 @@
 id: "mediawiki-es-6821252"
 slug: "guerra-del-usurpador"
 nameEs: "Guerra del Usurpador"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "War of the Usurper"
+type: "Evento"
+continuity: "Libros · GOT"
+region: "Poniente"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Nombre que recibe la rebelión encabezada por Robert Baratheon contra Aerys II Targaryen, conflicto que inaugura el orden político de la saga."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Guerra_del_Usurpador","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Guerra_del_Usurpador","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Nombre que recibe la rebelión encabezada por Robert Baratheon contra Aerys II Targaryen, conflicto que inaugura el orden político de la saga.

@@ -2,18 +2,20 @@
 id: "mediawiki-es-6434809"
 slug: "aegon-v-targaryen"
 nameEs: "Aegon V Targaryen"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "Aegon V Targaryen"
+type: "Personaje"
+continuity: "Libros"
+region: "Tierras de la Corona"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Rey Targaryen conocido como Egg durante su juventud, cuyo reinado intenta acercar la corona a la vida cotidiana de los habitantes de Poniente."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Aegon_V_Targaryen","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Aegon_V_Targaryen","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Rey Targaryen conocido como Egg durante su juventud, cuyo reinado intenta acercar la corona a la vida cotidiana de los habitantes de Poniente.

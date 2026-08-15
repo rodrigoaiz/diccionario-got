@@ -2,18 +2,20 @@
 id: "mediawiki-es-6977384"
 slug: "casa-umber"
 nameEs: "Casa Umber"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "House Umber"
+type: "Casa"
+continuity: "Libros · GOT"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Casa guerrera del extremo norte, famosa por su fuerza y por las tensiones internas que atraviesan su lealtad a los Stark."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: "Q5754554"
 sourceCategories: ["Categoría:Wikipedia:Redirecciones asociadas con un elemento de Wikidata"]
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Umber","consulted":"2026-08-15","confidence":"pendiente-de-verificar"},{"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q5754554","consulted":"2026-08-15","confidence":"estructurado"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Umber","consulted":"2026-08-15","confidence":"revisada"},{"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q5754554","consulted":"2026-08-15","confidence":"estructurado"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Casa guerrera del extremo norte, famosa por su fuerza y por las tensiones internas que atraviesan su lealtad a los Stark.

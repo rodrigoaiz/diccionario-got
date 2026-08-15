@@ -2,18 +2,20 @@
 id: "mediawiki-es-8067073"
 slug: "caminantes-blancos"
 nameEs: "Caminantes Blancos"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "White Walkers"
+type: "Organizacion"
+continuity: "Libros · GOT"
+region: "Más Allá del Muro"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Enemigos sobrenaturales del extremo norte, vinculados al frío, la muerte y la amenaza que avanza detrás del Muro."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Caminantes_Blancos","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Caminantes_Blancos","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Enemigos sobrenaturales del extremo norte, vinculados al frío, la muerte y la amenaza que avanza detrás del Muro.

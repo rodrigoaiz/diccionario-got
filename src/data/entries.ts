@@ -1,4 +1,4 @@
-export type EntryType = 'Lugar' | 'Personaje' | 'Casa' | 'Dragon' | 'Evento' | 'Organizacion' | 'Pendiente';
+export type EntryType = 'Lugar' | 'Personaje' | 'Casa' | 'Dragon' | 'Evento' | 'Organizacion' | 'Concepto' | 'Pendiente';
 
 export type DictionaryEntry = {
   slug: string;

@@ -13,6 +13,7 @@
     "review:secondary": "node scripts/import/review-secondary.mjs",
     "seed:priority": "node scripts/import/manual-priority.mjs",
     "promote:characters": "node scripts/import/promote-characters.mjs",
+    "resolve:pending": "node scripts/import/resolve-pending.mjs",
     "import:mediawiki": "node scripts/import/mediawiki-import.mjs"
   },
   "dependencies": {

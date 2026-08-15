@@ -2,18 +2,20 @@
 id: "mediawiki-es-6821087"
 slug: "balon-swann"
 nameEs: "Balon Swann"
-nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+nameEn: "Balon Swann"
+type: "Personaje"
+continuity: "Libros · GOT"
+region: "Tierras de la Corona"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Caballero de la Casa Swann y miembro de la Guardia Real, enviado en misiones delicadas durante la inestabilidad de la corona."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Balon_Swann","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Balon_Swann","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Caballero de la Casa Swann y miembro de la Guardia Real, enviado en misiones delicadas durante la inestabilidad de la corona.

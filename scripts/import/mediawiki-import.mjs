@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 const projectRoot = fileURLToPath(new URL('../..', import.meta.url));
 const apiUrl = process.env.WIKI_API_URL ?? 'https://es.wikipedia.org/w/api.php';
 const category = process.env.WIKI_CATEGORY ?? 'Categoría:Personajes de Canción de hielo y fuego';
+const linksFrom = process.env.WIKI_LINKS_FROM ?? '';
 const requestedTitles = (process.env.WIKI_TITLES ?? '')
   .split(',')
   .map((title) => title.trim())
@@ -12,7 +13,8 @@ const requestedTitles = (process.env.WIKI_TITLES ?? '')
 const importType = process.env.IMPORT_TYPE ?? 'Personaje';
 const importLabel = process.env.IMPORT_LABEL ?? (requestedTitles.length > 0 ? 'lugares' : 'personajes');
 const overwrite = process.env.IMPORT_OVERWRITE === 'true';
-const limit = Math.max(1, Math.min(Number(process.env.IMPORT_LIMIT ?? 10), 50));
+const skipWikidata = process.env.SKIP_WIKIDATA === 'true';
+const limit = Math.max(1, Math.min(Number(process.env.IMPORT_LIMIT ?? 10), 250));
 const sourceSlug = 'wikipedia-es';
 const sourceName = 'Wikipedia en español';
 const wikidataApiUrl = 'https://www.wikidata.org/w/api.php';
@@ -101,43 +103,81 @@ async function fetchCategoryMembers() {
 }
 
 async function fetchTitles(titles) {
-  const url = new URL(apiUrl);
-  url.searchParams.set('action', 'query');
-  url.searchParams.set('titles', titles.slice(0, limit).join('|'));
-  url.searchParams.set('prop', 'info');
-  url.searchParams.set('inprop', 'url');
-  url.searchParams.set('format', 'json');
-  url.searchParams.set('formatversion', '2');
+  const pages = [];
+  for (let index = 0; index < Math.min(titles.length, limit); index += 50) {
+    const url = new URL(apiUrl);
+    url.searchParams.set('action', 'query');
+    url.searchParams.set('titles', titles.slice(index, index + 50).join('|'));
+    url.searchParams.set('prop', 'info');
+    url.searchParams.set('inprop', 'url');
+    url.searchParams.set('format', 'json');
+    url.searchParams.set('formatversion', '2');
 
-  const response = await fetch(url, {
-    headers: { 'User-Agent': 'diccionario-got-import/0.1 (local editorial tool)' },
-  });
-  if (!response.ok) throw new Error(`MediaWiki title API responded with ${response.status}`);
+    const response = await fetch(url, {
+      headers: { 'User-Agent': 'diccionario-got-import/0.1 (local editorial tool)' },
+    });
+    if (!response.ok) throw new Error(`MediaWiki title API responded with ${response.status}`);
 
-  const payload = await response.json();
-  return (payload.query?.pages ?? []).filter((page) => page.ns === 0 && !page.missing);
+    const payload = await response.json();
+    pages.push(...(payload.query?.pages ?? []).filter((page) => page.ns === 0 && !page.missing));
+  }
+  return pages;
+}
+
+async function fetchLinkedTitles(title) {
+  const links = [];
+  let continuation;
+
+  do {
+    const url = new URL(apiUrl);
+    url.searchParams.set('action', 'query');
+    url.searchParams.set('titles', title);
+    url.searchParams.set('prop', 'links');
+    url.searchParams.set('plnamespace', '0');
+    url.searchParams.set('pllimit', 'max');
+    url.searchParams.set('format', 'json');
+    url.searchParams.set('formatversion', '2');
+    if (continuation) url.searchParams.set('plcontinue', continuation);
+
+    const response = await fetch(url, {
+      headers: { 'User-Agent': 'diccionario-got-import/0.1 (local editorial tool)' },
+    });
+    if (!response.ok) throw new Error(`MediaWiki links API responded with ${response.status}`);
+
+    const payload = await response.json();
+    links.push(...(payload.query?.pages?.[0]?.links ?? []).map((link) => link.title));
+    continuation = payload.continue?.plcontinue;
+  } while (links.length < limit && continuation);
+
+  return [...new Set(links)].slice(0, limit);
 }
 
 async function fetchPageMetadata(pages) {
   if (pages.length === 0) return [];
+  const metadata = [];
 
-  const url = new URL(apiUrl);
-  url.searchParams.set('action', 'query');
-  url.searchParams.set('pageids', pages.map((page) => page.pageid).join('|'));
-  url.searchParams.set('prop', 'info|pageprops|langlinks|categories');
-  url.searchParams.set('inprop', 'url');
-  url.searchParams.set('lllang', 'en');
-  url.searchParams.set('cllimit', 'max');
-  url.searchParams.set('format', 'json');
-  url.searchParams.set('formatversion', '2');
+  for (let index = 0; index < pages.length; index += 50) {
+    const chunk = pages.slice(index, index + 50);
+    const url = new URL(apiUrl);
+    url.searchParams.set('action', 'query');
+    url.searchParams.set('pageids', chunk.map((page) => page.pageid).join('|'));
+    url.searchParams.set('prop', 'info|pageprops|langlinks|categories');
+    url.searchParams.set('inprop', 'url');
+    url.searchParams.set('lllang', 'en');
+    url.searchParams.set('cllimit', 'max');
+    url.searchParams.set('format', 'json');
+    url.searchParams.set('formatversion', '2');
 
-  const response = await fetch(url, {
-    headers: { 'User-Agent': 'diccionario-got-import/0.1 (local editorial tool)' },
-  });
-  if (!response.ok) throw new Error(`MediaWiki metadata API responded with ${response.status}`);
+    const response = await fetch(url, {
+      headers: { 'User-Agent': 'diccionario-got-import/0.1 (local editorial tool)' },
+    });
+    if (!response.ok) throw new Error(`MediaWiki metadata API responded with ${response.status}`);
 
-  const payload = await response.json();
-  return payload.query?.pages ?? [];
+    const payload = await response.json();
+    metadata.push(...(payload.query?.pages ?? []));
+  }
+
+  return metadata;
 }
 
 async function searchWikidataId(title) {
@@ -187,6 +227,15 @@ async function fetchWikidataEntities(ids) {
 }
 
 async function enrichWithWikidata(pages) {
+  if (skipWikidata) {
+    return pages.map((page) => ({
+      ...page,
+      wikidataId: page.pageprops?.wikibase_item ?? '',
+      wikidataLabelEn: '',
+      wikidataAliases: [],
+    }));
+  }
+
   const matches = await Promise.all(
     pages.map(async (page) => [page.pageid, page.pageprops?.wikibase_item ?? await searchWikidataId(page.title)]),
   );
@@ -205,14 +254,19 @@ async function enrichWithWikidata(pages) {
   });
 }
 
-const pages = requestedTitles.length > 0 ? await fetchTitles(requestedTitles) : await fetchCategoryMembers();
+const linkedTitles = linksFrom ? await fetchLinkedTitles(linksFrom) : [];
+const pages = requestedTitles.length > 0
+  ? await fetchTitles(requestedTitles)
+  : linkedTitles.length > 0
+    ? await fetchTitles(linkedTitles)
+    : await fetchCategoryMembers();
 const enrichedPages = await enrichWithWikidata(await fetchPageMetadata(pages));
 await mkdir(path.dirname(rawPath), { recursive: true });
 await mkdir(contentPath, { recursive: true });
 
 await writeFile(
   rawPath,
-  `${JSON.stringify({ source: sourceName, api: apiUrl, category, titles: requestedTitles, type: importType, fetchedAt, pages: enrichedPages }, null, 2)}\n`,
+  `${JSON.stringify({ source: sourceName, api: apiUrl, category, linksFrom, titles: requestedTitles, type: importType, fetchedAt, pages: enrichedPages }, null, 2)}\n`,
   'utf8',
 );
 
@@ -230,5 +284,5 @@ for (const page of enrichedPages) {
   imported += 1;
 }
 
-const sourceDescription = requestedTitles.length > 0 ? `${requestedTitles.length} requested titles` : category;
+const sourceDescription = requestedTitles.length > 0 ? `${requestedTitles.length} requested titles` : linksFrom || category;
 console.log(`Imported ${imported} MediaWiki pages with metadata from ${sourceDescription}; skipped ${skipped}`);

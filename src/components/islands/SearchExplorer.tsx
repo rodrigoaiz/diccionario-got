@@ -9,6 +9,7 @@ const filterOptions: Array<{ label: string; value: 'Todos' | EntryType }> = [
   { label: 'Dragones', value: 'Dragon' },
   { label: 'Eventos', value: 'Evento' },
   { label: 'Organizaciones', value: 'Organizacion' },
+  { label: 'Pendientes', value: 'Pendiente' },
 ];
 
 function normalize(value: string) {
@@ -29,11 +30,12 @@ export default function SearchExplorer({ entries }: Props) {
   const normalizedQuery = normalize(query.trim());
 
   const visibleEntries = entries.filter((entry) => {
+    const isVisibleByStatus = entry.type !== 'Pendiente' || activeType === 'Pendiente';
     const matchesType = activeType === 'Todos' || entry.type === activeType;
     const searchableText = normalize(
       [entry.nameEs, entry.nameEn, ...entry.aliases, entry.region, entry.continuity].join(' '),
     );
-    return matchesType && (!normalizedQuery || searchableText.includes(normalizedQuery));
+    return isVisibleByStatus && matchesType && (!normalizedQuery || searchableText.includes(normalizedQuery));
   });
 
   const hasQueryOrFilter = Boolean(normalizedQuery) || activeType !== 'Todos';

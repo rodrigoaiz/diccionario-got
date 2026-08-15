@@ -1,0 +1,774 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Game of Thrones",
+  "titles": [],
+  "type": "Personaje",
+  "fetchedAt": "2026-08-15",
+  "pages": [
+    {
+      "pageid": 4316607,
+      "ns": 0,
+      "title": "Game of Thrones",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:05Z",
+      "lastrevid": 173971692,
+      "length": 253159,
+      "fullurl": "https://es.wikipedia.org/wiki/Game_of_Thrones",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Game_of_Thrones&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Game_of_Thrones",
+      "pageprops": {
+        "wikibase-badge-Q17437796": "",
+        "wikibase_item": "Q23572"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Game of Thrones"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Brujería en cine y televisión"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Dragones en la cultura popular"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Ganadores del Primetime Emmy a la mejor serie dramática"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión con personajes LGBT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de Estados Unidos de los años 2010"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de HBO"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de Home Box Office"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de acción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de alta fantasía"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de aventuras"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de drama"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de fantasía"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de fantasía oscura"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de terror"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión finalizadas en 2019"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión iniciadas en 2011"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión rodadas en España"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión rodadas en Irlanda del Norte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión sobre incesto"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en persa"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en árabe"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en bosnio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en serbio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 16 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin URL y con fecha de acceso"
+        }
+      ],
+      "wikidataId": "Q23572",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4604167,
+      "ns": 0,
+      "title": "David Benioff",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:17Z",
+      "lastrevid": 174477932,
+      "length": 22262,
+      "fullurl": "https://es.wikipedia.org/wiki/David_Benioff",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=David_Benioff&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/David_Benioff",
+      "pageprops": {
+        "defaultsort": "Benioff, David",
+        "page_image_free": "David_Benioff_by_Gage_Skidmore_2.jpg",
+        "wikibase_item": "Q503997"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "David Benioff"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Directores de cine de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Guionistas de cine de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Guionistas de televisión de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Judíos de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1970"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Nueva York"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelistas de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Productores de televisión de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNB"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores DeutscheBiographie"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 20 elementos"
+        }
+      ],
+      "wikidataId": "Q503997",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4645586,
+      "ns": 0,
+      "title": "D. B. Weiss",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:19Z",
+      "lastrevid": 147038243,
+      "length": 4170,
+      "fullurl": "https://es.wikipedia.org/wiki/D._B._Weiss",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=D._B._Weiss&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/D._B._Weiss",
+      "pageprops": {
+        "defaultsort": "Weiss, D B",
+        "page_image_free": "D._B._Weiss_by_Gage_Skidmore_2.jpg",
+        "wikibase_item": "Q1151388"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "D. B. Weiss"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Alumnado de la Universidad Wesleyana"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Alumnado del Trinity College (Dublín)"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Directores de televisión de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Escritores de Estados Unidos del siglo XXI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Guionistas de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Judíos de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1971"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Chicago"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelistas de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Productores de televisión de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Europeana"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Tabakalera"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 19 elementos"
+        }
+      ],
+      "wikidataId": "Q1151388",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 8968071,
+      "ns": 0,
+      "title": "Game of Thrones: Temporada 1 (banda sonora)",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-12T00:12:43Z",
+      "lastrevid": 159039268,
+      "length": 15871,
+      "fullurl": "https://es.wikipedia.org/wiki/Game_of_Thrones:_Temporada_1_(banda_sonora)",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Game_of_Thrones:_Temporada_1_(banda_sonora)&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Game_of_Thrones:_Temporada_1_(banda_sonora)",
+      "pageprops": {
+        "wikibase_item": "Q28134249"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Game of Thrones: Season 1 (soundtrack)"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Bandas sonoras de 2011"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Bandas sonoras de series de televisión"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        }
+      ],
+      "wikidataId": "Q28134249",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 8969040,
+      "ns": 0,
+      "title": "Game of Thrones: Temporada 2 (banda sonora)",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-12T00:12:33Z",
+      "lastrevid": 159039280,
+      "length": 2135,
+      "fullurl": "https://es.wikipedia.org/wiki/Game_of_Thrones:_Temporada_2_(banda_sonora)",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Game_of_Thrones:_Temporada_2_(banda_sonora)&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Game_of_Thrones:_Temporada_2_(banda_sonora)",
+      "pageprops": {
+        "wikibase_item": "Q28134250"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Game of Thrones: Season 2 (soundtrack)"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Bandas sonoras WaterTower Music"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Bandas sonoras de 2012"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Bandas sonoras de series de televisión"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        }
+      ],
+      "wikidataId": "Q28134250",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 9112019,
+      "ns": 0,
+      "title": "Jenny of Oldstones",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:38:55Z",
+      "lastrevid": 161675074,
+      "length": 7366,
+      "fullurl": "https://es.wikipedia.org/wiki/Jenny_of_Oldstones",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Jenny_of_Oldstones&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Jenny_of_Oldstones",
+      "pageprops": {
+        "wikibase_item": "Q63344781"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Jenny of Oldstones"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Canciones de 2019"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Canciones de Florence and the Machine"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sencillos de 2019"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sencillos de Florence and the Machine"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q63344781",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10142383,
+      "ns": 0,
+      "title": "Light of the Seven",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:39:33Z",
+      "lastrevid": 174112104,
+      "length": 8998,
+      "fullurl": "https://es.wikipedia.org/wiki/Light_of_the_Seven",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Light_of_the_Seven&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Light_of_the_Seven",
+      "pageprops": {
+        "wikibase_item": "Q27536513"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Light of the Seven"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Canciones de 2016"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Composiciones de 2016"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q27536513",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10142528,
+      "ns": 0,
+      "title": "The Rains of Castamere (canción)",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:39:33Z",
+      "lastrevid": 156553520,
+      "length": 6713,
+      "fullurl": "https://es.wikipedia.org/wiki/The_Rains_of_Castamere_(canci%C3%B3n)",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=The_Rains_of_Castamere_(canci%C3%B3n)&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/The_Rains_of_Castamere_(canci%C3%B3n)",
+      "pageprops": {
+        "wikibase_item": "Q18463992"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "The Rains of Castamere (song)"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Canciones de 2012"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:The National"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q18463992",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10142567,
+      "ns": 0,
+      "title": "The Bear and the Maiden Fair (canción)",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:39:33Z",
+      "lastrevid": 156555417,
+      "length": 4311,
+      "fullurl": "https://es.wikipedia.org/wiki/The_Bear_and_the_Maiden_Fair_(canci%C3%B3n)",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=The_Bear_and_the_Maiden_Fair_(canci%C3%B3n)&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/The_Bear_and_the_Maiden_Fair_(canci%C3%B3n)",
+      "pageprops": {
+        "defaultsort": "bear maiden fair",
+        "wikibase_item": "Q26869553"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "The Bear and the Maiden Fair (song)"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Canciones de 2013"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Canciones sobre animales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Osos en el arte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sencillos de 2013"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q26869553",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10143097,
+      "ns": 0,
+      "title": "Tema de Juego de Tronos",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:39:33Z",
+      "lastrevid": 163603874,
+      "length": 15659,
+      "fullurl": "https://es.wikipedia.org/wiki/Tema_de_Juego_de_Tronos",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Tema_de_Juego_de_Tronos&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Tema_de_Juego_de_Tronos",
+      "pageprops": {
+        "wikibase_item": "Q27813929"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Game of Thrones Theme"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Canciones de 2011"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sencillos de 2011"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Temas musicales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q27813929",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    }
+  ]
+}

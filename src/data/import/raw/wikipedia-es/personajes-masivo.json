@@ -1,0 +1,2332 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "titles": [],
+  "type": "Personaje",
+  "fetchedAt": "2026-08-15",
+  "pages": [
+    {
+      "pageid": 726365,
+      "ns": 0,
+      "title": "Eddard Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:12:08Z",
+      "lastrevid": 173505162,
+      "length": 23077,
+      "fullurl": "https://es.wikipedia.org/wiki/Eddard_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Eddard_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Eddard_Stark",
+      "pageprops": {
+        "defaultsort": "Stark, Eddard",
+        "wikibase_item": "Q259818"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Ned Stark"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q259818",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726367,
+      "ns": 0,
+      "title": "Arya Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 174390175,
+      "length": 26217,
+      "fullurl": "https://es.wikipedia.org/wiki/Arya_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Arya_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Arya_Stark",
+      "pageprops": {
+        "defaultsort": "Stark, Arya",
+        "page_image_free": "Arya_Stark_in_MultiVersus_3.png",
+        "wikibase_item": "Q3624677"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Arya Stark"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Huérfanos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Héroes de ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mary Sues en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nobles ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Princesas ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sicarias ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Travestis ficticios"
+        }
+      ],
+      "wikidataId": "Q3624677",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726368,
+      "ns": 0,
+      "title": "Bran Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 146707653,
+      "length": 14382,
+      "fullurl": "https://es.wikipedia.org/wiki/Bran_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Bran_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Bran_Stark",
+      "pageprops": {
+        "defaultsort": "Stark, Bran",
+        "page_image_free": "Isaac_Hempstead-Wright_(November_2011)_(headshot).jpg",
+        "wikibase_item": "Q3643599"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Bran Stark"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Huérfanos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ],
+      "wikidataId": "Q3643599",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726370,
+      "ns": 0,
+      "title": "Robb Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 171943832,
+      "length": 19773,
+      "fullurl": "https://es.wikipedia.org/wiki/Robb_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Robb_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Robb_Stark",
+      "pageprops": {
+        "defaultsort": "Stark, Robb",
+        "wikibase_item": "Q13634884"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Robb Stark"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Generales ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ],
+      "wikidataId": "Q13634884",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726374,
+      "ns": 0,
+      "title": "Jon Nieve",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 174712897,
+      "length": 47653,
+      "fullurl": "https://es.wikipedia.org/wiki/Jon_Nieve",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Jon_Nieve&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Jon_Nieve",
+      "pageprops": {
+        "defaultsort": "Nieve, Jon",
+        "page_image_free": "Jon_Snow_and_Ghost.jpg",
+        "wikibase_item": "Q3183235"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Jon Snow (character)"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Huérfanos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Héroes de ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en húngaro"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en árabe"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con texto en inglés"
+        }
+      ],
+      "wikidataId": "Q3183235",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726380,
+      "ns": 0,
+      "title": "Sansa Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 172054494,
+      "length": 31664,
+      "fullurl": "https://es.wikipedia.org/wiki/Sansa_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Sansa_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Sansa_Stark",
+      "pageprops": {
+        "defaultsort": "Stark, Sansa",
+        "page_image_free": "LBCC_2014_-_Game_of_Thrones_(15383053186).jpg",
+        "wikibase_item": "Q3472490"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Sansa Stark"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reinas ficticias"
+        }
+      ],
+      "wikidataId": "Q3472490",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726383,
+      "ns": 0,
+      "title": "Lyanna Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 165736080,
+      "length": 11354,
+      "fullurl": "https://es.wikipedia.org/wiki/Lyanna_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Lyanna_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Lyanna_Stark",
+      "pageprops": {
+        "defaultsort": "Stark, Lyanna",
+        "page_image_free": "Lyanna_Stark.png",
+        "wikibase_item": "Q23759071"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q23759071",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 731990,
+      "ns": 0,
+      "title": "Viserys Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 171560789,
+      "length": 10986,
+      "fullurl": "https://es.wikipedia.org/wiki/Viserys_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Viserys_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Viserys_Targaryen",
+      "pageprops": {
+        "defaultsort": "Targaryen, Viserys",
+        "wikibase_item": "Q12902594"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Viserys III Targaryen"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Huérfanos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Príncipes ficticios"
+        }
+      ],
+      "wikidataId": "Q12902594",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 732007,
+      "ns": 0,
+      "title": "Rhaegar Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 171194342,
+      "length": 11953,
+      "fullurl": "https://es.wikipedia.org/wiki/Rhaegar_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Rhaegar_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Rhaegar_Targaryen",
+      "pageprops": {
+        "defaultsort": "Targaryen, Rhaegar",
+        "wikibase_item": "Q20818052"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Príncipes ficticios"
+        }
+      ],
+      "wikidataId": "Q20818052",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 732644,
+      "ns": 0,
+      "title": "Daenerys Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 172811915,
+      "length": 67028,
+      "fullurl": "https://es.wikipedia.org/wiki/Daenerys_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Daenerys_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Daenerys_Targaryen",
+      "pageprops": {
+        "defaultsort": "Targaryen, Daenerys",
+        "page_image_free": "Daenerys.jpg",
+        "wikibase_item": "Q2708078"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Daenerys Targaryen"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Dictadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Huérfanos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mary Sues en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes ficticios víctimas de violación"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Princesas ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reinas ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        }
+      ],
+      "wikidataId": "Q2708078",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 924018,
+      "ns": 0,
+      "title": "Gregor Clegane",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:24Z",
+      "lastrevid": 166583319,
+      "length": 10450,
+      "fullurl": "https://es.wikipedia.org/wiki/Gregor_Clegane",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Gregor_Clegane&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Gregor_Clegane",
+      "pageprops": {
+        "defaultsort": "Clegane, Gregor",
+        "wikibase_item": "Q26899515"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Gregor Clegane"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Guardaespaldas ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Torturadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Violadores ficticios"
+        }
+      ],
+      "wikidataId": "Q26899515",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 928213,
+      "ns": 0,
+      "title": "Davos Seaworth",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 172518358,
+      "length": 12095,
+      "fullurl": "https://es.wikipedia.org/wiki/Davos_Seaworth",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Davos_Seaworth&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Davos_Seaworth",
+      "pageprops": {
+        "defaultsort": "Seaworth, Davos",
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Seaworth.gif",
+        "wikibase_item": "Q5800500"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Davos Seaworth"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q5800500",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 929744,
+      "ns": 0,
+      "title": "Theon Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 167917520,
+      "length": 24763,
+      "fullurl": "https://es.wikipedia.org/wiki/Theon_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Theon_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Theon_Greyjoy",
+      "pageprops": {
+        "defaultsort": "Greyjoy, Theon",
+        "wikibase_item": "Q1120793"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos de niños en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Castrados"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Esclavos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Príncipes ficticios"
+        }
+      ],
+      "wikidataId": "Q1120793",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 929819,
+      "ns": 0,
+      "title": "Stannis Baratheon",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 173830186,
+      "length": 20644,
+      "fullurl": "https://es.wikipedia.org/wiki/Stannis_Baratheon",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Stannis_Baratheon&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Stannis_Baratheon",
+      "pageprops": {
+        "defaultsort": "Baratheon, Stannis",
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Stannis_Baratheon_pixellated.jpg",
+        "wikibase_item": "Q12056060"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Militares ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Realeza ficticia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q12056060",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 932060,
+      "ns": 0,
+      "title": "Robert Baratheon",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 173505157,
+      "length": 16889,
+      "fullurl": "https://es.wikipedia.org/wiki/Robert_Baratheon",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Robert_Baratheon&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Robert_Baratheon",
+      "pageprops": {
+        "defaultsort": "Baratheon, Robert",
+        "page_image_free": "Dragon_Con_2014_-_King_Robert_(15635317062).jpg",
+        "wikibase_item": "Q13634885"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Cazadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Fallecidos por accidentes de caza"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Fallecidos por ataques de jabalíes"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Violadores ficticios"
+        }
+      ],
+      "wikidataId": "Q13634885",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 935604,
+      "ns": 0,
+      "title": "Tyrion Lannister",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 173633830,
+      "length": 29088,
+      "fullurl": "https://es.wikipedia.org/wiki/Tyrion_Lannister",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Tyrion_Lannister&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Tyrion_Lannister",
+      "pageprops": {
+        "defaultsort": "Lannister, Tyrion",
+        "wikibase_item": "Q2076759"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Alcohólicos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Esclavos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nobles ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en árabe"
+        }
+      ],
+      "wikidataId": "Q2076759",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 936050,
+      "ns": 0,
+      "title": "Renly Baratheon",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 167918680,
+      "length": 14474,
+      "fullurl": "https://es.wikipedia.org/wiki/Renly_Baratheon",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Renly_Baratheon&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Renly_Baratheon",
+      "pageprops": {
+        "defaultsort": "Baratheon, Renly",
+        "wikibase_item": "Q18920105"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres gay ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Realeza ficticia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ],
+      "wikidataId": "Q18920105",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 936059,
+      "ns": 0,
+      "title": "Asha Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 173496402,
+      "length": 16746,
+      "fullurl": "https://es.wikipedia.org/wiki/Asha_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Asha_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Asha_Greyjoy",
+      "pageprops": {
+        "defaultsort": "Greyjoy, Asha",
+        "wikibase_item": "Q19799441"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q19799441",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 936061,
+      "ns": 0,
+      "title": "Victarion Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:26:20Z",
+      "lastrevid": 138036064,
+      "length": 8763,
+      "fullurl": "https://es.wikipedia.org/wiki/Victarion_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Victarion_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Victarion_Greyjoy",
+      "pageprops": {
+        "defaultsort": "Greyjoy, Victarion",
+        "wikibase_item": "Q20190268"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q20190268",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 936063,
+      "ns": 0,
+      "title": "Aeron Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 120022924,
+      "length": 5148,
+      "fullurl": "https://es.wikipedia.org/wiki/Aeron_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aeron_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aeron_Greyjoy",
+      "pageprops": {
+        "defaultsort": "Greyjoy, Aeron",
+        "wikibase_item": "Q21074994"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sacerdotes ficticios"
+        }
+      ],
+      "wikidataId": "Q21074994",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 937060,
+      "ns": 0,
+      "title": "Joffrey Baratheon",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 163637432,
+      "length": 21904,
+      "fullurl": "https://es.wikipedia.org/wiki/Joffrey_Baratheon",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Joffrey_Baratheon&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Joffrey_Baratheon",
+      "pageprops": {
+        "defaultsort": "Baratheon, Joffrey",
+        "page_image_free": "Joffrey_Baratheon_Flag.png",
+        "wikibase_item": "Q12900597"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Narcisismo en la cultura"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Príncipes ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Psicópatas ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ],
+      "wikidataId": "Q12900597",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 938501,
+      "ns": 0,
+      "title": "Jaime Lannister",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 161675237,
+      "length": 41195,
+      "fullurl": "https://es.wikipedia.org/wiki/Jaime_Lannister",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Jaime_Lannister&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Jaime_Lannister",
+      "pageprops": {
+        "defaultsort": "Lannister, Jaime",
+        "page_image_free": "New_York_Comic_Con_2015_-_Lannister_vs_Sons_of_the_Harpy_(21858555090).jpg",
+        "wikibase_item": "Q3806180"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Gemelos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q3806180",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 938550,
+      "ns": 0,
+      "title": "Melisandre",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 174522227,
+      "length": 8468,
+      "fullurl": "https://es.wikipedia.org/wiki/Melisandre",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Melisandre&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Melisandre",
+      "pageprops": {
+        "wikibase_item": "Q6009607"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Brujos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Ilusionistas ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes que pueden manipular la oscuridad o las sombras"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Religiosos ficticios"
+        }
+      ],
+      "wikidataId": "Q6009607",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 941408,
+      "ns": 0,
+      "title": "Petyr Baelish",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 167009865,
+      "length": 13329,
+      "fullurl": "https://es.wikipedia.org/wiki/Petyr_Baelish",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Petyr_Baelish&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Petyr_Baelish",
+      "pageprops": {
+        "defaultsort": "Baelish, Petyr",
+        "wikibase_item": "Q4360302"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Agentes secretos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q4360302",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 941470,
+      "ns": 0,
+      "title": "Roose Bolton",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 171350653,
+      "length": 16114,
+      "fullurl": "https://es.wikipedia.org/wiki/Roose_Bolton",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Roose_Bolton&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Roose_Bolton",
+      "pageprops": {
+        "defaultsort": "Bolton, Roose",
+        "wikibase_item": "Q19799430"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Psicópatas ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Torturadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Violadores ficticios"
+        }
+      ],
+      "wikidataId": "Q19799430",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 956689,
+      "ns": 0,
+      "title": "Euron Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:26Z",
+      "lastrevid": 161675168,
+      "length": 12852,
+      "fullurl": "https://es.wikipedia.org/wiki/Euron_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Euron_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Euron_Greyjoy",
+      "pageprops": {
+        "defaultsort": "Greyjoy, Euron",
+        "wikibase_item": "Q38137598"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Piratas ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias adicionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q38137598",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 957710,
+      "ns": 0,
+      "title": "Tywin Lannister",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:26Z",
+      "lastrevid": 158418825,
+      "length": 22276,
+      "fullurl": "https://es.wikipedia.org/wiki/Tywin_Lannister",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Tywin_Lannister&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Tywin_Lannister",
+      "pageprops": {
+        "defaultsort": "Lannister, Tywin",
+        "wikibase_item": "Q12902445"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Generales ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Millonarios ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de ficción abusadores de menores"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q12902445",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 967688,
+      "ns": 0,
+      "title": "Brienne de Tarth",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:26Z",
+      "lastrevid": 172817609,
+      "length": 15280,
+      "fullurl": "https://es.wikipedia.org/wiki/Brienne_de_Tarth",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Brienne_de_Tarth&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Brienne_de_Tarth",
+      "pageprops": {
+        "defaultsort": "Tarth, Brienne",
+        "page_image_free": "2015_C2E2_Cosplay_-_Brienne_of_Tarth_(16766397373)_(cropped).jpg",
+        "wikibase_item": "Q11680307"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres guerreras ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q11680307",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 972689,
+      "ns": 0,
+      "title": "Sandor Clegane",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:26Z",
+      "lastrevid": 170962385,
+      "length": 9804,
+      "fullurl": "https://es.wikipedia.org/wiki/Sandor_Clegane",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Sandor_Clegane&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Sandor_Clegane",
+      "pageprops": {
+        "defaultsort": "Clegane, Sandor",
+        "wikibase_item": "Q3948140"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Guardaespaldas ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q3948140",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 981258,
+      "ns": 0,
+      "title": "Samwell Tarly",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:26Z",
+      "lastrevid": 134568665,
+      "length": 9341,
+      "fullurl": "https://es.wikipedia.org/wiki/Samwell_Tarly",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Samwell_Tarly&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Samwell_Tarly",
+      "pageprops": {
+        "defaultsort": "Tarly, Samwell",
+        "wikibase_item": "Q11703515"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q11703515",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1003379,
+      "ns": 0,
+      "title": "Cersei Lannister",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:27Z",
+      "lastrevid": 170943190,
+      "length": 56169,
+      "fullurl": "https://es.wikipedia.org/wiki/Cersei_Lannister",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Cersei_Lannister&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Cersei_Lannister",
+      "pageprops": {
+        "defaultsort": "Lannister, Cersei",
+        "page_image_free": "IgroMir_2017_003.jpg",
+        "wikibase_item": "Q3665163"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos de niños en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Gemelos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de ficción abusadores de menores"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reinas ficticias"
+        }
+      ],
+      "wikidataId": "Q3665163",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1660070,
+      "ns": 0,
+      "title": "Tommen Baratheon",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:55Z",
+      "lastrevid": 174081342,
+      "length": 12294,
+      "fullurl": "https://es.wikipedia.org/wiki/Tommen_Baratheon",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Tommen_Baratheon&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Tommen_Baratheon",
+      "pageprops": {
+        "defaultsort": "Baratheon, Tommen",
+        "wikibase_item": "Q19792294"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Príncipes ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ],
+      "wikidataId": "Q19792294",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4629405,
+      "ns": 0,
+      "title": "Jorah Mormont",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:18Z",
+      "lastrevid": 171560776,
+      "length": 21184,
+      "fullurl": "https://es.wikipedia.org/wiki/Jorah_Mormont",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Jorah_Mormont&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Jorah_Mormont",
+      "pageprops": {
+        "defaultsort": "Mormont, Jorah",
+        "page_image_free": "Ian_glen.JPG",
+        "wikibase_item": "Q3810007"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Agentes dobles ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Esclavos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Gladiadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q3810007",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4724478,
+      "ns": 0,
+      "title": "Barristan Selmy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:38:24Z",
+      "lastrevid": 131115566,
+      "length": 13000,
+      "fullurl": "https://es.wikipedia.org/wiki/Barristan_Selmy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Barristan_Selmy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Barristan_Selmy",
+      "pageprops": {
+        "defaultsort": "Selmy, Barristan",
+        "wikibase_item": "Q5721186"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q5721186",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5150587,
+      "ns": 0,
+      "title": "Jeor Mormont",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T15:33:08Z",
+      "lastrevid": 174846922,
+      "length": 14786,
+      "fullurl": "https://es.wikipedia.org/wiki/Jeor_Mormont",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Jeor_Mormont&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Jeor_Mormont",
+      "pageprops": {
+        "defaultsort": "Mormont, Jeor",
+        "wikibase_item": "Q12900593"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q12900593",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6235731,
+      "ns": 0,
+      "title": "Oberyn Martell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:49:03Z",
+      "lastrevid": 161672408,
+      "length": 8598,
+      "fullurl": "https://es.wikipedia.org/wiki/Oberyn_Martell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Oberyn_Martell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Oberyn_Martell",
+      "pageprops": {
+        "defaultsort": "Martell, Oberyn",
+        "page_image_free": "Pedro_Pascal_SDCC_2014.jpg",
+        "wikibase_item": "Q19359499"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres bisexuales ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Poliamorosos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Príncipes ficticios"
+        }
+      ],
+      "wikidataId": "Q19359499",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6262986,
+      "ns": 0,
+      "title": "Ramsay Nieve",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:24Z",
+      "lastrevid": 169659363,
+      "length": 21253,
+      "fullurl": "https://es.wikipedia.org/wiki/Ramsay_Nieve",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Ramsay_Nieve&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Ramsay_Nieve",
+      "pageprops": {
+        "defaultsort": "Nieve, Ramsay",
+        "wikibase_item": "Q19796006"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en serie ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Torturadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Violadores ficticios"
+        }
+      ],
+      "wikidataId": "Q19796006",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6396358,
+      "ns": 0,
+      "title": "Shae",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T18:15:34Z",
+      "lastrevid": 140354781,
+      "length": 6677,
+      "fullurl": "https://es.wikipedia.org/wiki/Shae",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Shae&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Shae",
+      "pageprops": {
+        "wikibase_item": "Q12902104"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Cortesanas ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Prostitutas ficticias"
+        }
+      ],
+      "wikidataId": "Q12902104",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6415490,
+      "ns": 0,
+      "title": "Rhaenyra Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:30Z",
+      "lastrevid": 174375097,
+      "length": 13340,
+      "fullurl": "https://es.wikipedia.org/wiki/Rhaenyra_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Rhaenyra_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Rhaenyra_Targaryen",
+      "pageprops": {
+        "defaultsort": "Targaryen, Rhaenyra",
+        "wikibase_item": "Q55452801"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reinas ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q55452801",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6415495,
+      "ns": 0,
+      "title": "Arianne Martell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:25:37Z",
+      "lastrevid": 166743501,
+      "length": 7035,
+      "fullurl": "https://es.wikipedia.org/wiki/Arianne_Martell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Arianne_Martell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Arianne_Martell",
+      "pageprops": {
+        "defaultsort": "Martell, Arianne",
+        "wikibase_item": "Q21006944"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q21006944",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6433118,
+      "ns": 0,
+      "title": "Aerys II Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:30Z",
+      "lastrevid": 172811906,
+      "length": 12387,
+      "fullurl": "https://es.wikipedia.org/wiki/Aerys_II_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aerys_II_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aerys_II_Targaryen",
+      "pageprops": {
+        "defaultsort": "Targaryen, Aerys II",
+        "wikibase_item": "Q18920152"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ],
+      "wikidataId": "Q18920152",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6600208,
+      "ns": 0,
+      "title": "Ellaria Arena",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:34Z",
+      "lastrevid": 169336300,
+      "length": 7673,
+      "fullurl": "https://es.wikipedia.org/wiki/Ellaria_Arena",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Ellaria_Arena&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Ellaria_Arena",
+      "pageprops": {
+        "defaultsort": "Arena, Ellaria",
+        "wikibase_item": "Q24933002"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos de niños en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres bisexuales ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nobles ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Poliamorosos ficticios"
+        }
+      ],
+      "wikidataId": "Q24933002",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6609038,
+      "ns": 0,
+      "title": "Mance Rayder",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:34Z",
+      "lastrevid": 161672893,
+      "length": 6001,
+      "fullurl": "https://es.wikipedia.org/wiki/Mance_Rayder",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Mance_Rayder&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Mance_Rayder",
+      "pageprops": {
+        "wikibase_item": "Q5991029"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q5991029",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6619182,
+      "ns": 0,
+      "title": "Khal Drogo",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:34Z",
+      "lastrevid": 162807889,
+      "length": 8865,
+      "fullurl": "https://es.wikipedia.org/wiki/Khal_Drogo",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Khal_Drogo&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Khal_Drogo",
+      "pageprops": {
+        "defaultsort": "Drogo, Khal",
+        "wikibase_item": "Q5959381"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Eutanasia en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Gladiadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q5959381",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6906696,
+      "ns": 0,
+      "title": "Daario Naharis",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:49:16Z",
+      "lastrevid": 161674460,
+      "length": 11471,
+      "fullurl": "https://es.wikipedia.org/wiki/Daario_Naharis",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Daario_Naharis&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Daario_Naharis",
+      "pageprops": {
+        "defaultsort": "Naharis, Daario",
+        "wikibase_item": "Q22254472"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Esclavos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Gladiadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mercenarios ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias adicionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q22254472",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6908461,
+      "ns": 0,
+      "title": "Gorrión Supremo",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:37Z",
+      "lastrevid": 174477912,
+      "length": 10169,
+      "fullurl": "https://es.wikipedia.org/wiki/Gorri%C3%B3n_Supremo",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Gorri%C3%B3n_Supremo&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Gorri%C3%B3n_Supremo",
+      "pageprops": {
+        "wikibase_item": "Q27031110"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes ficticios sin nombre"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sacerdotes ficticios"
+        }
+      ],
+      "wikidataId": "Q27031110",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6930355,
+      "ns": 0,
+      "title": "Bronn",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:38Z",
+      "lastrevid": 161675245,
+      "length": 15195,
+      "fullurl": "https://es.wikipedia.org/wiki/Bronn",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Bronn&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Bronn",
+      "pageprops": {
+        "wikibase_item": "Q12899075"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mercenarios ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sicarios ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q12899075",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6941513,
+      "ns": 0,
+      "title": "Missandei",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T18:13:48Z",
+      "lastrevid": 161671876,
+      "length": 10468,
+      "fullurl": "https://es.wikipedia.org/wiki/Missandei",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Missandei&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Missandei",
+      "pageprops": {
+        "wikibase_item": "Q24951568"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Esclavos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q24951568",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 8067069,
+      "ns": 0,
+      "title": "Caminante Blanco",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:38:10Z",
+      "lastrevid": 166583335,
+      "length": 14982,
+      "fullurl": "https://es.wikipedia.org/wiki/Caminante_Blanco",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Caminante_Blanco&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Caminante_Blanco",
+      "pageprops": {
+        "wikibase_item": "Q23807848"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Demonios ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Humanoides ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes con habilidades de hielo o frío"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes ficticios"
+        }
+      ],
+      "wikidataId": "Q23807848",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 8929475,
+      "ns": 0,
+      "title": "Aegon I Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:38:51Z",
+      "lastrevid": 171623478,
+      "length": 15843,
+      "fullurl": "https://es.wikipedia.org/wiki/Aegon_I_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aegon_I_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aegon_I_Targaryen",
+      "pageprops": {
+        "defaultsort": "Targaryen, Aegon",
+        "wikibase_item": "Q47616729"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Conquistadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ],
+      "wikidataId": "Q47616729",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 936055,
+      "ns": 0,
+      "title": "Catelyn Tully",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 173159937,
+      "length": 11890,
+      "fullurl": "https://es.wikipedia.org/wiki/Catelyn_Tully",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Catelyn_Tully&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Catelyn_Tully",
+      "pageprops": {
+        "defaultsort": "Tully, Catelyn",
+        "wikibase_item": "Q2941743"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Catelyn Stark"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q2941743",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 936066,
+      "ns": 0,
+      "title": "Loras Tyrell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 161674437,
+      "length": 6395,
+      "fullurl": "https://es.wikipedia.org/wiki/Loras_Tyrell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Loras_Tyrell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Loras_Tyrell",
+      "pageprops": {
+        "defaultsort": "Tyrell, Loras",
+        "wikibase_item": "Q18920137"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q18920137",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1859529,
+      "ns": 0,
+      "title": "Varys",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T18:01:17Z",
+      "lastrevid": 165439371,
+      "length": 10006,
+      "fullurl": "https://es.wikipedia.org/wiki/Varys",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Varys&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Varys",
+      "pageprops": {
+        "page_image_free": "Dragon_Con_2013_Parade_-_Game_of_Thrones_(9678352411)_(cropped).jpg",
+        "wikibase_item": "Q4008842"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Varys"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asexuales ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Esclavos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Políticos ficticios"
+        }
+      ],
+      "wikidataId": "Q4008842",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4758493,
+      "ns": 0,
+      "title": "Margaery Tyrell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:30Z",
+      "lastrevid": 170273855,
+      "length": 14325,
+      "fullurl": "https://es.wikipedia.org/wiki/Margaery_Tyrell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Margaery_Tyrell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Margaery_Tyrell",
+      "pageprops": {
+        "defaultsort": "Tyrell, Margaery",
+        "page_image_free": "Cosplay_Show_(20)_на_Geek_Picnic_2018_SPb.jpg",
+        "wikibase_item": "Q12900933"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Margaery Tyrell"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reinas ficticias"
+        }
+      ],
+      "wikidataId": "Q12900933",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5326742,
+      "ns": 0,
+      "title": "Olenna Tyrell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:57Z",
+      "lastrevid": 173772236,
+      "length": 13403,
+      "fullurl": "https://es.wikipedia.org/wiki/Olenna_Tyrell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Olenna_Tyrell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Olenna_Tyrell",
+      "pageprops": {
+        "defaultsort": "Tyrell, Olenna",
+        "wikibase_item": "Q23748587"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Olenna Tyrell"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q23748587",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 8926317,
+      "ns": 0,
+      "title": "Tormund",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:38:51Z",
+      "lastrevid": 171939475,
+      "length": 12277,
+      "fullurl": "https://es.wikipedia.org/wiki/Tormund",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Tormund&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Tormund",
+      "pageprops": {
+        "wikibase_item": "Q24944284"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Tormund Giantsbane"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q24944284",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    }
+  ]
+}

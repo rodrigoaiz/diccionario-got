@@ -1,0 +1,5399 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "linksFrom": "Anexo:Personajes de Canción de hielo y fuego",
+  "titles": [],
+  "type": "Pendiente",
+  "fetchedAt": "2026-08-15",
+  "pages": [
+    {
+      "pageid": 216883,
+      "ns": 0,
+      "title": "Choque de reyes",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:33:55Z",
+      "lastrevid": 174480480,
+      "length": 20111,
+      "fullurl": "https://es.wikipedia.org/wiki/Choque_de_reyes",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Choque_de_reyes&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Choque_de_reyes",
+      "pageprops": {
+        "wikibase_item": "Q300370"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "A Clash of Kings"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Libros de 1998"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Libros de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas adaptadas a la televisión"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas de 1998"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas de George R. R. Martin"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas fantásticas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        }
+      ],
+      "wikidataId": "Q300370",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 226741,
+      "ns": 0,
+      "title": "Canción de hielo y fuego",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:33:56Z",
+      "lastrevid": 172154321,
+      "length": 107929,
+      "fullurl": "https://es.wikipedia.org/wiki/Canci%C3%B3n_de_hielo_y_fuego",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Canci%C3%B3n_de_hielo_y_fuego&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Canci%C3%B3n_de_hielo_y_fuego",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire.svg",
+        "wikibase_item": "Q45875"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "A Song of Ice and Fire"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Brujería en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Dragones en la cultura popular"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Fantasía heroica"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Fratricidio en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Incesto en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Literatura sobre la muerte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Magia en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Muertos vivientes en la cultura popular"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas adaptadas a la televisión"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Obras sobre política"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Religión en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de novelas fantásticas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en hebreo"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en serbio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias que requieren suscripción"
+        }
+      ],
+      "wikidataId": "Q45875",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 724951,
+      "ns": 0,
+      "title": "Casa Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-24T21:23:28Z",
+      "lastrevid": 171392979,
+      "length": 25543,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Stark",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Stark_running_direwolf_white_scroll.png",
+        "wikibase_item": "Q2704863"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q2704863",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726367,
+      "ns": 0,
+      "title": "Arya Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 174390175,
+      "length": 26217,
+      "fullurl": "https://es.wikipedia.org/wiki/Arya_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Arya_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Arya_Stark",
+      "pageprops": {
+        "defaultsort": "Stark, Arya",
+        "page_image_free": "Arya_Stark_in_MultiVersus_3.png",
+        "wikibase_item": "Q3624677"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Arya Stark"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Huérfanos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Héroes de ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mary Sues en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nobles ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Princesas ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sicarias ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Travestis ficticios"
+        }
+      ],
+      "wikidataId": "Q3624677",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726368,
+      "ns": 0,
+      "title": "Bran Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 146707653,
+      "length": 14382,
+      "fullurl": "https://es.wikipedia.org/wiki/Bran_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Bran_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Bran_Stark",
+      "pageprops": {
+        "defaultsort": "Stark, Bran",
+        "page_image_free": "Isaac_Hempstead-Wright_(November_2011)_(headshot).jpg",
+        "wikibase_item": "Q3643599"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Bran Stark"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Huérfanos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ],
+      "wikidataId": "Q3643599",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726369,
+      "ns": 0,
+      "title": "Benjen Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-08T06:59:48Z",
+      "lastrevid": 88035640,
+      "length": 37,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Benjen_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Benjen_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Benjen_Stark",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726425,
+      "ns": 0,
+      "title": "Casa Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-05T17:30:29Z",
+      "lastrevid": 174711470,
+      "length": 64695,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Targaryen",
+      "pageprops": {
+        "page_image_free": "House_Targaryen.png",
+        "wikibase_item": "Q2341521"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q2341521",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 731995,
+      "ns": 0,
+      "title": "Aemon Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-05T17:30:31Z",
+      "lastrevid": 61749964,
+      "length": 46,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Aemon_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aemon_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aemon_Targaryen",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 732644,
+      "ns": 0,
+      "title": "Daenerys Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:18Z",
+      "lastrevid": 172811915,
+      "length": 67028,
+      "fullurl": "https://es.wikipedia.org/wiki/Daenerys_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Daenerys_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Daenerys_Targaryen",
+      "pageprops": {
+        "defaultsort": "Targaryen, Daenerys",
+        "page_image_free": "Daenerys.jpg",
+        "wikibase_item": "Q2708078"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Daenerys Targaryen"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Dictadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Huérfanos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mary Sues en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes ficticios víctimas de violación"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Princesas ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reinas ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        }
+      ],
+      "wikidataId": "Q2708078",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 906791,
+      "ns": 0,
+      "title": "Batalla del Aguasnegras",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:24Z",
+      "lastrevid": 171867341,
+      "length": 11314,
+      "fullurl": "https://es.wikipedia.org/wiki/Batalla_del_Aguasnegras",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Batalla_del_Aguasnegras&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Batalla_del_Aguasnegras",
+      "pageprops": {
+        "wikibase_item": "Q5723287"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Batallas de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos sin coordenadas"
+        }
+      ],
+      "wikidataId": "Q5723287",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 930845,
+      "ns": 0,
+      "title": "Adarve",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-24T18:47:52Z",
+      "lastrevid": 173772998,
+      "length": 4221,
+      "fullurl": "https://es.wikipedia.org/wiki/Adarve",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Adarve&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Adarve",
+      "pageprops": {
+        "page_image_free": "Forteresse_Coca_101.jpg",
+        "wikibase_item": "Q299232"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Chemin de ronde"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Arabismos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Términos de arquitectura militar"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin URL y con fecha de acceso"
+        }
+      ],
+      "wikidataId": "Q299232",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 936058,
+      "ns": 0,
+      "title": "Balon Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:29:56Z",
+      "lastrevid": 100389623,
+      "length": 39,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Balon_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Balon_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Balon_Greyjoy",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 936059,
+      "ns": 0,
+      "title": "Asha Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 173496402,
+      "length": 16746,
+      "fullurl": "https://es.wikipedia.org/wiki/Asha_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Asha_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Asha_Greyjoy",
+      "pageprops": {
+        "defaultsort": "Greyjoy, Asha",
+        "wikibase_item": "Q19799441"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q19799441",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 936063,
+      "ns": 0,
+      "title": "Aeron Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 120022924,
+      "length": 5148,
+      "fullurl": "https://es.wikipedia.org/wiki/Aeron_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aeron_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aeron_Greyjoy",
+      "pageprops": {
+        "defaultsort": "Greyjoy, Aeron",
+        "wikibase_item": "Q21074994"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sacerdotes ficticios"
+        }
+      ],
+      "wikidataId": "Q21074994",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 938369,
+      "ns": 0,
+      "title": "Casa Arryn",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-24T21:23:55Z",
+      "lastrevid": 171058229,
+      "length": 20767,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Arryn",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Arryn&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Arryn",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Arryn_blue_scroll.png",
+        "wikibase_item": "Q1411019"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q1411019",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 945906,
+      "ns": 0,
+      "title": "Altojardín",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-03T19:49:00Z",
+      "lastrevid": 100408727,
+      "length": 67,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Altojard%C3%ADn",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Altojard%C3%ADn&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Altojard%C3%ADn",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 967688,
+      "ns": 0,
+      "title": "Brienne de Tarth",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:26Z",
+      "lastrevid": 172817609,
+      "length": 15280,
+      "fullurl": "https://es.wikipedia.org/wiki/Brienne_de_Tarth",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Brienne_de_Tarth&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Brienne_de_Tarth",
+      "pageprops": {
+        "defaultsort": "Tarth, Brienne",
+        "page_image_free": "2015_C2E2_Cosplay_-_Brienne_of_Tarth_(16766397373)_(cropped).jpg",
+        "wikibase_item": "Q11680307"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Brienne of Tarth"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres guerreras ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q11680307",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 3518653,
+      "ns": 0,
+      "title": "Antagonista",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-01-28T21:37:22Z",
+      "lastrevid": 142137888,
+      "length": 927,
+      "fullurl": "https://es.wikipedia.org/wiki/Antagonista",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Antagonista&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Antagonista",
+      "pageprops": {
+        "disambiguation": "",
+        "notoc": "",
+        "wikibase_item": "Q230816"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Desambiguación"
+        }
+      ],
+      "wikidataId": "Q230816",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4608469,
+      "ns": 0,
+      "title": "Alfie Allen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:17Z",
+      "lastrevid": 169177337,
+      "length": 5422,
+      "fullurl": "https://es.wikipedia.org/wiki/Alfie_Allen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Alfie_Allen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Alfie_Allen",
+      "pageprops": {
+        "defaultsort": "Allen, Alfie Evan James",
+        "page_image_free": "Alfie_Allen_by_Gage_Skidmore_2.jpg",
+        "wikibase_item": "Q552026"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Alfie Allen"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de cine de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de teatro de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de televisión de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores infantiles de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1986"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas de Londres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        }
+      ],
+      "wikidataId": "Q552026",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4651968,
+      "ns": 0,
+      "title": "Bastión de Tormentas",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-03T19:49:00Z",
+      "lastrevid": 100403570,
+      "length": 76,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Basti%C3%B3n_de_Tormentas",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Basti%C3%B3n_de_Tormentas&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Basti%C3%B3n_de_Tormentas",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4724478,
+      "ns": 0,
+      "title": "Barristan Selmy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:38:24Z",
+      "lastrevid": 131115566,
+      "length": 13000,
+      "fullurl": "https://es.wikipedia.org/wiki/Barristan_Selmy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Barristan_Selmy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Barristan_Selmy",
+      "pageprops": {
+        "defaultsort": "Selmy, Barristan",
+        "wikibase_item": "Q5721186"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q5721186",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5247130,
+      "ns": 0,
+      "title": "Carice van Houten",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:55Z",
+      "lastrevid": 170842995,
+      "length": 7138,
+      "fullurl": "https://es.wikipedia.org/wiki/Carice_van_Houten",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Carice_van_Houten&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Carice_van_Houten",
+      "pageprops": {
+        "defaultsort": "Houten, Carice van",
+        "page_image_free": "CaricevanHouten_663_(c)JaneyvanIerland.jpg",
+        "wikibase_item": "Q232384"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Carice van Houten"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de cine de los Países Bajos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de teatro de los Países Bajos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de televisión de los Países Bajos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Cantantes femeninas de los Países Bajos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1976"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Leiderdorp"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores DeutscheBiographie"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 15 elementos"
+        }
+      ],
+      "wikidataId": "Q232384",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5303426,
+      "ns": 0,
+      "title": "Brynden Tully",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:21:20Z",
+      "lastrevid": 102760813,
+      "length": 54,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Brynden_Tully",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Brynden_Tully&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Brynden_Tully",
+      "pageprops": {
+        "wikibase-badge-Q70893996": "",
+        "wikibase_item": "Q23782360"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Redirecciones asociadas con un elemento de Wikidata"
+        }
+      ],
+      "wikidataId": "Q23782360",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5782856,
+      "ns": 0,
+      "title": "Alas negras, palabras negras",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:07Z",
+      "lastrevid": 161680757,
+      "length": 8138,
+      "fullurl": "https://es.wikipedia.org/wiki/Alas_negras,_palabras_negras",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Alas_negras,_palabras_negras&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Alas_negras,_palabras_negras",
+      "pageprops": {
+        "wikibase_item": "Q12155624"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Dark Wings, Dark Words"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de la tercera temporada de Game of Thrones"
+        }
+      ],
+      "wikidataId": "Q12155624",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5828530,
+      "ns": 0,
+      "title": "Besado por el fuego",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:08Z",
+      "lastrevid": 170129482,
+      "length": 10126,
+      "fullurl": "https://es.wikipedia.org/wiki/Besado_por_el_fuego",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Besado_por_el_fuego&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Besado_por_el_fuego",
+      "pageprops": {
+        "wikibase_item": "Q13534647"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de la tercera temporada de Game of Thrones"
+        }
+      ],
+      "wikidataId": "Q13534647",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5901261,
+      "ns": 0,
+      "title": "Burn Gorman",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:11Z",
+      "lastrevid": 174649478,
+      "length": 11825,
+      "fullurl": "https://es.wikipedia.org/wiki/Burn_Gorman",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Burn_Gorman&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Burn_Gorman",
+      "pageprops": {
+        "defaultsort": "Gorman, Burn",
+        "page_image_free": "Burn_Gorman_2.jpg",
+        "wikibase_item": "Q981821"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actores británicos de cine no nacidos en Reino Unido"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores británicos de teatro no nacidos en Reino Unido"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores británicos de televisión no nacidos en Reino Unido"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Alumnado de la Universidad Metropolitana de Mánchester"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1974"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Hollywood"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reparto de Torchwood"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        }
+      ],
+      "wikidataId": "Q981821",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6404709,
+      "ns": 0,
+      "title": "Aguasdulces",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-03T19:49:00Z",
+      "lastrevid": 100408817,
+      "length": 67,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Aguasdulces",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aguasdulces&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aguasdulces",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6415495,
+      "ns": 0,
+      "title": "Arianne Martell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:25:37Z",
+      "lastrevid": 166743501,
+      "length": 7035,
+      "fullurl": "https://es.wikipedia.org/wiki/Arianne_Martell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Arianne_Martell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Arianne_Martell",
+      "pageprops": {
+        "defaultsort": "Martell, Arianne",
+        "wikibase_item": "Q21006944"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q21006944",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6433118,
+      "ns": 0,
+      "title": "Aerys II Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:30Z",
+      "lastrevid": 172811906,
+      "length": 12387,
+      "fullurl": "https://es.wikipedia.org/wiki/Aerys_II_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aerys_II_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aerys_II_Targaryen",
+      "pageprops": {
+        "defaultsort": "Targaryen, Aerys II",
+        "wikibase_item": "Q18920152"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reyes ficticios"
+        }
+      ],
+      "wikidataId": "Q18920152",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6434809,
+      "ns": 0,
+      "title": "Aegon V Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-05T17:30:31Z",
+      "lastrevid": 77021302,
+      "length": 50,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Aegon_V_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aegon_V_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aegon_V_Targaryen",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6453028,
+      "ns": 0,
+      "title": "Braavos",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-29T05:42:21Z",
+      "lastrevid": 77322389,
+      "length": 41,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Braavos",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Braavos&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Braavos",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6609988,
+      "ns": 0,
+      "title": "Boros Blount",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 80068536,
+      "length": 76,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Boros_Blount",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Boros_Blount&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Boros_Blount",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6616637,
+      "ns": 0,
+      "title": "Beric Dondarrion",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 80191885,
+      "length": 80,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Beric_Dondarrion",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Beric_Dondarrion&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Beric_Dondarrion",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6631619,
+      "ns": 0,
+      "title": "Alys Karstark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 80417283,
+      "length": 77,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Alys_Karstark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Alys_Karstark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Alys_Karstark",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6631650,
+      "ns": 0,
+      "title": "Arnolf Karstark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 80417700,
+      "length": 79,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Arnolf_Karstark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Arnolf_Karstark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Arnolf_Karstark",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6638089,
+      "ns": 0,
+      "title": "Aegon Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-05T17:30:31Z",
+      "lastrevid": 146442072,
+      "length": 48,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Aegon_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aegon_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aegon_Targaryen",
+      "pageprops": {
+        "wikibase-badge-Q70893996": "",
+        "wikibase_item": "Q38246500"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Redirecciones asociadas con un elemento de Wikidata"
+        }
+      ],
+      "wikidataId": "Q38246500",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6821087,
+      "ns": 0,
+      "title": "Balon Swann",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 80881425,
+      "length": 75,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Balon_Swann",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Balon_Swann&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Balon_Swann",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6821089,
+      "ns": 0,
+      "title": "Arys Oakheart",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 80881443,
+      "length": 77,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Arys_Oakheart",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Arys_Oakheart&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Arys_Oakheart",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6837236,
+      "ns": 0,
+      "title": "Anton Lesser",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:36Z",
+      "lastrevid": 172680181,
+      "length": 50479,
+      "fullurl": "https://es.wikipedia.org/wiki/Anton_Lesser",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Anton_Lesser&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Anton_Lesser",
+      "pageprops": {
+        "defaultsort": "Lesser, Anton",
+        "page_image_free": "Anton_Lesser_(2011).jpg",
+        "wikibase_item": "Q591515"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de cine de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de teatro de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de televisión de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1952"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con enlaces externos rotos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        }
+      ],
+      "wikidataId": "Q591515",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6929309,
+      "ns": 0,
+      "title": "Areo Hotah",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 83310308,
+      "length": 74,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Areo_Hotah",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Areo_Hotah&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Areo_Hotah",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6930355,
+      "ns": 0,
+      "title": "Bronn",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:38Z",
+      "lastrevid": 161675245,
+      "length": 15195,
+      "fullurl": "https://es.wikipedia.org/wiki/Bronn",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Bronn&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Bronn",
+      "pageprops": {
+        "wikibase_item": "Q12899075"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mercenarios ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sicarios ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q12899075",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6961717,
+      "ns": 0,
+      "title": "Aiden Gillen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-02T21:58:33Z",
+      "lastrevid": 83925144,
+      "length": 30,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Aiden_Gillen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aiden_Gillen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aiden_Gillen",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6974120,
+      "ns": 0,
+      "title": "Alester Florent",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 84147971,
+      "length": 79,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Alester_Florent",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Alester_Florent&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Alester_Florent",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7053657,
+      "ns": 0,
+      "title": "Batalla del Forca Verde",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:41Z",
+      "lastrevid": 172834123,
+      "length": 9101,
+      "fullurl": "https://es.wikipedia.org/wiki/Batalla_del_Forca_Verde",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Batalla_del_Forca_Verde&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Batalla_del_Forca_Verde",
+      "pageprops": {
+        "wikibase_item": "Q21496106"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Batallas de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos sin coordenadas"
+        }
+      ],
+      "wikidataId": "Q21496106",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7054478,
+      "ns": 0,
+      "title": "Batalla de Cruce de Bueyes",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:41Z",
+      "lastrevid": 156206188,
+      "length": 10576,
+      "fullurl": "https://es.wikipedia.org/wiki/Batalla_de_Cruce_de_Bueyes",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Batalla_de_Cruce_de_Bueyes&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Batalla_de_Cruce_de_Bueyes",
+      "pageprops": {
+        "wikibase_item": "Q21496100"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos sin coordenadas"
+        }
+      ],
+      "wikidataId": "Q21496100",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7055500,
+      "ns": 0,
+      "title": "Batalla del Castillo Negro",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-24T01:05:15Z",
+      "lastrevid": 174517946,
+      "length": 21556,
+      "fullurl": "https://es.wikipedia.org/wiki/Batalla_del_Castillo_Negro",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Batalla_del_Castillo_Negro&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Batalla_del_Castillo_Negro",
+      "pageprops": {
+        "wikibase_item": "Q21496097"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Batallas de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos sin coordenadas"
+        }
+      ],
+      "wikidataId": "Q21496097",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7294194,
+      "ns": 0,
+      "title": "Acero valyrio",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-02-22T21:51:40Z",
+      "lastrevid": 89168757,
+      "length": 39,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Acero_valyrio",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Acero_valyrio&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Acero_valyrio",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7715888,
+      "ns": 0,
+      "title": "Art Parkinson",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:38:01Z",
+      "lastrevid": 169973021,
+      "length": 4399,
+      "fullurl": "https://es.wikipedia.org/wiki/Art_Parkinson",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Art_Parkinson&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Art_Parkinson",
+      "pageprops": {
+        "defaultsort": "Parkinson, Art",
+        "wikibase_item": "Q15069989"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de cine de Irlanda"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de televisión de Irlanda"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 2001"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores DeutscheBiographie"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Mantenimiento de la plantilla Altura (metro)"
+        }
+      ],
+      "wikidataId": "Q15069989",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7721282,
+      "ns": 0,
+      "title": "Bella Ramsey",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:38:01Z",
+      "lastrevid": 174305315,
+      "length": 89746,
+      "fullurl": "https://es.wikipedia.org/wiki/Bella_Ramsey",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Bella_Ramsey&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Bella_Ramsey",
+      "pageprops": {
+        "defaultsort": "Ramsey, Bella",
+        "page_image_free": "Bella_Ramsey-3066.jpg",
+        "wikibase_item": "Q24891605"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de cine de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de televisión de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores infantiles de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores transgénero"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Autistas LGBT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 2003"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Nottingham"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas LGBT de Reino Unido"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas de género fluido"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas no binarias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas no binarias del Reino Unido"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas transgénero"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores DeutscheBiographie"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q24891605",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 8067073,
+      "ns": 0,
+      "title": "Caminantes Blancos",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-04-03T00:50:35Z",
+      "lastrevid": 101562788,
+      "length": 34,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Caminantes_Blancos",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Caminantes_Blancos&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Caminantes_Blancos",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1220,
+      "ns": 0,
+      "title": "Femenino",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-09T23:45:07Z",
+      "lastrevid": 174646132,
+      "length": 5150,
+      "fullurl": "https://es.wikipedia.org/wiki/Femenino",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Femenino&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Femenino",
+      "pageprops": {
+        "page_image_free": "Female_symbol_(heavy_pink).svg",
+        "wikibase_item": "Q6581072"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Female (gender)"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Mujer"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reproducción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Términos botánicos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Términos sociológicos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Términos zoológicos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        }
+      ],
+      "wikidataId": "Q6581072",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 83371,
+      "ns": 0,
+      "title": "HBO",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-04T02:00:02Z",
+      "lastrevid": 174577717,
+      "length": 30188,
+      "fullurl": "https://es.wikipedia.org/wiki/HBO",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=HBO&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/HBO",
+      "pageprops": {
+        "page_image_free": "HBO_logo.svg",
+        "wikibase_item": "Q23633"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "HBO"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Canales y estaciones de televisión fundados en 1972"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:HBO"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con extractos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias adicionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q23633",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 153528,
+      "ns": 0,
+      "title": "El ascenso",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:33:51Z",
+      "lastrevid": 157757866,
+      "length": 3523,
+      "fullurl": "https://es.wikipedia.org/wiki/El_ascenso",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=El_ascenso&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/El_ascenso",
+      "pageprops": {
+        "defaultsort": "Ascenso, El",
+        "wikibase_item": "Q11681354"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Historietas de Mortadelo y Filemón"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de ISBN"
+        }
+      ],
+      "wikidataId": "Q11681354",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 206607,
+      "ns": 0,
+      "title": "George R. R. Martin",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:33:54Z",
+      "lastrevid": 174409348,
+      "length": 20149,
+      "fullurl": "https://es.wikipedia.org/wiki/George_R._R._Martin",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=George_R._R._Martin&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/George_R._R._Martin",
+      "pageprops": {
+        "defaultsort": "Martin, George R. R.",
+        "page_image_free": "Portrait_photoshoot_at_Worldcon_75,_Helsinki,_before_the_Hugo_Awards_–_George_R._R._Martin_(cropped).jpg",
+        "wikibase_item": "Q181677"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "George R. R. Martin"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Agnósticos de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Autores ganadores del premio Hugo"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Autores ganadores del premio Nébula"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Escritores de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Escritores de ciencia ficción de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Escritores de literatura fantástica de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Escritores en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1948"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Nueva Jersey"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelistas de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Premio Geffen"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNB"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores DeutscheBiographie"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Europeana"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores NLA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SNAC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Tabakalera"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Tebeosfera-autor"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias adicionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 29 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q181677",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726365,
+      "ns": 0,
+      "title": "Eddard Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:12:08Z",
+      "lastrevid": 173505162,
+      "length": 23077,
+      "fullurl": "https://es.wikipedia.org/wiki/Eddard_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Eddard_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Eddard_Stark",
+      "pageprops": {
+        "defaultsort": "Stark, Eddard",
+        "wikibase_item": "Q259818"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Ned Stark"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q259818",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 734075,
+      "ns": 0,
+      "title": "Casa Lannister",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-14T11:25:13Z",
+      "lastrevid": 172131253,
+      "length": 21181,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Lannister",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Lannister&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Lannister",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Lannister_red_scroll.png",
+        "wikibase_item": "Q2739222"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q2739222",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 837880,
+      "ns": 0,
+      "title": "Fotogramas (revista)",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:21Z",
+      "lastrevid": 173381196,
+      "length": 19435,
+      "fullurl": "https://es.wikipedia.org/wiki/Fotogramas_(revista)",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Fotogramas_(revista)&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Fotogramas_(revista)",
+      "pageprops": {
+        "wikibase_item": "Q1529522"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Fotogramas"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Publicaciones fundadas en 1946"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Revistas de cine de España"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con datos locales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con datos por trasladar a Wikidata"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Dialnet revista"
+        }
+      ],
+      "wikidataId": "Q1529522",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 838725,
+      "ns": 0,
+      "title": "Guardia de la Noche",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-05-28T00:30:16Z",
+      "lastrevid": 173644374,
+      "length": 33654,
+      "fullurl": "https://es.wikipedia.org/wiki/Guardia_de_la_Noche",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Guardia_de_la_Noche&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Guardia_de_la_Noche",
+      "pageprops": {
+        "wikibase_item": "Q1088558"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Night's Watch"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Organizaciones en Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q1088558",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 843744,
+      "ns": 0,
+      "title": "Festín de cuervos",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:21Z",
+      "lastrevid": 173215104,
+      "length": 21219,
+      "fullurl": "https://es.wikipedia.org/wiki/Fest%C3%ADn_de_cuervos",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Fest%C3%ADn_de_cuervos&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Fest%C3%ADn_de_cuervos",
+      "pageprops": {
+        "wikibase_item": "Q1764445"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "A Feast for Crows"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Libros de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas de 2005"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas de George R. R. Martin"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas fantásticas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con pasajes que requieren referencias"
+        }
+      ],
+      "wikidataId": "Q1764445",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 903500,
+      "ns": 0,
+      "title": "Casa Tyrell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-14T11:27:22Z",
+      "lastrevid": 171058928,
+      "length": 20382,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Tyrell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Tyrell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Tyrell",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Tyrell_yellow_scroll.jpg",
+        "wikibase_item": "Q1410916"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q1410916",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 906825,
+      "ns": 0,
+      "title": "Casa Frey",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-24T21:23:51Z",
+      "lastrevid": 171058793,
+      "length": 19620,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Frey",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Frey&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Frey",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Frey_supporters.gif",
+        "wikibase_item": "Q11680574"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q11680574",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 922811,
+      "ns": 0,
+      "title": "Casa Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-20T15:43:09Z",
+      "lastrevid": 171058817,
+      "length": 21281,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Greyjoy",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Greyjoy_black_scroll.png",
+        "wikibase_item": "Q1645774"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q1645774",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 923974,
+      "ns": 0,
+      "title": "Casa Bolton",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-14T11:30:06Z",
+      "lastrevid": 171058761,
+      "length": 6840,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Bolton",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Bolton&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Bolton",
+      "pageprops": {
+        "page_image_free": "House-Bolton-Main-Shield.png",
+        "wikibase_item": "Q8341562"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q8341562",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 924018,
+      "ns": 0,
+      "title": "Gregor Clegane",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:24Z",
+      "lastrevid": 166583319,
+      "length": 10450,
+      "fullurl": "https://es.wikipedia.org/wiki/Gregor_Clegane",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Gregor_Clegane&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Gregor_Clegane",
+      "pageprops": {
+        "defaultsort": "Clegane, Gregor",
+        "wikibase_item": "Q26899515"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Gregor Clegane"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Guardaespaldas ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Torturadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Violadores ficticios"
+        }
+      ],
+      "wikidataId": "Q26899515",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 928213,
+      "ns": 0,
+      "title": "Davos Seaworth",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 172518358,
+      "length": 12095,
+      "fullurl": "https://es.wikipedia.org/wiki/Davos_Seaworth",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Davos_Seaworth&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Davos_Seaworth",
+      "pageprops": {
+        "defaultsort": "Seaworth, Davos",
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Seaworth.gif",
+        "wikibase_item": "Q5800500"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Davos Seaworth"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Veteranos de guerra ficticios"
+        }
+      ],
+      "wikidataId": "Q5800500",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 929716,
+      "ns": 0,
+      "title": "Casa Tully",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-14T11:29:36Z",
+      "lastrevid": 171058699,
+      "length": 28106,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Tully",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Tully&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Tully",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Tully_red_scroll.png",
+        "wikibase_item": "Q2320477"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q2320477",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 930649,
+      "ns": 0,
+      "title": "Casa Baratheon",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-06T14:24:35Z",
+      "lastrevid": 171766574,
+      "length": 28122,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Baratheon",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Baratheon&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Baratheon",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Baratheon_yellow_scroll_English.png",
+        "wikibase_item": "Q2304848"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Ciervos en la cultura"
+        }
+      ],
+      "wikidataId": "Q2304848",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 934422,
+      "ns": 0,
+      "title": "Episodio piloto",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-27T15:59:52Z",
+      "lastrevid": 169987164,
+      "length": 9908,
+      "fullurl": "https://es.wikipedia.org/wiki/Episodio_piloto",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Episodio_piloto&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Episodio_piloto",
+      "pageprops": {
+        "wikibase_item": "Q653916"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Television pilot"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios piloto"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Primeros eventos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Terminología televisiva"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q653916",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 936055,
+      "ns": 0,
+      "title": "Catelyn Tully",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 173159937,
+      "length": 11890,
+      "fullurl": "https://es.wikipedia.org/wiki/Catelyn_Tully",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Catelyn_Tully&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Catelyn_Tully",
+      "pageprops": {
+        "defaultsort": "Tully, Catelyn",
+        "wikibase_item": "Q2941743"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q2941743",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 937031,
+      "ns": 0,
+      "title": "Desembarco del Rey",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-03T19:49:00Z",
+      "lastrevid": 92737699,
+      "length": 74,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Desembarco_del_Rey",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Desembarco_del_Rey&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Desembarco_del_Rey",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 941289,
+      "ns": 0,
+      "title": "Casa Martell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-14T11:26:20Z",
+      "lastrevid": 171058893,
+      "length": 28028,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Martell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Martell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Martell",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Martell_scroll.png",
+        "wikibase_item": "Q1410912"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q1410912",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1003379,
+      "ns": 0,
+      "title": "Cersei Lannister",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:27Z",
+      "lastrevid": 170943190,
+      "length": 56169,
+      "fullurl": "https://es.wikipedia.org/wiki/Cersei_Lannister",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Cersei_Lannister&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Cersei_Lannister",
+      "pageprops": {
+        "defaultsort": "Lannister, Cersei",
+        "page_image_free": "IgroMir_2017_003.jpg",
+        "wikibase_item": "Q3665163"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos de niños en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Gemelos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de ficción abusadores de menores"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reinas ficticias"
+        }
+      ],
+      "wikidataId": "Q3665163",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1014015,
+      "ns": 0,
+      "title": "Ciudades Libres",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-24T21:24:02Z",
+      "lastrevid": 171226500,
+      "length": 16562,
+      "fullurl": "https://es.wikipedia.org/wiki/Ciudades_Libres",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Ciudades_Libres&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Ciudades_Libres",
+      "pageprops": {
+        "wikibase_item": "Q8346546"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Lugares en Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q8346546",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1689383,
+      "ns": 0,
+      "title": "Ciarán Hinds",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:56Z",
+      "lastrevid": 174203650,
+      "length": 18304,
+      "fullurl": "https://es.wikipedia.org/wiki/Ciar%C3%A1n_Hinds",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Ciar%C3%A1n_Hinds&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Ciar%C3%A1n_Hinds",
+      "pageprops": {
+        "defaultsort": "Hinds, Ciaran",
+        "page_image_free": "Ciarán_Hinds_in_2022.jpg",
+        "wikibase_item": "Q314892"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de cine de Irlanda del Norte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de teatro de Irlanda del Norte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de televisión de Irlanda del Norte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de voz de Irlanda del Norte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1953"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Belfast"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores DeutscheBiographie"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores NLA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 16 elementos"
+        }
+      ],
+      "wikidataId": "Q314892",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 2903123,
+      "ns": 0,
+      "title": "Choque de Reyes",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-21T15:30:48Z",
+      "lastrevid": 29817179,
+      "length": 33,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Choque_de_Reyes",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Choque_de_Reyes&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Choque_de_Reyes",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 2908428,
+      "ns": 0,
+      "title": "Cataplasma",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-24T19:10:18Z",
+      "lastrevid": 173951442,
+      "length": 3126,
+      "fullurl": "https://es.wikipedia.org/wiki/Cataplasma",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Cataplasma&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Cataplasma",
+      "pageprops": {
+        "wikibase_item": "Q718781"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Tratamientos en medicina"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        }
+      ],
+      "wikidataId": "Q718781",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4649829,
+      "ns": 0,
+      "title": "Cripples, Bastards, and Broken Things",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:19Z",
+      "lastrevid": 161682770,
+      "length": 17727,
+      "fullurl": "https://es.wikipedia.org/wiki/Cripples,_Bastards,_and_Broken_Things",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Cripples,_Bastards,_and_Broken_Things&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Cripples,_Bastards,_and_Broken_Things",
+      "pageprops": {
+        "wikibase_item": "Q3150755"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de la primera temporada de Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de televisión de Estados Unidos de 2011"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        }
+      ],
+      "wikidataId": "Q3150755",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5040680,
+      "ns": 0,
+      "title": "Control de autoridades",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-11T10:26:32Z",
+      "lastrevid": 173997899,
+      "length": 8334,
+      "fullurl": "https://es.wikipedia.org/wiki/Control_de_autoridades",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Control_de_autoridades&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Control_de_autoridades",
+      "pageprops": {
+        "wikibase_item": "Q118455746"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Archivística"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Bibliotecas e información científica"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Metadatos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        }
+      ],
+      "wikidataId": "Q118455746",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5158426,
+      "ns": 0,
+      "title": "Conleth Hill",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:52Z",
+      "lastrevid": 173361623,
+      "length": 5241,
+      "fullurl": "https://es.wikipedia.org/wiki/Conleth_Hill",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Conleth_Hill&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Conleth_Hill",
+      "pageprops": {
+        "defaultsort": "Hill, Conleth",
+        "page_image_free": "Conleth_Hill_by_Gage_Skidmore_3.jpg",
+        "wikibase_item": "Q1126128"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de cine de Irlanda del Norte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de televisión de Irlanda del Norte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1964"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        }
+      ],
+      "wikidataId": "Q1126128",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6459012,
+      "ns": 0,
+      "title": "Casa Dayne",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898548,
+      "length": 98,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Dayne",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Dayne&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Dayne",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6600267,
+      "ns": 0,
+      "title": "Casaca de Matraca",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 79902024,
+      "length": 81,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casaca_de_Matraca",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casaca_de_Matraca&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casaca_de_Matraca",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6628820,
+      "ns": 0,
+      "title": "Casa Mormont",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898553,
+      "length": 100,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Mormont",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Mormont&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Mormont",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6631657,
+      "ns": 0,
+      "title": "Casa Karstark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898557,
+      "length": 87,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Karstark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Karstark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Karstark",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6633136,
+      "ns": 0,
+      "title": "Casa Manderly",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898560,
+      "length": 101,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Manderly",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Manderly&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Manderly",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6821985,
+      "ns": 0,
+      "title": "Casa Connington",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898563,
+      "length": 103,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Connington",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Connington&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Connington",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6822132,
+      "ns": 0,
+      "title": "Casa Redwyne",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898564,
+      "length": 100,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Redwyne",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Redwyne&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Redwyne",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6904131,
+      "ns": 0,
+      "title": "Casa Florent",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898567,
+      "length": 100,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Florent",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Florent&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Florent",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6906696,
+      "ns": 0,
+      "title": "Daario Naharis",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:49:16Z",
+      "lastrevid": 161674460,
+      "length": 11471,
+      "fullurl": "https://es.wikipedia.org/wiki/Daario_Naharis",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Daario_Naharis&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Daario_Naharis",
+      "pageprops": {
+        "defaultsort": "Naharis, Daario",
+        "wikibase_item": "Q22254472"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Esclavos ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Gladiadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mercenarios ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias adicionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q22254472",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6941418,
+      "ns": 0,
+      "title": "Casa Reed",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898587,
+      "length": 97,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Reed",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Reed&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Reed",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6941511,
+      "ns": 0,
+      "title": "Casa Stokeworth",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898598,
+      "length": 103,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Stokeworth",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Stokeworth&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Stokeworth",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6943059,
+      "ns": 0,
+      "title": "Casa Westerling",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898603,
+      "length": 103,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Westerling",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Westerling&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Westerling",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6943061,
+      "ns": 0,
+      "title": "Casa Mallister",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898604,
+      "length": 102,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Mallister",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Mallister&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Mallister",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6967279,
+      "ns": 0,
+      "title": "Catelyn Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-26T01:50:55Z",
+      "lastrevid": 84028218,
+      "length": 31,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Catelyn_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Catelyn_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Catelyn_Stark",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6977384,
+      "ns": 0,
+      "title": "Casa Umber",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898611,
+      "length": 87,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Umber",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Umber&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Umber",
+      "pageprops": {
+        "wikibase-badge-Q70893996": "",
+        "wikibase_item": "Q5754554"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Redirecciones asociadas con un elemento de Wikidata"
+        }
+      ],
+      "wikidataId": "Q5754554",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7007781,
+      "ns": 0,
+      "title": "Charlotte Hope",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:40Z",
+      "lastrevid": 172366169,
+      "length": 7194,
+      "fullurl": "https://es.wikipedia.org/wiki/Charlotte_Hope",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Charlotte_Hope&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Charlotte_Hope",
+      "pageprops": {
+        "defaultsort": "Hope, Charlotte",
+        "page_image_free": "Charlotte_Hope_2019.jpg",
+        "wikibase_item": "Q18684166"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de cine de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de televisión de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de voz de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1988"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        }
+      ],
+      "wikidataId": "Q18684166",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7295179,
+      "ns": 0,
+      "title": "Compañía Dorada",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-01-03T16:22:15Z",
+      "lastrevid": 89186104,
+      "length": 85,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Dorada",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Compa%C3%B1%C3%ADa_Dorada&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Dorada",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7435036,
+      "ns": 0,
+      "title": "Craster",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 91460790,
+      "length": 71,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Craster",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Craster&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Craster",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7460337,
+      "ns": 0,
+      "title": "Casa Hornwood",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898623,
+      "length": 101,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Hornwood",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Hornwood&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Hornwood",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7486793,
+      "ns": 0,
+      "title": "Daniel Portman",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:52Z",
+      "lastrevid": 155919851,
+      "length": 3295,
+      "fullurl": "https://es.wikipedia.org/wiki/Daniel_Portman",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Daniel_Portman&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Daniel_Portman",
+      "pageprops": {
+        "defaultsort": "Portman, Daniel",
+        "page_image_free": "Daniel_Portman_GCCDORTMUND_2016.JPG",
+        "wikibase_item": "Q5218475"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de cine de Escocia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de televisión de Escocia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1992"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Glasgow"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Europeana"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        }
+      ],
+      "wikidataId": "Q5218475",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7509019,
+      "ns": 0,
+      "title": "Casa Tarly",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:24:49Z",
+      "lastrevid": 92898625,
+      "length": 87,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Tarly",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Tarly&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Tarly",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 540197,
+      "ns": 0,
+      "title": "Huargo",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-06-24T16:39:56Z",
+      "lastrevid": 172650867,
+      "length": 3579,
+      "fullurl": "https://es.wikipedia.org/wiki/Huargo",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Huargo&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Huargo",
+      "pageprops": {
+        "page_image_free": "Hyrrokkin_by_Pietsch.jpg",
+        "wikibase_item": "Q1463858"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Warg"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Lobos de la mitología nórdica"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Perros mitológicos"
+        }
+      ],
+      "wikidataId": "Q1463858",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 937098,
+      "ns": 0,
+      "title": "Edmure Tully",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:21:20Z",
+      "lastrevid": 8756192,
+      "length": 36,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Edmure_Tully",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Edmure_Tully&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Edmure_Tully",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 946230,
+      "ns": 0,
+      "title": "Harrenhal",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-03T19:49:00Z",
+      "lastrevid": 100409068,
+      "length": 65,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Harrenhal",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Harrenhal&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Harrenhal",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 956689,
+      "ns": 0,
+      "title": "Euron Greyjoy",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:26Z",
+      "lastrevid": 161675168,
+      "length": 12852,
+      "fullurl": "https://es.wikipedia.org/wiki/Euron_Greyjoy",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Euron_Greyjoy&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Euron_Greyjoy",
+      "pageprops": {
+        "defaultsort": "Greyjoy, Euron",
+        "wikibase_item": "Q38137598"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Piratas ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias adicionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q38137598",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1388451,
+      "ns": 0,
+      "title": "Garlan Tyrell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:35:50Z",
+      "lastrevid": 13994795,
+      "length": 25,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Garlan_Tyrell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Garlan_Tyrell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Garlan_Tyrell",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1427329,
+      "ns": 0,
+      "title": "Danza de dragones",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:46Z",
+      "lastrevid": 174186546,
+      "length": 23701,
+      "fullurl": "https://es.wikipedia.org/wiki/Danza_de_dragones",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Danza_de_dragones&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Danza_de_dragones",
+      "pageprops": {
+        "wikibase_item": "Q28306"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "A Dance with Dragons"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Libros de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas de 2011"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas de George R. R. Martin"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas fantásticas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        }
+      ],
+      "wikidataId": "Q28306",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 2903127,
+      "ns": 0,
+      "title": "Festín de Cuervos",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-29T14:19:36Z",
+      "lastrevid": 29817203,
+      "length": 36,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Fest%C3%ADn_de_Cuervos",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Fest%C3%ADn_de_Cuervos&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Fest%C3%ADn_de_Cuervos",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 3140137,
+      "ns": 0,
+      "title": "Hannah Murray",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:35:39Z",
+      "lastrevid": 167338025,
+      "length": 10124,
+      "fullurl": "https://es.wikipedia.org/wiki/Hannah_Murray",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Hannah_Murray&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Hannah_Murray",
+      "pageprops": {
+        "defaultsort": "Murray, Hannah",
+        "page_image_free": "Hannah_Murray_-_IFFR_2015-1.jpg",
+        "wikibase_item": "Q231086"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Hannah Murray"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de televisión de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1989"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Bristol"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con enlaces externos rotos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores DeutscheBiographie"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SNAC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Mantenimiento de la plantilla Altura (metro)"
+        }
+      ],
+      "wikidataId": "Q231086",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4316607,
+      "ns": 0,
+      "title": "Game of Thrones",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:05Z",
+      "lastrevid": 173971692,
+      "length": 253159,
+      "fullurl": "https://es.wikipedia.org/wiki/Game_of_Thrones",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Game_of_Thrones&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Game_of_Thrones",
+      "pageprops": {
+        "wikibase-badge-Q17437796": "",
+        "wikibase_item": "Q23572"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Game of Thrones"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Brujería en cine y televisión"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Dragones en la cultura popular"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Ganadores del Primetime Emmy a la mejor serie dramática"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión con personajes LGBT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de Estados Unidos de los años 2010"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de HBO"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de Home Box Office"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de acción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de alta fantasía"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de aventuras"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de drama"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de fantasía"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de fantasía oscura"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de terror"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión finalizadas en 2019"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión iniciadas en 2011"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión rodadas en España"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión rodadas en Irlanda del Norte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión sobre incesto"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en persa"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en árabe"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en bosnio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en serbio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 16 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin URL y con fecha de acceso"
+        }
+      ],
+      "wikidataId": "Q23572",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4614459,
+      "ns": 0,
+      "title": "Emilia Clarke",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:18Z",
+      "lastrevid": 174750347,
+      "length": 125749,
+      "fullurl": "https://es.wikipedia.org/wiki/Emilia_Clarke",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Emilia_Clarke&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Emilia_Clarke",
+      "pageprops": {
+        "defaultsort": "Clarke, Emilia",
+        "page_image_free": "Emilia_Clarke_at_the_2023_Harper's_Bazaar_Women_of_the_Year_Awards.jpg",
+        "wikibase-badge-Q17437798": "",
+        "wikibase_item": "Q235132"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Emilia Clarke"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de Londres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de cine de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de teatro de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de televisión de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de voz de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1986"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Londres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Tebeosfera-autor"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 17 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias que requieren suscripción"
+        }
+      ],
+      "wikidataId": "Q235132",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4811714,
+      "ns": 0,
+      "title": "Fisga",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-24T21:31:08Z",
+      "lastrevid": 149116150,
+      "length": 2809,
+      "fullurl": "https://es.wikipedia.org/wiki/Fisga",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Fisga&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Fisga",
+      "pageprops": {
+        "page_image_free": "Aalstecher.JPG",
+        "wikibase_item": "Q20690"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Artes de pesca"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Pesca artesanal"
+        }
+      ],
+      "wikidataId": "Q20690",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5017292,
+      "ns": 0,
+      "title": "Danza de Dragones",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-01T00:51:10Z",
+      "lastrevid": 52697851,
+      "length": 35,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Danza_de_Dragones",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Danza_de_Dragones&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Danza_de_Dragones",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5137735,
+      "ns": 0,
+      "title": "Fire and Blood",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:51Z",
+      "lastrevid": 172036489,
+      "length": 18689,
+      "fullurl": "https://es.wikipedia.org/wiki/Fire_and_Blood",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Fire_and_Blood&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Fire_and_Blood",
+      "pageprops": {
+        "wikibase_item": "Q5451518"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Fire and Blood (Game of Thrones)"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de la primera temporada de Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de televisión de Estados Unidos de 2011"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de televisión dirigidos por Alan Taylor"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        }
+      ],
+      "wikidataId": "Q5451518",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5769482,
+      "ns": 0,
+      "title": "Essos",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-25T19:21:32Z",
+      "lastrevid": 173008075,
+      "length": 12072,
+      "fullurl": "https://es.wikipedia.org/wiki/Essos",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Essos&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Essos",
+      "pageprops": {
+        "wikibase_item": "Q10944852"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Continentes ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Lugares en Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q10944852",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5796781,
+      "ns": 0,
+      "title": "El camino del castigo",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:08Z",
+      "lastrevid": 161680771,
+      "length": 11215,
+      "fullurl": "https://es.wikipedia.org/wiki/El_camino_del_castigo",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=El_camino_del_castigo&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/El_camino_del_castigo",
+      "pageprops": {
+        "wikibase_item": "Q12164364"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Walk of Punishment"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de la tercera temporada de Game of Thrones"
+        }
+      ],
+      "wikidataId": "Q12164364",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5980740,
+      "ns": 0,
+      "title": "Gwendoline Christie",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:13Z",
+      "lastrevid": 174271002,
+      "length": 13107,
+      "fullurl": "https://es.wikipedia.org/wiki/Gwendoline_Christie",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Gwendoline_Christie&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Gwendoline_Christie",
+      "pageprops": {
+        "defaultsort": "Christie, Gwendoline",
+        "page_image_free": "Gwendoline_Christie_by_Gage_Skidmore.jpg",
+        "wikibase_item": "Q440353"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Gwendoline Christie"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de cine de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de televisión de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices del siglo XXI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1978"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Worthing"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reparto de Star Wars"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Reparto de The Sandman"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Mantenimiento de la plantilla Altura (metro)"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias que requieren suscripción"
+        }
+      ],
+      "wikidataId": "Q440353",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6086433,
+      "ns": 0,
+      "title": "Gigantes",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-31T16:26:07Z",
+      "lastrevid": 72366298,
+      "length": 25,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Gigantes",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Gigantes&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Gigantes",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6398636,
+      "ns": 0,
+      "title": "Guardia Real (Canción de hielo y fuego)",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-24T21:34:38Z",
+      "lastrevid": 128016347,
+      "length": 15529,
+      "fullurl": "https://es.wikipedia.org/wiki/Guardia_Real_(Canci%C3%B3n_de_hielo_y_fuego)",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Guardia_Real_(Canci%C3%B3n_de_hielo_y_fuego)&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Guardia_Real_(Canci%C3%B3n_de_hielo_y_fuego)",
+      "pageprops": {
+        "wikibase_item": "Q13634866"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Organizaciones en Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Fusionar"
+        }
+      ],
+      "wikidataId": "Q13634866",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6432673,
+      "ns": 0,
+      "title": "Doran Martell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:33:54Z",
+      "lastrevid": 76981223,
+      "length": 44,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Doran_Martell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Doran_Martell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Doran_Martell",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6433111,
+      "ns": 0,
+      "title": "Hoster Tully",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:21:20Z",
+      "lastrevid": 76989176,
+      "length": 41,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Hoster_Tully",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Hoster_Tully&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Hoster_Tully",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6456129,
+      "ns": 0,
+      "title": "Fuerte Terror",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-03T19:49:00Z",
+      "lastrevid": 100444581,
+      "length": 69,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Fuerte_Terror",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Fuerte_Terror&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Fuerte_Terror",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6457757,
+      "ns": 0,
+      "title": "Hosteen Frey",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:28:34Z",
+      "lastrevid": 83767952,
+      "length": 40,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Hosteen_Frey",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Hosteen_Frey&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Hosteen_Frey",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6551949,
+      "ns": 0,
+      "title": "Esmé Bianco",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:33Z",
+      "lastrevid": 172430587,
+      "length": 12139,
+      "fullurl": "https://es.wikipedia.org/wiki/Esm%C3%A9_Bianco",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Esm%C3%A9_Bianco&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Esm%C3%A9_Bianco",
+      "pageprops": {
+        "defaultsort": "Bianco, Esmé",
+        "page_image_free": "Esmé_Bianco_2014.jpg",
+        "wikibase_item": "Q440013"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Esmé Bianco"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de cine de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices de televisión de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1982"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sobrevivientes de violación"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Mantenimiento de la plantilla Altura (metro)"
+        }
+      ],
+      "wikidataId": "Q440013",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6600208,
+      "ns": 0,
+      "title": "Ellaria Arena",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:34Z",
+      "lastrevid": 169336300,
+      "length": 7673,
+      "fullurl": "https://es.wikipedia.org/wiki/Ellaria_Arena",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Ellaria_Arena&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Ellaria_Arena",
+      "pageprops": {
+        "defaultsort": "Arena, Ellaria",
+        "wikibase_item": "Q24933002"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Ellaria Sand"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos de niños en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres bisexuales ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nobles ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Poliamorosos ficticios"
+        }
+      ],
+      "wikidataId": "Q24933002",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6617073,
+      "ns": 0,
+      "title": "Harys Swyft",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 80189464,
+      "length": 75,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Harys_Swyft",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Harys_Swyft&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Harys_Swyft",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6633315,
+      "ns": 0,
+      "title": "Donella Manderly",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 80439992,
+      "length": 80,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Donella_Manderly",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Donella_Manderly&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Donella_Manderly",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6634657,
+      "ns": 0,
+      "title": "Gendry",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-28T17:14:52Z",
+      "lastrevid": 80462165,
+      "length": 52,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Gendry",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Gendry&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Gendry",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6638021,
+      "ns": 0,
+      "title": "Genna Lannister",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-02-19T03:59:59Z",
+      "lastrevid": 80514435,
+      "length": 48,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Genna_Lannister",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Genna_Lannister&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Genna_Lannister",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6821252,
+      "ns": 0,
+      "title": "Guerra del Usurpador",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-05-17T19:29:45Z",
+      "lastrevid": 80883597,
+      "length": 37,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Guerra_del_Usurpador",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Guerra_del_Usurpador&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Guerra_del_Usurpador",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6863400,
+      "ns": 0,
+      "title": "Gorrión Supremo (Game of Thrones)",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:36Z",
+      "lastrevid": 172036709,
+      "length": 12449,
+      "fullurl": "https://es.wikipedia.org/wiki/Gorri%C3%B3n_Supremo_(Game_of_Thrones)",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Gorri%C3%B3n_Supremo_(Game_of_Thrones)&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Gorri%C3%B3n_Supremo_(Game_of_Thrones)",
+      "pageprops": {
+        "wikibase_item": "Q19853424"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de la quinta temporada de Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de televisión de Estados Unidos de 2015"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de televisión dirigidos por Mark Mylod"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con enlaces externos rotos"
+        }
+      ],
+      "wikidataId": "Q19853424",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6908461,
+      "ns": 0,
+      "title": "Gorrión Supremo",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:37Z",
+      "lastrevid": 174477912,
+      "length": 10169,
+      "fullurl": "https://es.wikipedia.org/wiki/Gorri%C3%B3n_Supremo",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Gorri%C3%B3n_Supremo&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Gorri%C3%B3n_Supremo",
+      "pageprops": {
+        "wikibase_item": "Q27031110"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes ficticios sin nombre"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sacerdotes ficticios"
+        }
+      ],
+      "wikidataId": "Q27031110",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7043978,
+      "ns": 0,
+      "title": "Dothraki",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-20T15:47:55Z",
+      "lastrevid": 169020327,
+      "length": 4517,
+      "fullurl": "https://es.wikipedia.org/wiki/Dothraki",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Dothraki&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Dothraki",
+      "pageprops": {
+        "wikibase_item": "Q3714491"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Lugares en Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q3714491",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7292628,
+      "ns": 0,
+      "title": "Hermandad sin Estandartes",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-01-03T16:22:15Z",
+      "lastrevid": 89138439,
+      "length": 93,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Hermandad_sin_Estandartes",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Hermandad_sin_Estandartes&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Hermandad_sin_Estandartes",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7292659,
+      "ns": 0,
+      "title": "Hodor",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 89139447,
+      "length": 69,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Hodor",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Hodor&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Hodor",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7469084,
+      "ns": 0,
+      "title": "El primero de su nombre",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:51Z",
+      "lastrevid": 161682862,
+      "length": 8612,
+      "fullurl": "https://es.wikipedia.org/wiki/El_primero_de_su_nombre",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=El_primero_de_su_nombre&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/El_primero_de_su_nombre",
+      "pageprops": {
+        "wikibase_item": "Q16773677"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de la cuarta temporada de Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de televisión de Estados Unidos de 2014"
+        }
+      ],
+      "wikidataId": "Q16773677",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7895554,
+      "ns": 0,
+      "title": "El portón",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:38:06Z",
+      "lastrevid": 161681116,
+      "length": 12352,
+      "fullurl": "https://es.wikipedia.org/wiki/El_port%C3%B3n",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=El_port%C3%B3n&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/El_port%C3%B3n",
+      "pageprops": {
+        "wikibase_item": "Q24205406"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de la sexta temporada de Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Episodios de televisión de Estados Unidos de 2016"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        }
+      ],
+      "wikidataId": "Q24205406",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7998360,
+      "ns": 0,
+      "title": "Guerra de los Cinco Reyes",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-31T03:53:33Z",
+      "lastrevid": 100432621,
+      "length": 86,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Guerra_de_los_Cinco_Reyes",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Guerra_de_los_Cinco_Reyes&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Guerra_de_los_Cinco_Reyes",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 8738820,
+      "ns": 0,
+      "title": "Ellie Kendrick",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:38:43Z",
+      "lastrevid": 173750422,
+      "length": 7441,
+      "fullurl": "https://es.wikipedia.org/wiki/Ellie_Kendrick",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Ellie_Kendrick&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Ellie_Kendrick",
+      "pageprops": {
+        "defaultsort": "Kendrick, Ellie",
+        "page_image_free": "Ellie_Kendrick_in_2018.jpg",
+        "wikibase_item": "Q2514417"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actrices infantiles de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1990"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Londres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SNAC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        }
+      ],
+      "wikidataId": "Q2514417",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 9033921,
+      "ns": 0,
+      "title": "Donald Sumpter",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:38:53Z",
+      "lastrevid": 165340238,
+      "length": 9344,
+      "fullurl": "https://es.wikipedia.org/wiki/Donald_Sumpter",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Donald_Sumpter&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Donald_Sumpter",
+      "pageprops": {
+        "defaultsort": "Sumpter, Donald",
+        "page_image_free": "Donald_Sumpter.jpg",
+        "wikibase_item": "Q3713649"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de cine de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Actores de televisión de Inglaterra"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1943"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores DeutscheBiographie"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q3713649",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    }
+  ]
+}

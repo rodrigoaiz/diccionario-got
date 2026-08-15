@@ -56,6 +56,14 @@ npm run dev
 `npm run import:test` regenera las fichas de prueba en `src/content/entries/` a partir de `scripts/import/fixtures/entries.sample.json`.
 `npm run import:mediawiki` consulta una categoria real, guarda la respuesta bruta y crea fichas minimas pendientes de revision.
 
+Para cargar candidatos desde los enlaces de una pagina sin clasificarlos automaticamente:
+
+```bash
+IMPORT_TYPE=Pendiente WIKI_LINKS_FROM="Anexo:Personajes de Canción de hielo y fuego" IMPORT_LIMIT=160 SKIP_WIKIDATA=true npm run import:mediawiki
+```
+
+Las fichas `Pendiente` no aparecen en la busqueda normal; se consultan desde el filtro `Pendientes`.
+
 Para importar lugares concretos sin sobreescribir fichas existentes:
 
 ```bash

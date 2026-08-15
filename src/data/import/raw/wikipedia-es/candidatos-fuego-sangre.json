@@ -1,0 +1,3066 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "linksFrom": "Fuego y sangre (novela)",
+  "titles": [],
+  "type": "Pendiente",
+  "fetchedAt": "2026-08-15",
+  "pages": [
+    {
+      "pageid": 243,
+      "ns": 0,
+      "title": "Aldea",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-17T06:28:10Z",
+      "lastrevid": 172082476,
+      "length": 5923,
+      "fullurl": "https://es.wikipedia.org/wiki/Aldea",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Aldea&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Aldea",
+      "pageprops": {
+        "page_image_free": "Tella_02.jpg",
+        "wikibase_item": "Q5084"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Hamlet (place)"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Arabismos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Entidades subnacionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Geografía rural"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con texto en inglés"
+        }
+      ],
+      "wikidataId": "Q5084",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1981,
+      "ns": 0,
+      "title": "Novela",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-02T21:56:32Z",
+      "lastrevid": 174038779,
+      "length": 56091,
+      "fullurl": "https://es.wikipedia.org/wiki/Novela",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Novela&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Novela",
+      "pageprops": {
+        "page_image_free": "Miguel_de_Cervantes_(1605)_El_ingenioso_hidalgo_Don_Quixote_de_la_Mancha.png",
+        "wikibase-badge-Q17437798": "",
+        "wikibase_item": "Q8261"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Novel"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Novela"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Subgéneros narrativos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con extractos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 14 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de ISBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias con parámetros obsoletos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin URL y con fecha de acceso"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas que utilizan control de autoridades con parámetros"
+        }
+      ],
+      "wikidataId": "Q8261",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 2721,
+      "ns": 0,
+      "title": "J. R. R. Tolkien",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:33:44Z",
+      "lastrevid": 173909164,
+      "length": 73091,
+      "fullurl": "https://es.wikipedia.org/wiki/J._R._R._Tolkien",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=J._R._R._Tolkien&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/J._R._R._Tolkien",
+      "pageprops": {
+        "defaultsort": "Tolkien, J. R. R.",
+        "page_image_free": "J._R._R._Tolkien,_ca._1925.jpg",
+        "wikibase_item": "Q892"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "J. R. R. Tolkien"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Candidatos al Premio Nobel de Literatura"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Católicos del Reino Unido"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Católicos tradicionalistas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Fallecidos en 1973"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Fallecidos en Bournemouth"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:J. R. R. Tolkien"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1892"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Bloemfontein"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en esperanto"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en francés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en polaco"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en sueco"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en ucraniano"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNB"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BVMC persona"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores DeutscheBiographie"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Europeana"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores NLA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores PARES"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Proyecto Gutenberg autor"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores RKDartists"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SNAC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Tebeosfera-autor"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ULAN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VcBA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con pasajes que requieren referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en alemán"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en catalán"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en gallego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en macedonio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en tailandés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en tártaro"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en otras ediciones de Wikipedia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con más de 30 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de ISBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias con parámetros obsoletos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin URL y con formato"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q892",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7965,
+      "ns": 0,
+      "title": "Tuberculosis",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:33:44Z",
+      "lastrevid": 174706220,
+      "length": 55365,
+      "fullurl": "https://es.wikipedia.org/wiki/Tuberculosis",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Tuberculosis&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Tuberculosis",
+      "pageprops": {
+        "page_image_free": "Tuberculosis-x-ray-1.jpg",
+        "wikibase_item": "Q12204"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Tuberculosis"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Enfermedades infecciosas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Enfermedades prevenibles por vacunación"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Enfermedades transmitidas por el aire"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Tuberculosis"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en baskir"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en checo"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en frisón"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en griego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en rumano"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en árabe"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con texto en griego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en alemán"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en catalán"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 26 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de ISBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de PMID"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q12204",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 11093,
+      "ns": 0,
+      "title": "El Silmarillion",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:33:44Z",
+      "lastrevid": 161659413,
+      "length": 15726,
+      "fullurl": "https://es.wikipedia.org/wiki/El_Silmarillion",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=El_Silmarillion&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/El_Silmarillion",
+      "pageprops": {
+        "page_image_free": "Silmarillion,_Just_under_the_Cover.jpg",
+        "wikibase_item": "Q79762"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "The Silmarillion"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Legendarium de J. R. R. Tolkien"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Libros de 1977"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Libros de Reino Unido"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Libros póstumos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con pasajes que requieren referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en latín"
+        }
+      ],
+      "wikidataId": "Q79762",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 19291,
+      "ns": 0,
+      "title": "Bosque",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-02T02:53:57Z",
+      "lastrevid": 174655812,
+      "length": 34036,
+      "fullurl": "https://es.wikipedia.org/wiki/Bosque",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Bosque&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Bosque",
+      "pageprops": {
+        "page_image_free": "Grib_skov.jpg",
+        "wikibase_item": "Q4421"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Forest"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Bosques"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Impactos ambientales potenciales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Términos botánicos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con pasajes que requieren referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 15 elementos"
+        }
+      ],
+      "wikidataId": "Q4421",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 48883,
+      "ns": 0,
+      "title": "ISBN",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-08T18:39:21Z",
+      "lastrevid": 174445913,
+      "length": 16025,
+      "fullurl": "https://es.wikipedia.org/wiki/ISBN",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=ISBN&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/ISBN",
+      "pageprops": {
+        "page_image_free": "EAN-13-ISBN-13.svg",
+        "wikibase_item": "Q33057"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "ISBN"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Algoritmos de suma de verificación"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Identificadores internacionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Libros"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Siglas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con texto en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de ISBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de RFC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q33057",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 87571,
+      "ns": 0,
+      "title": "Serie de televisión",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-13T10:17:19Z",
+      "lastrevid": 173999426,
+      "length": 40343,
+      "fullurl": "https://es.wikipedia.org/wiki/Serie_de_televisi%C3%B3n",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Serie_de_televisi%C3%B3n&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Serie_de_televisi%C3%B3n",
+      "pageprops": {
+        "page_image_free": "K.I.T.T._from_Knight_Rider_(5134036495).jpg",
+        "wikibase_item": "Q5398426"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Television series"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Cultura popular"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Televisión"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Televisión en el siglo XX"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Televisión en el siglo XXI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias adicionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q5398426",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 136789,
+      "ns": 0,
+      "title": "Biblioteca Nacional de España",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T12:22:42Z",
+      "lastrevid": 173760192,
+      "length": 97243,
+      "fullurl": "https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_Espa%C3%B1a",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Biblioteca_Nacional_de_Espa%C3%B1a&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_Espa%C3%B1a",
+      "pageprops": {
+        "page_image_free": "Biblioteca_Nacional_de_España_(Madrid)_09.jpg",
+        "wikibase_item": "Q750403"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Biblioteca Nacional de España"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Archivos de fotografía"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Biblioteca Nacional de España"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Bibliotecas nacionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Paseo de Recoletos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con enlaces externos rotos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ARAE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNB"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Dialnet"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Libraries.org"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores NLA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores PDCLM"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SNAC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Tabakalera"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ULAN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VcBA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con ubicación de sede en propiedad errónea"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 28 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con argumentos formatnum no numéricos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias con parámetros obsoletos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin URL y con fecha de acceso"
+        }
+      ],
+      "wikidataId": "Q750403",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 149344,
+      "ns": 0,
+      "title": "Precuela",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T14:33:13Z",
+      "lastrevid": 174846198,
+      "length": 20713,
+      "fullurl": "https://es.wikipedia.org/wiki/Precuela",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Precuela&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Precuela",
+      "pageprops": {
+        "wikibase_item": "Q678345"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Prequel"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Formas narrativas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Teoría del arte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Terminología cinematográfica"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con pasajes que requieren referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin URL y con fecha de acceso"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin URL y con formato"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin título"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q678345",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 194211,
+      "ns": 0,
+      "title": "The Guardian",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:33:54Z",
+      "lastrevid": 170316955,
+      "length": 21530,
+      "fullurl": "https://es.wikipedia.org/wiki/The_Guardian",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=The_Guardian&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/The_Guardian",
+      "pageprops": {
+        "defaultsort": "Guardian, The",
+        "page_image_free": "The_Guardian_Building_Window_in_London.JPG",
+        "wikibase_item": "Q11148"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Periódicos de Reino Unido"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Periódicos en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Publicaciones fundadas en 1821"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ACNP"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISSN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de ISBN"
+        }
+      ],
+      "wikidataId": "Q11148",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 206607,
+      "ns": 0,
+      "title": "George R. R. Martin",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:33:54Z",
+      "lastrevid": 174409348,
+      "length": 20149,
+      "fullurl": "https://es.wikipedia.org/wiki/George_R._R._Martin",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=George_R._R._Martin&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/George_R._R._Martin",
+      "pageprops": {
+        "defaultsort": "Martin, George R. R.",
+        "page_image_free": "Portrait_photoshoot_at_Worldcon_75,_Helsinki,_before_the_Hugo_Awards_–_George_R._R._Martin_(cropped).jpg",
+        "wikibase_item": "Q181677"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Agnósticos de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Autores ganadores del premio Hugo"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Autores ganadores del premio Nébula"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Escritores de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Escritores de ciencia ficción de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Escritores de literatura fantástica de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Escritores en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Hombres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en 1948"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Nacidos en Nueva Jersey"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelistas de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personas vivas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Premio Geffen"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNB"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores DeutscheBiographie"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Europeana"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores NLA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SNAC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Tabakalera"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Tebeosfera-autor"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias adicionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 29 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q181677",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 220333,
+      "ns": 0,
+      "title": "Desembocadura",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T11:58:56Z",
+      "lastrevid": 154940436,
+      "length": 1859,
+      "fullurl": "https://es.wikipedia.org/wiki/Desembocadura",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Desembocadura&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Desembocadura",
+      "pageprops": {
+        "page_image_free": "Desembocadura_del_Ebro.jpg",
+        "wikibase_item": "Q1233637"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Accidentes fluviales y lacustres"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Geomorfología fluvial"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        }
+      ],
+      "wikidataId": "Q1233637",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 226741,
+      "ns": 0,
+      "title": "Canción de hielo y fuego",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:33:56Z",
+      "lastrevid": 172154321,
+      "length": 107929,
+      "fullurl": "https://es.wikipedia.org/wiki/Canci%C3%B3n_de_hielo_y_fuego",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Canci%C3%B3n_de_hielo_y_fuego&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Canci%C3%B3n_de_hielo_y_fuego",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire.svg",
+        "wikibase_item": "Q45875"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Brujería en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Dragones en la cultura popular"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Fantasía heroica"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Fratricidio en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Incesto en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Literatura sobre la muerte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Magia en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Muertos vivientes en la cultura popular"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Novelas adaptadas a la televisión"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Obras sobre política"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Religión en la ficción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de novelas fantásticas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en hebreo"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en serbio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias que requieren suscripción"
+        }
+      ],
+      "wikidataId": "Q45875",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 310471,
+      "ns": 0,
+      "title": "Baja Edad Media",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-13T10:17:33Z",
+      "lastrevid": 174204396,
+      "length": 20510,
+      "fullurl": "https://es.wikipedia.org/wiki/Baja_Edad_Media",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Baja_Edad_Media&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Baja_Edad_Media",
+      "pageprops": {
+        "page_image_free": "DeathWatTylerFull.jpg",
+        "wikibase_item": "Q212976"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Baja Edad Media"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de ISBN"
+        }
+      ],
+      "wikidataId": "Q212976",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 337965,
+      "ns": 0,
+      "title": "Colina",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-01T19:48:18Z",
+      "lastrevid": 167396568,
+      "length": 18364,
+      "fullurl": "https://es.wikipedia.org/wiki/Colina",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Colina&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Colina",
+      "pageprops": {
+        "page_image_free": "Cerro_Pan_de_Azúcar2.jpg",
+        "wikibase_item": "Q54050"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Accidentes geográficos de ladera"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Cerros"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias adicionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q54050",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 431685,
+      "ns": 0,
+      "title": "Paladín",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-20T15:42:47Z",
+      "lastrevid": 171981131,
+      "length": 14224,
+      "fullurl": "https://es.wikipedia.org/wiki/Palad%C3%ADn",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Palad%C3%ADn&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Palad%C3%ADn",
+      "pageprops": {
+        "wikibase_item": "Q470845"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Caballeros ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Cantar de Roldán"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Carlomagno"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Ejércitos medievales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Enciclopedia Británica (edición de 1911)"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Feudalismo"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Leyendas medievales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Materia de Francia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Órdenes militares"
+        }
+      ],
+      "wikidataId": "Q470845",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 724951,
+      "ns": 0,
+      "title": "Casa Stark",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-24T21:23:28Z",
+      "lastrevid": 171392979,
+      "length": 25543,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Stark",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Stark&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Stark",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Stark_running_direwolf_white_scroll.png",
+        "wikibase_item": "Q2704863"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q2704863",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 726425,
+      "ns": 0,
+      "title": "Casa Targaryen",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-05T17:30:29Z",
+      "lastrevid": 174711470,
+      "length": 64695,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Targaryen",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Targaryen&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Targaryen",
+      "pageprops": {
+        "page_image_free": "House_Targaryen.png",
+        "wikibase_item": "Q2341521"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q2341521",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 734075,
+      "ns": 0,
+      "title": "Casa Lannister",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-14T11:25:13Z",
+      "lastrevid": 172131253,
+      "length": 21181,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Lannister",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Lannister&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Lannister",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Lannister_red_scroll.png",
+        "wikibase_item": "Q2739222"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q2739222",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 830959,
+      "ns": 0,
+      "title": "Nueva York",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:21Z",
+      "lastrevid": 174816690,
+      "length": 193409,
+      "fullurl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Nueva_York&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Nueva_York",
+      "pageprops": {
+        "kartographer_frames": "1",
+        "page_image_free": "View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg",
+        "wikibase-badge-Q17437796": "",
+        "wikibase_item": "Q60"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Nueva York"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Páginas con panorama"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Páginas que usan imágenes múltiples con imágenes escaladas automáticamente"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en alemán"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en checo"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en coreano"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en danés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en eslovaco"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en indonesio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en japonés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en vietnamita"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con datos locales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con ficha sin actualizar"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores NLA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Relación OSM"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SNAC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores TGN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VcBA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con pasajes que requieren referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con texto en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en armenio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en azerí"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en esperanto"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en euskera"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en feroés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en neerlandés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en portugués"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en otras ediciones de Wikipedia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 30 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con argumentos formatnum no numéricos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de ISBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con mapas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias con parámetros obsoletos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin URL y con fecha de acceso"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas que usan Phonos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas que utilizan la extensión EasyTimeline"
+        }
+      ],
+      "wikidataId": "Q60",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 878619,
+      "ns": 0,
+      "title": "Universo de Canción de hielo y fuego",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-05-28T00:30:16Z",
+      "lastrevid": 172816621,
+      "length": 57089,
+      "fullurl": "https://es.wikipedia.org/wiki/Universo_de_Canci%C3%B3n_de_hielo_y_fuego",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Universo_de_Canci%C3%B3n_de_hielo_y_fuego&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Universo_de_Canci%C3%B3n_de_hielo_y_fuego",
+      "pageprops": {
+        "wikibase_item": "Q2461698"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Lugares en Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Universos fantásticos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con pasajes que requieren referencias"
+        }
+      ],
+      "wikidataId": "Q2461698",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 917558,
+      "ns": 0,
+      "title": "Literatura fantástica",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-02T21:46:13Z",
+      "lastrevid": 174666388,
+      "length": 39406,
+      "fullurl": "https://es.wikipedia.org/wiki/Literatura_fant%C3%A1stica",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Literatura_fant%C3%A1stica&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Literatura_fant%C3%A1stica",
+      "pageprops": {
+        "page_image_free": "Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg",
+        "wikibase_item": "Q1057172"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Literatura fantástica"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con enlaces mágicos de ISBN"
+        }
+      ],
+      "wikidataId": "Q1057172",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 938369,
+      "ns": 0,
+      "title": "Casa Arryn",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-24T21:23:55Z",
+      "lastrevid": 171058229,
+      "length": 20767,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Arryn",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Arryn&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Arryn",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Arryn_blue_scroll.png",
+        "wikibase_item": "Q1411019"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q1411019",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 941289,
+      "ns": 0,
+      "title": "Casa Martell",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-04-14T11:26:20Z",
+      "lastrevid": 171058893,
+      "length": 28028,
+      "fullurl": "https://es.wikipedia.org/wiki/Casa_Martell",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Casa_Martell&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Casa_Martell",
+      "pageprops": {
+        "page_image_free": "A_Song_of_Ice_and_Fire_arms_of_House_Martell_scroll.png",
+        "wikibase_item": "Q1410912"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Casas nobiliarias de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q1410912",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1120787,
+      "ns": 0,
+      "title": "OCLC",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:33Z",
+      "lastrevid": 173930687,
+      "length": 4421,
+      "fullurl": "https://es.wikipedia.org/wiki/OCLC",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=OCLC&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/OCLC",
+      "pageprops": {
+        "page_image_free": "OCLC_logo.svg",
+        "wikibase_item": "Q190593"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Bibliotecas digitales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Investigación"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Organizaciones fundadas en 1967"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con coordenadas en Wikidata"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNB"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores NLA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SNAC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VcBA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 21 elementos"
+        }
+      ],
+      "wikidataId": "Q190593",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 1975491,
+      "ns": 0,
+      "title": "Coca (náutica)",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:35:10Z",
+      "lastrevid": 167525122,
+      "length": 4565,
+      "fullurl": "https://es.wikipedia.org/wiki/Coca_(n%C3%A1utica)",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Coca_(n%C3%A1utica)&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Coca_(n%C3%A1utica)",
+      "pageprops": {
+        "page_image_free": "2007_05_13_4_Koggen_beim_HH_Hafenfest.JPG",
+        "wikibase_item": "Q164057"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Embarcaciones de vela"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con pasajes que requieren referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con texto en alemán"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con texto en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias adicionales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q164057",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 2273730,
+      "ns": 0,
+      "title": "Idioma inglés",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-11T15:37:12Z",
+      "lastrevid": 174073992,
+      "length": 50713,
+      "fullurl": "https://es.wikipedia.org/wiki/Idioma_ingl%C3%A9s",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Idioma_ingl%C3%A9s&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Idioma_ingl%C3%A9s",
+      "pageprops": {
+        "page_image_free": "Anglospeak_(subnational_version).svg",
+        "wikibase_item": "Q1860"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Idioma inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en alemánico"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en finés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con pasajes que requieren referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con texto en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en macedonio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en suajili"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 17 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas que usan Phonos"
+        }
+      ],
+      "wikidataId": "Q1860",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 2400722,
+      "ns": 0,
+      "title": "Estados Unidos",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T18:22:40Z",
+      "lastrevid": 174511813,
+      "length": 229482,
+      "fullurl": "https://es.wikipedia.org/wiki/Estados_Unidos",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Estados_Unidos&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Estados_Unidos",
+      "pageprops": {
+        "page_image_free": "Flag_of_the_United_States_(Pantone).svg",
+        "wikibase-badge-Q17437796": "",
+        "wikibase_item": "Q30"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en catalán"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en danés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en finés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en lituano"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en min dong"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en tailandés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en yoruba"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en otras ediciones de Wikipedia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con enlaces externos rotos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con extractos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BDCYL"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BIBSYS"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNB"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNM"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BVPB"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores NLA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Open Library"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Proyecto Gutenberg autor"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores Relación OSM"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores SBN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores TGN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VcBA"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con texto en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en afrikáans"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en albanés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en aragonés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en azerí"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en cebuano"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en escocés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en esloveno"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en esperanto"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en euskera"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en feroés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en frisón"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en letón"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en malayalam"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en portugués"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en serbio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en árabe"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en otras ediciones de Wikipedia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos grabados"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con más de 30 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con argumentos formatnum no numéricos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias con parámetros obsoletos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias web sin URL"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con traducciones del inglés"
+        }
+      ],
+      "wikidataId": "Q30",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 2442483,
+      "ns": 0,
+      "title": "Bahía",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-13T10:17:09Z",
+      "lastrevid": 174237830,
+      "length": 17506,
+      "fullurl": "https://es.wikipedia.org/wiki/Bah%C3%ADa",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Bah%C3%ADa&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Bah%C3%ADa",
+      "pageprops": {
+        "page_image_free": "La_Serena-Coquimbo_Bahia.jpg",
+        "wikibase_item": "Q39594"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Bahías"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        }
+      ],
+      "wikidataId": "Q39594",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 2962741,
+      "ns": 0,
+      "title": "Open Library",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:35:33Z",
+      "lastrevid": 173021909,
+      "length": 2639,
+      "fullurl": "https://es.wikipedia.org/wiki/Open_Library",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Open_Library&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Open_Library",
+      "pageprops": {
+        "page_image_free": "Open_Library_tight_logo.svg",
+        "wikibase_item": "Q1201876"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Bases de datos bibliográficas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Bases de datos en línea"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Bibliotecas digitales"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Bibliotecas digitales de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Sitios web fundados en 2006"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Software libre programado en Python"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en ruso"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en otras ediciones de Wikipedia"
+        }
+      ],
+      "wikidataId": "Q1201876",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 3149053,
+      "ns": 0,
+      "title": "Fortaleza (arquitectura)",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-19T23:12:45Z",
+      "lastrevid": 157827720,
+      "length": 6110,
+      "fullurl": "https://es.wikipedia.org/wiki/Fortaleza_(arquitectura)",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Fortaleza_(arquitectura)&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Fortaleza_(arquitectura)",
+      "pageprops": {
+        "page_image_free": "Fortaleza_ST.jpg",
+        "wikibase_item": "Q57831"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Fortalezas"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos que necesitan referencias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Referenciar (aún sin clasificar)"
+        }
+      ],
+      "wikidataId": "Q57831",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 3535690,
+      "ns": 0,
+      "title": "Plaza & Janés",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:35:50Z",
+      "lastrevid": 173597152,
+      "length": 4225,
+      "fullurl": "https://es.wikipedia.org/wiki/Plaza_%26_Jan%C3%A9s",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Plaza_%26_Jan%C3%A9s&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Plaza_%26_Jan%C3%A9s",
+      "pageprops": {
+        "wikibase_item": "Q6079378"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Editoriales de España"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Empresas fundadas en 1959"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Penguin Random House Grupo Editorial"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores CANTIC"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores ISNI"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        }
+      ],
+      "wikidataId": "Q6079378",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 3964774,
+      "ns": 0,
+      "title": "Empalizada",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-13T17:34:53Z",
+      "lastrevid": 155390957,
+      "length": 2065,
+      "fullurl": "https://es.wikipedia.org/wiki/Empalizada",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Empalizada&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Empalizada",
+      "pageprops": {
+        "page_image_free": "St_Fagans_Celtic_village_palisade.jpg",
+        "wikibase_item": "Q90685"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Términos de arquitectura militar"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        }
+      ],
+      "wikidataId": "Q90685",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 4316607,
+      "ns": 0,
+      "title": "Game of Thrones",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:36:05Z",
+      "lastrevid": 173971692,
+      "length": 253159,
+      "fullurl": "https://es.wikipedia.org/wiki/Game_of_Thrones",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Game_of_Thrones&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Game_of_Thrones",
+      "pageprops": {
+        "wikibase-badge-Q17437796": "",
+        "wikibase_item": "Q23572"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Brujería en cine y televisión"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Dragones en la cultura popular"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Game of Thrones"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Ganadores del Primetime Emmy a la mejor serie dramática"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión con personajes LGBT"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de Estados Unidos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de Estados Unidos de los años 2010"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de HBO"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de Home Box Office"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de acción"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de alta fantasía"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de aventuras"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de drama"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de fantasía"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de fantasía oscura"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión de terror"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión finalizadas en 2019"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión iniciadas en 2011"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión rodadas en España"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión rodadas en Irlanda del Norte"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Series de televisión sobre incesto"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en inglés"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en persa"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos buenos en la Wikipedia en árabe"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNE"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores BNF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en bosnio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos destacados en la Wikipedia en serbio"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Control de autoridades con 16 elementos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Páginas con referencias sin URL y con fecha de acceso"
+        }
+      ],
+      "wikidataId": "Q23572",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5040680,
+      "ns": 0,
+      "title": "Control de autoridades",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-11T10:26:32Z",
+      "lastrevid": 173997899,
+      "length": 8334,
+      "fullurl": "https://es.wikipedia.org/wiki/Control_de_autoridades",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Control_de_autoridades&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Control_de_autoridades",
+      "pageprops": {
+        "wikibase_item": "Q118455746"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Archivística"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Bibliotecas e información científica"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Metadatos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores AAT"
+        }
+      ],
+      "wikidataId": "Q118455746",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5291797,
+      "ns": 0,
+      "title": "Wikidata",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T13:35:04Z",
+      "lastrevid": 174749304,
+      "length": 17875,
+      "fullurl": "https://es.wikipedia.org/wiki/Wikidata",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Wikidata&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Wikidata",
+      "pageprops": {
+        "page_image_free": "Wikidata-logo-en.svg",
+        "wikibase_item": "Q2013"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Bases de conocimiento"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Bases de datos en línea"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Datos abiertos"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Introducciones relacionadas a la ciencia de la computación de 2012"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Proyectos Wikimedia"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores GND"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores LCCN"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos con identificadores VIAF"
+        }
+      ],
+      "wikidataId": "Q2013",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5966257,
+      "ns": 0,
+      "title": "Publishers Weekly",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:37:13Z",
+      "lastrevid": 167100154,
+      "length": 1291,
+      "fullurl": "https://es.wikipedia.org/wiki/Publishers_Weekly",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Publishers_Weekly&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Publishers_Weekly",
+      "pageprops": {
+        "page_image_free": "Publishers_Weekly_logo.svg",
+        "wikibase_item": "Q2096635"
+      },
+      "wikidataId": "Q2096635",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 8855172,
+      "ns": 0,
+      "title": "ISSN",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-06-28T03:15:20Z",
+      "lastrevid": 167486376,
+      "length": 54,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/ISSN",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=ISSN&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/ISSN",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 9692940,
+      "ns": 0,
+      "title": "Bantam Books",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-07-14T21:11:48Z",
+      "lastrevid": 173715044,
+      "length": 8673,
+      "fullurl": "https://es.wikipedia.org/wiki/Bantam_Books",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Bantam_Books&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Bantam_Books",
+      "pageprops": {
+        "wikibase_item": "Q2609948"
+      },
+      "wikidataId": "Q2609948",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 9817131,
+      "ns": 0,
+      "title": "La casa del dragón",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:39:19Z",
+      "lastrevid": 174828020,
+      "length": 47158,
+      "fullurl": "https://es.wikipedia.org/wiki/La_casa_del_drag%C3%B3n",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=La_casa_del_drag%C3%B3n&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/La_casa_del_drag%C3%B3n",
+      "pageprops": {
+        "page_image_free": "La_casa_del_dragón_logo.png",
+        "wikibase_item": "Q72930269"
+      },
+      "wikidataId": "Q72930269",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 9907768,
+      "ns": 0,
+      "title": "Kirkus Reviews",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:39:23Z",
+      "lastrevid": 174581742,
+      "length": 11011,
+      "fullurl": "https://es.wikipedia.org/wiki/Kirkus_Reviews",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Kirkus_Reviews&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Kirkus_Reviews",
+      "pageprops": {
+        "wikibase_item": "Q3197403"
+      },
+      "wikidataId": "Q3197403",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    }
+  ]
+}

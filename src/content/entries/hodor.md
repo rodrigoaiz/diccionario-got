@@ -3,17 +3,19 @@ id: "mediawiki-es-7292659"
 slug: "hodor"
 nameEs: "Hodor"
 nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+type: "Personaje"
+continuity: "Libros"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Mozo de cuadras de Invernalia cuya enorme fuerza y sencillez lo convierten en un compañero esencial para Bran Stark durante su huida."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Hodor","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Hodor","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Mozo de cuadras de Invernalia cuya enorme fuerza y sencillez lo convierten en un compañero esencial para Bran Stark durante su huida.

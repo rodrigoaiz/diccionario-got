@@ -3,17 +3,19 @@ id: "mediawiki-es-7435036"
 slug: "craster"
 nameEs: "Craster"
 nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+type: "Personaje"
+continuity: "Libros"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Anfitrión de la Guardia de la Noche más allá del Muro, temido por sus costumbres y por la relación brutal que mantiene con su familia."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Craster","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Craster","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Anfitrión de la Guardia de la Noche más allá del Muro, temido por sus costumbres y por la relación brutal que mantiene con su familia.

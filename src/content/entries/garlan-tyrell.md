@@ -3,17 +3,19 @@ id: "mediawiki-es-1388451"
 slug: "garlan-tyrell"
 nameEs: "Garlan Tyrell"
 nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+type: "Personaje"
+continuity: "Libros"
+region: "El Dominio"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Hijo de Mace Tyrell y caballero respetado, conocido por su competencia en combate y por su papel dentro de la política del Dominio."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Garlan_Tyrell","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Garlan_Tyrell","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Hijo de Mace Tyrell y caballero respetado, conocido por su competencia en combate y por su papel dentro de la política del Dominio.

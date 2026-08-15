@@ -3,17 +3,19 @@ id: "mediawiki-es-6974120"
 slug: "alester-florent"
 nameEs: "Alester Florent"
 nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+type: "Personaje"
+continuity: "Libros"
+region: "Tierras de la Tormenta"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Señor de la Casa Florent y consejero de Stannis Baratheon, cuya lealtad queda tensionada por la guerra y las alianzas de su familia."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Alester_Florent","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Alester_Florent","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Señor de la Casa Florent y consejero de Stannis Baratheon, cuya lealtad queda tensionada por la guerra y las alianzas de su familia.

@@ -64,6 +64,8 @@ IMPORT_TYPE=Pendiente WIKI_LINKS_FROM="Anexo:Personajes de Canción de hielo y f
 
 Las fichas `Pendiente` no aparecen en la busqueda normal; se consultan desde el filtro `Pendientes`.
 
+`npm run promote:characters` convierte el bloque curado de personajes en fichas editoriales con resumen, region, continuidad y equivalentes bilingues.
+
 Para importar lugares concretos sin sobreescribir fichas existentes:
 
 ```bash

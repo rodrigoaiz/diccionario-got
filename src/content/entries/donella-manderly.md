@@ -3,17 +3,19 @@ id: "mediawiki-es-6633315"
 slug: "donella-manderly"
 nameEs: "Donella Manderly"
 nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+type: "Personaje"
+continuity: "Libros"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Miembro de la Casa Manderly vinculada a la política de Puerto Blanco y a las lealtades norteñas durante la guerra."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Donella_Manderly","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Donella_Manderly","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Miembro de la Casa Manderly vinculada a la política de Puerto Blanco y a las lealtades norteñas durante la guerra.

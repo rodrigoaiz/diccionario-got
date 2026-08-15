@@ -3,17 +3,19 @@ id: "mediawiki-es-6634657"
 slug: "gendry"
 nameEs: "Gendry"
 nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+type: "Personaje"
+continuity: "Libros"
+region: "Tierras de la Corona"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Aprendiz de herrero y bastardo de Robert Baratheon, cuya identidad lo convierte en una pieza valiosa para quienes disputan la sucesión."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Gendry","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Gendry","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Aprendiz de herrero y bastardo de Robert Baratheon, cuya identidad lo convierte en una pieza valiosa para quienes disputan la sucesión.

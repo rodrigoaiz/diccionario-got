@@ -3,17 +3,19 @@ id: "mediawiki-es-6631619"
 slug: "alys-karstark"
 nameEs: "Alys Karstark"
 nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+type: "Personaje"
+continuity: "Libros"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Heredera de Karhold y miembro de una rama norteña enfrentada a la crisis sucesoria que sigue a la guerra de los Cinco Reyes."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Alys_Karstark","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Alys_Karstark","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Heredera de Karhold y miembro de una rama norteña enfrentada a la crisis sucesoria que sigue a la guerra de los Cinco Reyes.

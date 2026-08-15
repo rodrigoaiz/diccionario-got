@@ -3,17 +3,19 @@ id: "mediawiki-es-6609988"
 slug: "boros-blount"
 nameEs: "Boros Blount"
 nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+type: "Personaje"
+continuity: "Libros"
+region: "Tierras de la Corona"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Caballero de la Guardia Real cuya trayectoria muestra la obediencia y las concesiones de quienes sirven a una corte inestable."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Boros_Blount","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Boros_Blount","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Caballero de la Guardia Real cuya trayectoria muestra la obediencia y las concesiones de quienes sirven a una corte inestable.

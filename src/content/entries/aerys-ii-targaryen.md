@@ -2,18 +2,20 @@
 id: "mediawiki-es-6433118"
 slug: "aerys-ii-targaryen"
 nameEs: "Aerys II Targaryen"
-nameEn: ""
+nameEn: "Aerys II Targaryen"
 type: "Personaje"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
-aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este personaje."
+continuity: "Libros"
+region: "Tierras de la Corona"
+aliases: ["The Mad King"]
+summary: "Último rey Targaryen antes de la rebelión de Robert, recordado como el Rey Loco por la crueldad y la paranoia de sus últimos años."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: "Q18920152"
 sourceCategories: ["Categoría:Personajes de Canción de hielo y fuego","Categoría:Reyes ficticios"]
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Aerys_II_Targaryen","consulted":"2026-08-15","confidence":"pendiente-de-verificar"},{"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q18920152","consulted":"2026-08-15","confidence":"estructurado"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Aerys_II_Targaryen","consulted":"2026-08-15","confidence":"revisada"},{"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q18920152","consulted":"2026-08-15","confidence":"estructurado"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este personaje.
+Último rey Targaryen antes de la rebelión de Robert, recordado como el Rey Loco por la crueldad y la paranoia de sus últimos años.

@@ -3,17 +3,19 @@ id: "mediawiki-es-726369"
 slug: "benjen-stark"
 nameEs: "Benjen Stark"
 nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+type: "Personaje"
+continuity: "Libros"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Hermano menor de Eddard Stark y primer explorador de la Guardia de la Noche, cuya desaparición abre uno de los misterios del Muro."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Benjen_Stark","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Benjen_Stark","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Hermano menor de Eddard Stark y primer explorador de la Guardia de la Noche, cuya desaparición abre uno de los misterios del Muro.

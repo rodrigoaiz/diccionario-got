@@ -3,17 +3,19 @@ id: "mediawiki-es-731995"
 slug: "aemon-targaryen"
 nameEs: "Aemon Targaryen"
 nameEn: ""
-type: "Pendiente"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+type: "Personaje"
+continuity: "Libros"
+region: "El Muro"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente."
+summary: "Maestre de la Guardia de la Noche y último Targaryen de su generación; su consejo acompaña a Jon Nieve durante los años decisivos en el Muro."
 accent: "ochre"
+editorialStatus: "revisada"
+spoilerLevel: "spoiler-total"
 wikidataId: ""
 sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Aemon_Targaryen","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Aemon_Targaryen","consulted":"2026-08-15","confidence":"revisada"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este pendiente.
+Maestre de la Guardia de la Noche y último Targaryen de su generación; su consejo acompaña a Jon Nieve durante los años decisivos en el Muro.

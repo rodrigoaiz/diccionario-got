@@ -11,6 +11,7 @@
     "import:test": "node scripts/import/test-import.mjs",
     "review:characters": "node scripts/import/review-characters.mjs",
     "review:secondary": "node scripts/import/review-secondary.mjs",
+    "seed:priority": "node scripts/import/manual-priority.mjs",
     "import:mediawiki": "node scripts/import/mediawiki-import.mjs"
   },
   "dependencies": {

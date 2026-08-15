@@ -1,0 +1,48 @@
+<div class="faction-picker" data-faction-picker>
+  <div class="faction-picker-copy">
+    <span class="eyebrow">La danza de los dragones</span>
+    <p>Elige tu bando y deja que el acento del diccionario lo anuncie.</p>
+  </div>
+
+  <div class="faction-options" role="group" aria-label="Elegir bando">
+    <button class="faction-option faction-green" type="button" data-faction-option="green" aria-pressed="false">
+      <span class="faction-sigil" aria-hidden="true">G</span>
+      <span>
+        <strong>Team Green</strong>
+        <small>La legitimidad</small>
+      </span>
+    </button>
+    <button class="faction-option faction-black" type="button" data-faction-option="black" aria-pressed="false">
+      <span class="faction-sigil" aria-hidden="true">B</span>
+      <span>
+        <strong>Team Black</strong>
+        <small>La sangre del dragón</small>
+      </span>
+    </button>
+  </div>
+</div>
+
+<script is:inline>
+  const root = document.documentElement;
+  const picker = document.querySelector('[data-faction-picker]');
+  const options = picker?.querySelectorAll('[data-faction-option]');
+  const savedFaction = window.localStorage.getItem('got-faction');
+
+  const updateFaction = (faction) => {
+    root.dataset.faction = faction;
+    options?.forEach((option) => {
+      option.setAttribute('aria-pressed', String(option.dataset.factionOption === faction));
+    });
+  };
+
+  updateFaction(savedFaction === 'black' ? 'black' : 'green');
+
+  options?.forEach((option) => {
+    option.addEventListener('click', () => {
+      const faction = option.dataset.factionOption;
+      if (!faction) return;
+      updateFaction(faction);
+      window.localStorage.setItem('got-faction', faction);
+    });
+  });
+</script>

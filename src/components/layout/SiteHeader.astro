@@ -6,11 +6,11 @@ const isSources = pathname.startsWith('/fuentes');
 ---
 
 <header class="site-header">
-  <a class="wordmark" href="/" aria-label="Diccionario de referencia de Poniente, inicio">
+  <a class="wordmark" href="/" aria-label="Diccionario GOT, inicio">
     <span class="wordmark-seal" aria-hidden="true">P</span>
     <span class="wordmark-copy">
-      <span class="wordmark-kicker">Atlas de referencia</span>
-      <span class="wordmark-title">Poniente</span>
+      <span class="wordmark-kicker">Español ↔ inglés</span>
+      <span class="wordmark-title">Diccionario GOT</span>
     </span>
   </a>
 
@@ -30,9 +30,14 @@ const isSources = pathname.startsWith('/fuentes');
   const root = document.documentElement;
   const toggle = document.querySelector('[data-theme-toggle]');
   const savedTheme = window.localStorage.getItem('poniente-theme');
+  const savedFaction = window.localStorage.getItem('got-faction');
 
   if (savedTheme === 'light' || savedTheme === 'dark') {
     root.dataset.theme = savedTheme;
+  }
+
+  if (savedFaction === 'green' || savedFaction === 'black') {
+    root.dataset.faction = savedFaction;
   }
 
   const updateThemeButton = () => {

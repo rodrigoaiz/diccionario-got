@@ -11,8 +11,8 @@ interface Props {
 }
 
 const {
-  title = 'Diccionario de Poniente | Nombres y equivalencias',
-  description = 'Un atlas bilingüe para orientarse entre nombres, continuidades y lugares de Poniente.',
+  title = 'Diccionario GOT | Español e inglés',
+  description = 'Diccionario español-inglés para orientarse entre nombres, continuidades y lugares de Juego de Tronos.',
   noindex = false,
   ogType = 'website',
   jsonLd,
@@ -53,7 +53,7 @@ const serializedSchema = JSON.stringify({
     <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
     {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
     <meta property="og:locale" content="es_ES" />
-    <meta property="og:site_name" content="Diccionario de referencia de Poniente" />
+    <meta property="og:site_name" content="Diccionario GOT" />
     <meta property="og:type" content={ogType} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />

@@ -9,8 +9,8 @@ const dictionaryEntries = contentEntries.map(({ data }) => ({ ...data, slug: dat
 ---
 
 <BaseLayout
-  title="Diccionario bilingue de Poniente | Índice completo"
-  description="Busca nombres, alias y equivalencias en español e inglés del universo de Poniente."
+  title="Diccionario GOT | Índice completo"
+  description="Busca nombres, alias y equivalencias en español e inglés del universo de Juego de Tronos."
 >
   <SiteHeader />
   <main class="dictionary-page shell">
@@ -22,7 +22,7 @@ const dictionaryEntries = contentEntries.map(({ data }) => ({ ...data, slug: dat
     <SearchExplorer entries={dictionaryEntries} client:load />
   </main>
   <footer class="site-footer shell">
-    <span>Diccionario de referencia de Poniente</span>
+    <span>Diccionario GOT</span>
     <a href="/">Volver al inicio <span aria-hidden="true">↗</span></a>
   </footer>
 </BaseLayout>

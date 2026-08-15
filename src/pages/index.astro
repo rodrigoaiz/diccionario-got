@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import SiteHeader from '../components/layout/SiteHeader.astro';
+import FactionPicker from '../components/layout/FactionPicker.astro';
 import SearchExplorer from '../components/islands/SearchExplorer';
 import MapPreview from '../components/atlas/MapPreview.astro';
 import { getCollection } from 'astro:content';
@@ -13,14 +14,14 @@ const featuredEntries = preparedEntries.slice(0, 4);
 ---
 
 <BaseLayout
-  title="Diccionario de Poniente | Nombres y equivalencias"
-  description="Diccionario bilingüe de Poniente: equivalencias de nombres, personajes, lugares y casas de Canción de hielo y fuego, Game of Thrones y House of the Dragon."
+  title="Diccionario GOT | Español e inglés"
+  description="Diccionario español-inglés de Juego de Tronos: busca personajes, lugares, casas, dragones y conceptos por nombre o alias."
   jsonLd={{
     '@type': 'WebSite',
     '@id': `${SITE_URL}/#website`,
     url: SITE_URL,
-    name: 'Diccionario de referencia de Poniente',
-    description: 'Atlas bilingüe para consultar nombres, equivalencias y relaciones del universo de Poniente.',
+    name: 'Diccionario GOT',
+    description: 'Diccionario español-inglés para consultar nombres, equivalencias y relaciones de Juego de Tronos.',
     inLanguage: 'es',
   }}
 >
@@ -29,41 +30,44 @@ const featuredEntries = preparedEntries.slice(0, 4);
   <main>
     <section class="hero shell">
       <div class="hero-copy">
-        <p class="eyebrow reveal-one">Entrada principal <span>·</span> edición bilingüe</p>
-        <h1 class="reveal-two">&iquest;Qu&eacute; nombre<br /><em>est&aacute;s buscando?</em></h1>
+        <p class="eyebrow reveal-one">Diccionario español <span>↔</span> inglés · Juego de Tronos</p>
+        <h1 class="reveal-two">Los nombres de GOT,<br /><em>en ambos idiomas.</em></h1>
         <p class="hero-intro reveal-three">
-          Una referencia para leer Poniente sin perderse entre traducciones, adaptaciones y siglos de historia.
+          Busca personajes, lugares, casas, dragones y conceptos como los recuerdas. Encuentra su equivalente en inglés y sigue tirando del hilo.
         </p>
         <div class="hero-note reveal-four">
           <span class="note-mark">01</span>
-          <p><strong>Una entrada, dos nombres.</strong> Empieza por la palabra que tienes delante y deja que el atlas haga el resto.</p>
+          <p><strong>Escribe como te salga.</strong> Aceptamos nombres en español, inglés y alias para que vuelvas rápido a la historia.</p>
         </div>
       </div>
 
-      <div class="hero-index" aria-label="Resumen del atlas">
-        <div class="index-line"><span>Volumen</span><strong>I</strong></div>
-        <div class="index-line"><span>Entradas preparadas</span><strong>{String(preparedEntries.length).padStart(2, '0')}</strong></div>
-        <div class="index-line"><span>Continuidades</span><strong>05</strong></div>
-        <div class="index-line"><span>Estado</span><strong class="status"><i></i> En edición</strong></div>
-        <p class="index-caption">Un proyecto independiente de consulta y orientación para lectores.</p>
-      </div>
-    </section>
-
-    <section class="dictionary-section shell" id="diccionario">
-      <div class="section-heading">
-        <div>
-          <span class="eyebrow">01 / Diccionario</span>
-          <h2>La respuesta empieza<br />por el nombre.</h2>
+      <aside class="hero-aside" aria-label="Tu bando y estado del diccionario">
+        <FactionPicker />
+        <div class="hero-index">
+          <p class="index-kicker">El diccionario, ahora</p>
+          <div class="index-line"><span>Términos indexados</span><strong>{String(preparedEntries.length).padStart(2, '0')}</strong></div>
+          <div class="index-line"><span>Qué incluye</span><strong>ES ↔ EN</strong></div>
+          <div class="index-line"><span>Estado</span><strong class="status"><i></i> En crecimiento</strong></div>
+          <p class="index-caption">Una referencia independiente para leer y ver Juego de Tronos sin perderse en las traducciones.</p>
         </div>
-        <p>Busca en español, inglés o por alias. Cada entrada separa con claridad lo que pertenece al libro, a la serie o a una interpretación.</p>
+      </aside>
+
+      <div class="hero-search" id="diccionario">
+        <div class="hero-search-heading">
+          <div>
+            <span class="eyebrow">Busca primero</span>
+            <h2>¿Qué nombre tienes delante?</h2>
+          </div>
+          <p>Prueba con español, inglés o un alias. Después puedes filtrar por tipo.</p>
+        </div>
+        <SearchExplorer entries={dictionaryEntries} client:load />
       </div>
-       <SearchExplorer entries={dictionaryEntries} client:load />
     </section>
 
     <section class="featured-section shell">
       <div class="section-heading compact-heading">
         <div>
-          <span class="eyebrow">Selección editorial</span>
+          <span class="eyebrow">Después de encontrarlo</span>
           <h2>Para seguir tirando del hilo</h2>
         </div>
         <a class="text-link" href="#diccionario">Ver todas las entradas <span aria-hidden="true">↗</span></a>
@@ -96,7 +100,7 @@ const featuredEntries = preparedEntries.slice(0, 4);
   </main>
 
   <footer class="site-footer shell">
-    <span>Diccionario de referencia de Poniente</span>
+    <span>Diccionario GOT</span>
     <span>Lectura en español · Equivalencias en inglés</span>
     <span>Edición abierta · 2026</span>
   </footer>

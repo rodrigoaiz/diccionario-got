@@ -14,6 +14,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props as { entry: DictionaryEntry };
+const allEntries = await getCollection('entries');
 const continuities = entry.continuity.split(' · ');
 const spoilerLevel = entry.spoilerLevel ?? 'spoiler-total';
 const spoilerLabel = {
@@ -89,10 +90,16 @@ const entryRelationships = relationships.filter(
                 const isSource = relationship.source === entry.slug;
                 const relatedSlug = isSource ? relationship.target : relationship.source;
                 const relatedLabel = isSource ? relationship.targetLabel : relationship.sourceLabel;
+                const relatedEntry = allEntries.find((item) => item.data.slug === relatedSlug);
+                const relatedEnglish = relatedEntry?.data.nameEn;
                 return (
                   <div class="relationship-row">
                     <span>{isSource ? relationship.type.replaceAll('_', ' ') : 'relacionado con'}</span>
-                    <a href={`/diccionario/${relatedSlug}/`}>{relatedLabel} <span aria-hidden="true">↗</span></a>
+                    <a href={`/diccionario/${relatedSlug}/`}>
+                      <strong>{relatedLabel}</strong>
+                      {relatedEnglish && <small>{relatedEnglish}</small>}
+                      <span aria-hidden="true">↗</span>
+                    </a>
                   </div>
                 );
               })}

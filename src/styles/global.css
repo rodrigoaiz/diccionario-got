@@ -574,10 +574,25 @@ h1 em {
 }
 
 .relationship-row a {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px;
   color: var(--ochre);
+  transition: color 180ms ease;
+}
+
+.relationship-row a strong {
   font-family: Bitter, serif;
   font-size: 18px;
-  transition: color 180ms ease;
+  font-weight: 500;
+}
+
+.relationship-row a small {
+  color: var(--muted);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .relationship-row a:hover {

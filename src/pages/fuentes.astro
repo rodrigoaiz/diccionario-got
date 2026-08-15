@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import SiteHeader from '../components/layout/SiteHeader.astro';
+import Icon from '../components/ui/Icon.astro';
 
 const sources = [
   {
@@ -73,7 +74,7 @@ const sources = [
             <span>{source.role}</span>
           </div>
           <p>{source.note}</p>
-          <a class="source-url" href={source.url} target="_blank" rel="noreferrer">Visitar fuente <span aria-hidden="true">↗</span></a>
+          <a class="source-url" href={source.url} target="_blank" rel="noreferrer">Visitar fuente <Icon name="arrow-up-right" size={16} /></a>
         </article>
       ))}
     </section>
@@ -89,6 +90,6 @@ const sources = [
   </main>
   <footer class="site-footer shell">
     <span>Diccionario GOT</span>
-    <a href="/diccionario/">Volver al diccionario <span aria-hidden="true">↗</span></a>
+    <a href="/diccionario/">Volver al diccionario <Icon name="arrow-up-right" size={16} /></a>
   </footer>
 </BaseLayout>

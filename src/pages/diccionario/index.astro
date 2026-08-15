@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SiteHeader from '../../components/layout/SiteHeader.astro';
 import SearchExplorer from '../../components/islands/SearchExplorer';
+import Icon from '../../components/ui/Icon.astro';
 import { getCollection } from 'astro:content';
 
 const contentEntries = await getCollection('entries');
@@ -23,6 +24,6 @@ const dictionaryEntries = contentEntries.map(({ data }) => ({ ...data, slug: dat
   </main>
   <footer class="site-footer shell">
     <span>Diccionario GOT</span>
-    <a href="/">Volver al inicio <span aria-hidden="true">↗</span></a>
+    <a href="/">Volver al inicio <Icon name="arrow-up-right" size={16} /></a>
   </footer>
 </BaseLayout>

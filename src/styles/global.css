@@ -260,9 +260,11 @@ input:focus-visible {
 }
 
 .theme-icon {
+  display: grid;
+  place-items: center;
+  width: 19px;
+  height: 19px;
   color: var(--ochre);
-  font-size: 19px;
-  line-height: 1;
 }
 
 .hero {
@@ -485,8 +487,6 @@ h1 em {
   height: 27px;
   border: 1px solid var(--team-accent);
   color: var(--team-accent);
-  font-size: 18px;
-  line-height: 1;
 }
 
 .hero-cta-copy {
@@ -506,6 +506,8 @@ h1 em {
 }
 
 .hero-cta-arrow {
+  display: grid;
+  place-items: center;
   font-size: 18px;
   line-height: 1;
   color: var(--team-accent);
@@ -689,6 +691,8 @@ h1 em {
 
 .back-link {
   display: inline-flex;
+  align-items: center;
+  gap: 6px;
   margin-bottom: 62px;
   color: var(--ochre);
   font-size: 13px;
@@ -1037,11 +1041,12 @@ h1 em {
 }
 
 .search-mark {
+  display: grid;
+  flex: none;
+  place-items: center;
+  width: 22px;
+  height: 22px;
   color: var(--ochre);
-  font-family: serif;
-  font-size: 28px;
-  line-height: 0.7;
-  transform: rotate(-20deg);
 }
 
 .search-field {
@@ -1209,9 +1214,10 @@ h1 em {
 }
 
 .result-arrow {
+  display: grid;
+  place-items: center;
   padding-top: 2px;
   color: var(--faint);
-  font-size: 19px;
   transition: color 180ms ease, transform 180ms ease;
 }
 
@@ -1229,9 +1235,9 @@ h1 em {
 }
 
 .empty-symbol {
+  display: grid;
+  place-items: center;
   color: var(--rust);
-  font-family: Bitter, serif;
-  font-size: 28px;
 }
 
 .empty-results strong {
@@ -1278,13 +1284,19 @@ h1 em {
 }
 
 .text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   align-self: end;
   padding: 8px 0;
 }
 
-.text-link span {
-  margin-left: 6px;
-  font-size: 16px;
+.source-url,
+.map-link,
+.site-footer a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
 }
 
 .featured-grid {
@@ -1674,6 +1686,7 @@ h1 em {
 
 .map-link {
   display: inline-flex;
+  align-items: center;
   gap: 9px;
   padding-top: 15px;
   color: var(--ochre);

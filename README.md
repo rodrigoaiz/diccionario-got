@@ -38,6 +38,7 @@ El repositorio `tickets-sep` queda fuera de este proyecto y no debe modificarse 
 - [`docs/IMPORT-PLAN.md`](docs/IMPORT-PLAN.md): estrategia para la carga masiva y normalizacion.
 - [`docs/SOURCES.md`](docs/SOURCES.md): fuentes investigadas, usos y precauciones.
 - [`docs/OPEN-QUESTIONS.md`](docs/OPEN-QUESTIONS.md): decisiones que siguen pendientes.
+- [`docs/DESIGN-FOUNDATION.md`](docs/DESIGN-FOUNDATION.md): base visual reutilizable, tokens, composición y patrones de UI.
 - [`.impeccable.md`](.impeccable.md): contexto visual para futuras sesiones de diseno.
 
 ## Siguiente paso

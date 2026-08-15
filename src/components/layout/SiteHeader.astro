@@ -1,4 +1,6 @@
 ---
+import Icon from '../ui/Icon.astro';
+
 const pathname = Astro.url.pathname;
 const isDictionary = pathname === '/' || pathname.startsWith('/diccionario');
 const isMap = pathname.startsWith('/mapa');
@@ -20,8 +22,8 @@ const isSources = pathname.startsWith('/fuentes');
     <a class={isSources ? 'active' : ''} href="/fuentes/">Fuentes <span>03</span></a>
   </nav>
 
-  <button class="theme-toggle" type="button" data-theme-toggle aria-label="Cambiar tema" aria-pressed="true">
-    <span class="theme-icon" aria-hidden="true">◐</span>
+<button class="theme-toggle" type="button" data-theme-toggle aria-label="Cambiar tema" aria-pressed="true">
+    <span class="theme-icon"><Icon name="theme" size={19} /></span>
     <span class="theme-label">Modo claro</span>
   </button>
 </header>

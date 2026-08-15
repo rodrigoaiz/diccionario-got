@@ -1,5 +1,7 @@
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import type { DictionaryEntry, EntryType } from '../../data/entries';
+import { getContinuityLabel, getEntrySummary, getRegionLabel } from '../../data/entryPresentation';
+import Icon from '../ui/Icon';
 
 const filterOptions: Array<{ label: string; value: 'Todos' | EntryType }> = [
   { label: 'Todos', value: 'Todos' },
@@ -30,7 +32,22 @@ type Props = {
 export default function SearchExplorer({ entries }: Props) {
   const [query, setQuery] = useState('');
   const [activeType, setActiveType] = useState<'Todos' | EntryType>('Todos');
+  const searchInputRef = useRef<HTMLInputElement>(null);
   const normalizedQuery = normalize(query.trim());
+
+  useEffect(() => {
+    const handleShortcut = (event: KeyboardEvent) => {
+      const target = event.target as HTMLElement | null;
+      const isTyping = target?.matches('input, textarea, select, [contenteditable="true"]');
+
+      if (event.key !== '/' || isTyping || event.metaKey || event.ctrlKey || event.altKey) return;
+      event.preventDefault();
+      searchInputRef.current?.focus();
+    };
+
+    window.addEventListener('keydown', handleShortcut);
+    return () => window.removeEventListener('keydown', handleShortcut);
+  }, []);
 
   const matchingEntries = entries.filter((entry) => {
     const isVisibleByStatus = entry.type !== 'Pendiente' || activeType === 'Pendiente';
@@ -53,12 +70,13 @@ export default function SearchExplorer({ entries }: Props) {
           <label className="sr-only" htmlFor="dictionary-search">
             Buscar en el diccionario
           </label>
-          <span className="search-mark" aria-hidden="true">⌕</span>
+          <span className="search-mark"><Icon name="search" size={22} /></span>
           <input
             id="dictionary-search"
             className="search-field"
             type="search"
             placeholder="Busca en español, inglés o por alias..."
+            ref={searchInputRef}
             value={query}
             onChange={(event) => setQuery(event.target.value)}
           />
@@ -98,19 +116,19 @@ export default function SearchExplorer({ entries }: Props) {
                   <strong>{entry.nameEs}</strong>
                   {entry.nameEn && <span className="result-english">{entry.nameEn}</span>}
                 </span>
-                <span className="result-summary">{entry.summary}</span>
+                <span className="result-summary">{getEntrySummary(entry)}</span>
                 <span className="result-meta">
                   <span>{entry.type}</span>
-                  <span>{entry.continuity}</span>
-                  <span>{entry.region}</span>
+                  <span>{getContinuityLabel(entry.continuity)}</span>
+                  <span>{getRegionLabel(entry.region)}</span>
                 </span>
               </span>
-              <span className="result-arrow" aria-hidden="true">↗</span>
+            <span className="result-arrow"><Icon name="arrow-up-right" size={18} /></span>
             </a>
           ))
         ) : (
           <div className="empty-results">
-            <span className="empty-symbol" aria-hidden="true">∅</span>
+            <span className="empty-symbol"><Icon name="empty" size={28} /></span>
             <div>
               <strong>No encontramos esa entrada todavía.</strong>
               <p>Prueba con otro nombre, una traducción inglesa o un alias.</p>

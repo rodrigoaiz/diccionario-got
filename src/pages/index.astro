@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import SiteHeader from '../components/layout/SiteHeader.astro';
-import FactionPicker from '../components/layout/FactionPicker.astro';
 import Icon from '../components/ui/Icon.astro';
 import SearchExplorer from '../components/islands/SearchExplorer';
 import MapPreview from '../components/atlas/MapPreview.astro';
@@ -36,7 +35,6 @@ const featuredEntries = preparedEntries.slice(0, 4);
           <strong>Encuentra tu término</strong>
           <small>Buscar en español o inglés</small>
         </span>
-        <span class="hero-cta-arrow"><Icon name="arrow-up-right" size={18} /></span>
       </a>
       <span class="search-bridge-label">Consulta rápida <i>·</i> {preparedEntries.length} términos indexados</span>
     </section>
@@ -54,8 +52,7 @@ const featuredEntries = preparedEntries.slice(0, 4);
         </div>
       </div>
 
-      <aside class="hero-aside" aria-label="Tu bando y estado del diccionario">
-        <FactionPicker />
+      <aside class="hero-aside" aria-label="Estado del diccionario">
         <div class="hero-index">
           <p class="index-kicker">El diccionario, ahora</p>
           <div class="index-line"><span>Términos indexados</span><strong>{String(preparedEntries.length).padStart(2, '0')}</strong></div>

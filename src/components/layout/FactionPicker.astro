@@ -1,24 +1,39 @@
-<div class="faction-picker" data-faction-picker>
-  <div class="faction-picker-copy">
-    <span class="eyebrow">La danza de los dragones</span>
-    <p>Elige tu bando. El acento cambia en todo el diccionario.</p>
-  </div>
+---
+import Icon from '../ui/Icon.astro';
+---
 
-  <div class="faction-options" role="group" aria-label="Elegir bando">
-    <button class="faction-option faction-green" type="button" data-faction-option="green" aria-pressed="false">
-      <span class="faction-sigil" aria-hidden="true">G</span>
-      <span>
-        <strong>Team Green</strong>
-        <small>La legitimidad</small>
-      </span>
-    </button>
-    <button class="faction-option faction-black" type="button" data-faction-option="black" aria-pressed="false">
-      <span class="faction-sigil" aria-hidden="true">B</span>
-      <span>
-        <strong>Team Black</strong>
-        <small>La sangre del dragón</small>
-      </span>
-    </button>
+<div class="faction-picker" data-faction-picker>
+  <button class="faction-trigger" type="button" data-faction-trigger aria-expanded="false" aria-controls="faction-menu">
+    <span class="faction-trigger-sigil" data-faction-current-sigil aria-hidden="true">G</span>
+    <span class="faction-trigger-copy">
+      <small>Tu bando</small>
+      <strong data-faction-current-label>Team Green</strong>
+    </span>
+    <span class="faction-trigger-chevron"><Icon name="chevron-down" size={15} /></span>
+  </button>
+
+  <div class="faction-menu" id="faction-menu" data-faction-menu hidden>
+    <div class="faction-menu-copy">
+      <span class="eyebrow">La danza de los dragones</span>
+      <p>Elige tu bando. El acento cambia en todo el diccionario.</p>
+    </div>
+
+    <div class="faction-options" role="group" aria-label="Elegir bando">
+      <button class="faction-option faction-green" type="button" data-faction-option="green" aria-pressed="false">
+        <span class="faction-sigil" aria-hidden="true">G</span>
+        <span>
+          <strong>Team Green</strong>
+          <small>La legitimidad</small>
+        </span>
+      </button>
+      <button class="faction-option faction-black" type="button" data-faction-option="black" aria-pressed="false">
+        <span class="faction-sigil" aria-hidden="true">B</span>
+        <span>
+          <strong>Team Black</strong>
+          <small>La sangre del dragón</small>
+        </span>
+      </button>
+    </div>
   </div>
 </div>
 
@@ -27,10 +42,21 @@
     const factionRoot = document.documentElement;
     const factionPicker = document.querySelector('[data-faction-picker]');
     const factionOptions = factionPicker?.querySelectorAll('[data-faction-option]');
+    const factionTrigger = factionPicker?.querySelector('[data-faction-trigger]');
+    const factionMenu = factionPicker?.querySelector('[data-faction-menu]');
+    const currentSigil = factionPicker?.querySelector('[data-faction-current-sigil]');
+    const currentLabel = factionPicker?.querySelector('[data-faction-current-label]');
     const savedFaction = window.localStorage.getItem('got-faction');
+
+    const setMenuOpen = (isOpen) => {
+      factionTrigger?.setAttribute('aria-expanded', String(isOpen));
+      if (factionMenu) factionMenu.hidden = !isOpen;
+    };
 
     const updateFaction = (faction) => {
       factionRoot.dataset.faction = faction;
+      if (currentSigil) currentSigil.textContent = faction === 'black' ? 'B' : 'G';
+      if (currentLabel) currentLabel.textContent = faction === 'black' ? 'Team Black' : 'Team Green';
       factionOptions?.forEach((option) => {
         option.setAttribute('aria-pressed', String(option.dataset.factionOption === faction));
       });
@@ -38,13 +64,29 @@
 
     updateFaction(savedFaction === 'black' ? 'black' : 'green');
 
+    factionTrigger?.addEventListener('click', () => {
+      const isOpen = factionTrigger.getAttribute('aria-expanded') === 'true';
+      setMenuOpen(!isOpen);
+    });
+
     factionOptions?.forEach((option) => {
       option.addEventListener('click', () => {
         const faction = option.dataset.factionOption;
         if (!faction) return;
         updateFaction(faction);
         window.localStorage.setItem('got-faction', faction);
+        setMenuOpen(false);
       });
+    });
+
+    document.addEventListener('pointerdown', (event) => {
+      if (factionPicker && !factionPicker.contains(event.target)) setMenuOpen(false);
+    });
+
+    document.addEventListener('keydown', (event) => {
+      if (event.key !== 'Escape') return;
+      setMenuOpen(false);
+      factionTrigger?.focus();
     });
   })();
 </script>

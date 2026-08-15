@@ -1,6 +1,6 @@
 import type { SVGProps } from 'react';
 
-export type IconName = 'arrow-up-right' | 'arrow-down' | 'arrow-left' | 'arrow-left-right' | 'search' | 'empty' | 'theme';
+export type IconName = 'arrow-up-right' | 'arrow-down' | 'arrow-left' | 'arrow-left-right' | 'chevron-down' | 'search' | 'empty' | 'theme' | 'close';
 
 type Props = Omit<SVGProps<SVGSVGElement>, 'name'> & {
   name: IconName;
@@ -49,6 +49,7 @@ export default function Icon({ name, size = 18, strokeWidth = 1.5, ...props }: P
           <path d="m17 12 4 4-4 4" />
         </>
       )}
+      {name === 'chevron-down' && <path d="m6 9 6 6 6-6" />}
       {name === 'search' && (
         <>
           <circle cx="10.8" cy="10.8" r="6.3" />
@@ -62,6 +63,12 @@ export default function Icon({ name, size = 18, strokeWidth = 1.5, ...props }: P
         </>
       )}
       {name === 'theme' && <path d="M20 15.2A8 8 0 1 1 8.8 4 6.2 6.2 0 0 0 20 15.2Z" />}
+      {name === 'close' && (
+        <>
+          <path d="m6 6 12 12" />
+          <path d="m18 6-12 12" />
+        </>
+      )}
     </svg>
   );
 }

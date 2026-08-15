@@ -13,6 +13,8 @@
   --line: oklch(100% 0 0 / 0.18);
   --line-strong: oklch(100% 0 0 / 0.35);
   --rust: oklch(63% 0.13 43);
+  --green-faction: oklch(70% 0.13 135);
+  --black-faction: oklch(66% 0.16 28);
   --team-accent: oklch(77% 0.12 81);
   --ochre: var(--team-accent);
   --faction-gradient:
@@ -44,6 +46,8 @@
   --line: oklch(20% 0.025 148 / 0.16);
   --line-strong: oklch(20% 0.025 148 / 0.32);
   --rust: oklch(52% 0.14 43);
+  --green-faction: oklch(49% 0.11 135);
+  --black-faction: oklch(50% 0.15 28);
   --team-accent: oklch(55% 0.13 76);
   --ochre: var(--team-accent);
   --faction-gradient:
@@ -55,19 +59,11 @@
 }
 
 :root[data-faction='green'] {
-  --team-accent: oklch(70% 0.13 135);
+  --team-accent: var(--green-faction);
 }
 
 :root[data-faction='black'] {
-  --team-accent: oklch(66% 0.16 28);
-}
-
-:root[data-theme='light'][data-faction='green'] {
-  --team-accent: oklch(49% 0.11 135);
-}
-
-:root[data-theme='light'][data-faction='black'] {
-  --team-accent: oklch(50% 0.15 28);
+  --team-accent: var(--black-faction);
 }
 
 * {
@@ -273,7 +269,7 @@ input:focus-visible {
   display: grid;
   grid-template-columns: minmax(0, 1.35fr) minmax(250px, 0.65fr);
   gap: clamp(42px, 7vw, 100px) 72px;
-  align-items: start;
+  align-items: center;
   padding-top: clamp(68px, 9vw, 112px);
   padding-bottom: clamp(72px, 9vw, 120px);
 }
@@ -339,16 +335,14 @@ h1 em {
 
 .hero-aside {
   display: grid;
-  align-self: end;
+  align-self: center;
   gap: 42px;
-  padding-top: 14px;
 }
 
 .faction-picker {
-  padding: 20px 0 22px;
-  border-top: 1px solid var(--line-strong);
-  border-bottom: 1px solid var(--line-strong);
-  background: color-mix(in oklch, var(--team-accent) 7%, transparent);
+  padding: 24px 22px 22px;
+  border: 1px solid color-mix(in oklch, var(--team-accent) 42%, var(--line-strong));
+  background: color-mix(in oklch, var(--team-accent) 10%, transparent);
   transition: background-color 300ms ease, border-color 300ms ease;
 }
 
@@ -358,7 +352,7 @@ h1 em {
 
 .faction-picker-copy p {
   max-width: 290px;
-  margin: 0 0 18px;
+  margin: 0 0 22px;
   color: var(--muted);
   font-size: 14px;
 }
@@ -366,11 +360,11 @@ h1 em {
 .faction-options {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 8px;
+  gap: 10px;
 }
 
 .faction-option {
-  --faction-option-color: var(--moss);
+  --faction-option-color: var(--green-faction);
   display: flex;
   align-items: center;
   gap: 9px;
@@ -385,14 +379,20 @@ h1 em {
 }
 
 .faction-option.faction-black {
-  --faction-option-color: var(--rust);
+  --faction-option-color: var(--black-faction);
 }
 
-.faction-option:hover,
-.faction-option[aria-pressed='true'] {
+.faction-option:hover {
   border-color: var(--faction-option-color);
   color: var(--text);
   background: color-mix(in oklch, var(--faction-option-color) 12%, transparent);
+}
+
+.faction-option[aria-pressed='true'] {
+  border-color: var(--faction-option-color);
+  color: var(--text);
+  background: color-mix(in oklch, var(--faction-option-color) 20%, transparent);
+  box-shadow: inset 0 -3px 0 var(--faction-option-color);
 }
 
 .faction-sigil {
@@ -417,6 +417,11 @@ h1 em {
   white-space: nowrap;
 }
 
+.faction-option[aria-pressed='true'] .faction-sigil {
+  color: var(--ink);
+  background: var(--faction-option-color);
+}
+
 .faction-option strong {
   font-size: 12px;
   font-weight: 600;
@@ -436,7 +441,7 @@ h1 em {
   display: inline-flex;
   align-items: center;
   gap: 12px;
-  margin-top: 22px;
+  margin: 26px 0 24px;
   padding: 11px 13px 11px 11px;
   border: 1px solid color-mix(in oklch, var(--team-accent) 65%, var(--line-strong));
   color: var(--text);
@@ -1763,12 +1768,17 @@ h1 em {
   .hero {
     grid-template-columns: 1fr;
     gap: 55px;
+    align-items: stretch;
     padding-top: 74px;
   }
 
   .hero-index {
     max-width: 460px;
     width: 100%;
+  }
+
+  .hero-aside {
+    align-self: start;
   }
 
   .hero-search-heading {

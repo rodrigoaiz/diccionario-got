@@ -23,26 +23,28 @@
 </div>
 
 <script is:inline>
-  const root = document.documentElement;
-  const picker = document.querySelector('[data-faction-picker]');
-  const options = picker?.querySelectorAll('[data-faction-option]');
-  const savedFaction = window.localStorage.getItem('got-faction');
+  (() => {
+    const factionRoot = document.documentElement;
+    const factionPicker = document.querySelector('[data-faction-picker]');
+    const factionOptions = factionPicker?.querySelectorAll('[data-faction-option]');
+    const savedFaction = window.localStorage.getItem('got-faction');
 
-  const updateFaction = (faction) => {
-    root.dataset.faction = faction;
-    options?.forEach((option) => {
-      option.setAttribute('aria-pressed', String(option.dataset.factionOption === faction));
+    const updateFaction = (faction) => {
+      factionRoot.dataset.faction = faction;
+      factionOptions?.forEach((option) => {
+        option.setAttribute('aria-pressed', String(option.dataset.factionOption === faction));
+      });
+    };
+
+    updateFaction(savedFaction === 'black' ? 'black' : 'green');
+
+    factionOptions?.forEach((option) => {
+      option.addEventListener('click', () => {
+        const faction = option.dataset.factionOption;
+        if (!faction) return;
+        updateFaction(faction);
+        window.localStorage.setItem('got-faction', faction);
+      });
     });
-  };
-
-  updateFaction(savedFaction === 'black' ? 'black' : 'green');
-
-  options?.forEach((option) => {
-    option.addEventListener('click', () => {
-      const faction = option.dataset.factionOption;
-      if (!faction) return;
-      updateFaction(faction);
-      window.localStorage.setItem('got-faction', faction);
-    });
-  });
+  })();
 </script>

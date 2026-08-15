@@ -780,7 +780,7 @@ h1 em {
 }
 
 .dictionary-page {
-  padding-top: clamp(70px, 10vw, 125px);
+  padding-top: clamp(32px, 4vw, 64px);
   padding-bottom: 120px;
 }
 
@@ -815,7 +815,7 @@ h1 em {
 }
 
 .entry-page {
-  padding-top: clamp(52px, 8vw, 94px);
+  padding-top: clamp(32px, 4vw, 64px);
   padding-bottom: 120px;
 }
 
@@ -1725,7 +1725,7 @@ body.search-command-open {
 
 .map-page,
 .sources-page {
-  padding-top: clamp(70px, 10vw, 125px);
+  padding-top: clamp(32px, 4vw, 64px);
   padding-bottom: 120px;
 }
 

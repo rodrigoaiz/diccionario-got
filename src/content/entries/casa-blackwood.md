@@ -4,11 +4,15 @@ slug: "casa-blackwood"
 nameEs: "Casa Blackwood"
 nameEn: ""
 type: "Casa"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+continuity: "Libros · Fuego y sangre · GOT"
+region: "Tierras de los Ríos"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este casa."
+summary: "Casa de Árbol de Cuervos, enfrentada históricamente a la Casa Bracken."
 accent: "ochre"
+references: []
+spoilerLevel: "spoiler-total"
+mapStatus: "pendiente"
+editorialStatus: "revisada"
 wikidataId: ""
 sourceCategories: []
 sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Blackwood","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
@@ -16,4 +20,4 @@ sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/C
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este casa.
+La Casa Blackwood es una casa de las Tierras de los Ríos cuya rivalidad con los Bracken atraviesa generaciones.

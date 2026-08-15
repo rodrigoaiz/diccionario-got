@@ -1,0 +1,172 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "titles": [
+    "Drogon",
+    "Rhaegal",
+    "Viserion",
+    "Balerion",
+    "Vhagar",
+    "Meraxes",
+    "Caraxes",
+    "Syrax",
+    "Vermithor",
+    "Seasmoke",
+    "Sunfyre",
+    "Meleys"
+  ],
+  "type": "Dragon",
+  "fetchedAt": "2026-08-15",
+  "pages": [
+    {
+      "pageid": 8011249,
+      "ns": 0,
+      "title": "Drogon",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2023-12-17T10:38:54Z",
+      "lastrevid": 116114021,
+      "length": 34,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Drogon",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Drogon&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Drogon",
+      "wikidataId": "Q26868871",
+      "wikidataLabelEn": "Drogon",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10941498,
+      "ns": 0,
+      "title": "Vhagar",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-12T20:06:16Z",
+      "lastrevid": 161217238,
+      "length": 98,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Vhagar",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Vhagar&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Vhagar",
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de La casa del dragón"
+        }
+      ],
+      "wikidataId": "Q37944992",
+      "wikidataLabelEn": "Vhagar",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10941755,
+      "ns": 0,
+      "title": "Seasmoke",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-12T20:06:16Z",
+      "lastrevid": 161220676,
+      "length": 91,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Seasmoke",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Seasmoke&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Seasmoke",
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de La casa del dragón"
+        }
+      ],
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10950146,
+      "ns": 0,
+      "title": "Caraxes",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-12T20:06:16Z",
+      "lastrevid": 161388601,
+      "length": 99,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Caraxes",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Caraxes&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Caraxes",
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de La casa del dragón"
+        }
+      ],
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10962591,
+      "ns": 0,
+      "title": "Meleys",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-12T20:06:16Z",
+      "lastrevid": 161684041,
+      "length": 105,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Meleys",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Meleys&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Meleys",
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de La casa del dragón"
+        }
+      ],
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10962677,
+      "ns": 0,
+      "title": "Vermithor",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-12T20:06:16Z",
+      "lastrevid": 161685955,
+      "length": 111,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Vermithor",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Vermithor&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Vermithor",
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de La casa del dragón"
+        }
+      ],
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    }
+  ]
+}

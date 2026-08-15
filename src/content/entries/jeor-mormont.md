@@ -4,11 +4,15 @@ slug: "jeor-mormont"
 nameEs: "Jeor Mormont"
 nameEn: ""
 type: "Personaje"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+continuity: "Libros · GOT"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este personaje."
+summary: "Lord Comandante de la Guardia de la Noche y antiguo señor de la Isla del Oso."
 accent: "ochre"
+references: []
+spoilerLevel: "spoiler-total"
+mapStatus: "pendiente"
+editorialStatus: "revisada"
 wikidataId: "Q12900593"
 sourceCategories: ["Categoría:Personajes de Canción de hielo y fuego"]
 sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Jeor_Mormont","consulted":"2026-08-15","confidence":"pendiente-de-verificar"},{"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q12900593","consulted":"2026-08-15","confidence":"estructurado"}]
@@ -16,4 +20,4 @@ sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/J
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este personaje.
+Jeor Mormont dirige la Guardia de la Noche durante una etapa de creciente amenaza más allá del Muro.

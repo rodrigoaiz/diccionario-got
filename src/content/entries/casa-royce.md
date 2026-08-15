@@ -4,11 +4,15 @@ slug: "casa-royce"
 nameEs: "Casa Royce"
 nameEn: ""
 type: "Casa"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+continuity: "Libros · GOT"
+region: "El Valle"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este casa."
+summary: "Casa noble del Valle con dominios en Runestone y vínculos con la Casa Arryn."
 accent: "ochre"
+references: []
+spoilerLevel: "spoiler-total"
+mapStatus: "pendiente"
+editorialStatus: "revisada"
 wikidataId: ""
 sourceCategories: []
 sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Royce","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
@@ -16,4 +20,4 @@ sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/C
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este casa.
+La Casa Royce es una de las principales casas del Valle y mantiene una presencia histórica junto a la Casa Arryn.

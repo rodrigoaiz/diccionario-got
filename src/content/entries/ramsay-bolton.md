@@ -4,11 +4,15 @@ slug: "ramsay-bolton"
 nameEs: "Ramsay Bolton"
 nameEn: ""
 type: "Personaje"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+continuity: "Libros · GOT"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este personaje."
+summary: "Heredero de la Casa Bolton, conocido por su crueldad y sus métodos de terror."
 accent: "ochre"
+references: []
+spoilerLevel: "spoiler-total"
+mapStatus: "pendiente"
+editorialStatus: "revisada"
 wikidataId: "Q19796006"
 sourceCategories: []
 sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Ramsay_Bolton","consulted":"2026-08-15","confidence":"pendiente-de-verificar"},{"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q19796006","consulted":"2026-08-15","confidence":"estructurado"}]
@@ -16,4 +20,4 @@ sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/R
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este personaje.
+Ramsay Bolton convierte la violencia y la intimidación en herramientas de poder durante la lucha por el control del Norte.

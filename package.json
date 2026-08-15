@@ -10,6 +10,7 @@
     "check": "astro check",
     "import:test": "node scripts/import/test-import.mjs",
     "review:characters": "node scripts/import/review-characters.mjs",
+    "review:secondary": "node scripts/import/review-secondary.mjs",
     "import:mediawiki": "node scripts/import/mediawiki-import.mjs"
   },
   "dependencies": {

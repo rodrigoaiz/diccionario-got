@@ -1,0 +1,95 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "titles": [
+    "Rebelión de Robert",
+    "Rebelión Fuegoscuro",
+    "Guerra de los Cinco Reyes",
+    "La Danza de los Dragones"
+  ],
+  "type": "Evento",
+  "fetchedAt": "2026-08-15",
+  "pages": [
+    {
+      "pageid": 6445423,
+      "ns": 0,
+      "title": "Rebelión de Robert",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-05-17T19:29:43Z",
+      "lastrevid": 173505159,
+      "length": 13611,
+      "fullurl": "https://es.wikipedia.org/wiki/Rebeli%C3%B3n_de_Robert",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Rebeli%C3%B3n_de_Robert&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Rebeli%C3%B3n_de_Robert",
+      "pageprops": {
+        "wikibase_item": "Q3778658"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "War of the Usurper"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Guerras en Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Artículos sin coordenadas"
+        }
+      ],
+      "wikidataId": "Q3778658",
+      "wikidataLabelEn": "War of the Usurper",
+      "wikidataAliases": [
+        "Guerra del Usurpador",
+        "Rebelion de Robert",
+        "Robert's Rebellion"
+      ]
+    },
+    {
+      "pageid": 6446159,
+      "ns": 0,
+      "title": "Rebelión Fuegoscuro",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-31T03:53:33Z",
+      "lastrevid": 83563106,
+      "length": 81,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Rebeli%C3%B3n_Fuegoscuro",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Rebeli%C3%B3n_Fuegoscuro&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Rebeli%C3%B3n_Fuegoscuro",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 7998360,
+      "ns": 0,
+      "title": "Guerra de los Cinco Reyes",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-31T03:53:33Z",
+      "lastrevid": 100432621,
+      "length": 86,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Guerra_de_los_Cinco_Reyes",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Guerra_de_los_Cinco_Reyes&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Guerra_de_los_Cinco_Reyes",
+      "wikidataId": "Q8141451",
+      "wikidataLabelEn": "War of the Five Kings",
+      "wikidataAliases": []
+    }
+  ]
+}

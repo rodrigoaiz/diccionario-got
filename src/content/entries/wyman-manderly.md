@@ -4,11 +4,15 @@ slug: "wyman-manderly"
 nameEs: "Wyman Manderly"
 nameEn: ""
 type: "Personaje"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+continuity: "Libros · GOT"
+region: "Norte"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este personaje."
+summary: "Señor de Puerto Blanco y cabeza de la Casa Manderly."
 accent: "ochre"
+references: []
+spoilerLevel: "spoiler-total"
+mapStatus: "pendiente"
+editorialStatus: "revisada"
 wikidataId: ""
 sourceCategories: []
 sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Wyman_Manderly","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
@@ -16,4 +20,4 @@ sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/W
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este personaje.
+Wyman Manderly gobierna Puerto Blanco y utiliza su posición, su riqueza y su memoria política para proteger los intereses del Norte.

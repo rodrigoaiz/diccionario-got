@@ -4,11 +4,15 @@ slug: "casa-redwyne"
 nameEs: "Casa Redwyne"
 nameEn: ""
 type: "Casa"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
+continuity: "Libros · GOT"
+region: "El Dominio"
 aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este casa."
+summary: "Casa del Dominio vinculada a Arbor y a una de las mayores flotas de Poniente."
 accent: "ochre"
+references: []
+spoilerLevel: "spoiler-total"
+mapStatus: "pendiente"
+editorialStatus: "revisada"
 wikidataId: ""
 sourceCategories: []
 sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Casa_Redwyne","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
@@ -16,4 +20,4 @@ sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/C
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este casa.
+La Casa Redwyne controla Arbor y sus viñedos, y su poder naval la convierte en una aliada relevante del Dominio.

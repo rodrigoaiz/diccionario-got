@@ -4,6 +4,7 @@ import SiteHeader from '../../components/layout/SiteHeader.astro';
 import { getCollection } from 'astro:content';
 import type { DictionaryEntry } from '../../data/entries';
 import { relationships } from '../../data/relationships';
+import { SITE_URL } from '../../config/site';
 
 export async function getStaticPaths() {
   const contentEntries = await getCollection('entries');
@@ -27,11 +28,52 @@ const spoilerLabel = {
 const entryRelationships = relationships.filter(
   (relationship) => relationship.source === entry.slug || relationship.target === entry.slug,
 );
+const siteUrl = SITE_URL;
+const entryUrl = new URL(`/diccionario/${entry.slug}/`, `${siteUrl}/`).href;
+const alternateNames = [...new Set([entry.nameEn, ...entry.aliases].filter(Boolean))];
+const entryIsIndexable = entry.type !== 'Pendiente' && entry.editorialStatus === 'revisada';
 ---
 
 <BaseLayout
   title={`${entry.nameEs} | Diccionario de Poniente`}
   description={entry.summary}
+  noindex={!entryIsIndexable}
+  ogType="article"
+  jsonLd={[
+    {
+      '@type': 'DefinedTerm',
+      '@id': entryUrl ? `${entryUrl}#term` : undefined,
+      name: entry.nameEs,
+      alternateName: alternateNames,
+      description: entry.summary,
+      termCode: entry.id,
+      inLanguage: 'es',
+      url: entryUrl,
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: 'Inicio',
+          item: siteUrl ? `${siteUrl}/` : undefined,
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: 'Diccionario',
+          item: siteUrl ? `${siteUrl}/diccionario/` : undefined,
+        },
+        {
+          '@type': 'ListItem',
+          position: 3,
+          name: entry.nameEs,
+          item: entryUrl,
+        },
+      ],
+    },
+  ]}
 >
   <SiteHeader />
   <main class="entry-page shell">

@@ -56,6 +56,16 @@ npm run dev
 `npm run import:test` regenera las fichas de prueba en `src/content/entries/` a partir de `scripts/import/fixtures/entries.sample.json`.
 `npm run import:mediawiki` consulta una categoria real, guarda la respuesta bruta y crea fichas minimas pendientes de revision.
 
+## SEO y despliegue
+
+El sitio genera metadatos canonical, Open Graph, Twitter Cards, JSON-LD, `robots.txt` y un sitemap con las fichas editoriales publicables. La URL pública está centralizada en [`src/config/site.ts`](src/config/site.ts), por lo que Vercel no necesita variables de entorno:
+
+```bash
+npm run build
+```
+
+`SITE_URL` se usa para canonical, JSON-LD, `robots.txt` y `sitemap.xml`. Las fichas con tipo `Pendiente` o estado editorial pendiente mantienen su ruta para revisión interna, pero se marcan como `noindex` y no aparecen en el sitemap.
+
 Para cargar candidatos desde los enlaces de una pagina sin clasificarlos automaticamente:
 
 ```bash

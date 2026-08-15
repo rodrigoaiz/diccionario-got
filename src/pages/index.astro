@@ -4,6 +4,7 @@ import SiteHeader from '../components/layout/SiteHeader.astro';
 import SearchExplorer from '../components/islands/SearchExplorer';
 import MapPreview from '../components/atlas/MapPreview.astro';
 import { getCollection } from 'astro:content';
+import { SITE_URL } from '../config/site';
 
 const contentEntries = await getCollection('entries');
 const dictionaryEntries = contentEntries.map(({ data }) => ({ ...data, slug: data.slug }));
@@ -11,7 +12,18 @@ const preparedEntries = dictionaryEntries.filter((entry) => entry.type !== 'Pend
 const featuredEntries = preparedEntries.slice(0, 4);
 ---
 
-<BaseLayout>
+<BaseLayout
+  title="Diccionario de Poniente | Nombres y equivalencias"
+  description="Diccionario bilingüe de Poniente: equivalencias de nombres, personajes, lugares y casas de Canción de hielo y fuego, Game of Thrones y House of the Dragon."
+  jsonLd={{
+    '@type': 'WebSite',
+    '@id': `${SITE_URL}/#website`,
+    url: SITE_URL,
+    name: 'Diccionario de referencia de Poniente',
+    description: 'Atlas bilingüe para consultar nombres, equivalencias y relaciones del universo de Poniente.',
+    inLanguage: 'es',
+  }}
+>
   <SiteHeader />
 
   <main>

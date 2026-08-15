@@ -1,0 +1,320 @@
+{
+  "source": "Wikipedia en español",
+  "api": "https://es.wikipedia.org/w/api.php",
+  "category": "Categoría:Personajes de Canción de hielo y fuego",
+  "titles": [
+    "Wyman Manderly",
+    "Walder Frey",
+    "Brynden Tully",
+    "Edmure Tully",
+    "Roose Bolton",
+    "Ramsay Bolton",
+    "Jeor Mormont",
+    "Lyanna Mormont",
+    "Brienne de Tarth",
+    "Alicent Hightower",
+    "Otto Hightower"
+  ],
+  "type": "Personaje",
+  "fetchedAt": "2026-08-15",
+  "pages": [
+    {
+      "pageid": 937072,
+      "ns": 0,
+      "title": "Walder Frey",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:28:34Z",
+      "lastrevid": 83767886,
+      "length": 39,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Walder_Frey",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Walder_Frey&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Walder_Frey",
+      "wikidataId": "Q23782368",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 937098,
+      "ns": 0,
+      "title": "Edmure Tully",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:21:20Z",
+      "lastrevid": 8756192,
+      "length": 36,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Edmure_Tully",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Edmure_Tully&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Edmure_Tully",
+      "wikidataId": "Q23749012",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 941470,
+      "ns": 0,
+      "title": "Roose Bolton",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:25Z",
+      "lastrevid": 171350653,
+      "length": 16114,
+      "fullurl": "https://es.wikipedia.org/wiki/Roose_Bolton",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Roose_Bolton&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Roose_Bolton",
+      "pageprops": {
+        "defaultsort": "Bolton, Roose",
+        "wikibase_item": "Q19799430"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Roose Bolton"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Asesinos en masa ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Psicópatas ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Torturadores ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Violadores ficticios"
+        }
+      ],
+      "wikidataId": "Q19799430",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 957699,
+      "ns": 0,
+      "title": "Ramsay Bolton",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-09-25T01:33:12Z",
+      "lastrevid": 83603676,
+      "length": 25,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Ramsay_Bolton",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Ramsay_Bolton&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Ramsay_Bolton",
+      "wikidataId": "Q19796006",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 967688,
+      "ns": 0,
+      "title": "Brienne de Tarth",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T02:34:26Z",
+      "lastrevid": 172817609,
+      "length": 15280,
+      "fullurl": "https://es.wikipedia.org/wiki/Brienne_de_Tarth",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Brienne_de_Tarth&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Brienne_de_Tarth",
+      "pageprops": {
+        "defaultsort": "Tarth, Brienne",
+        "page_image_free": "2015_C2E2_Cosplay_-_Brienne_of_Tarth_(16766397373)_(cropped).jpg",
+        "wikibase_item": "Q11680307"
+      },
+      "langlinks": [
+        {
+          "lang": "en",
+          "title": "Brienne of Tarth"
+        }
+      ],
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Espadachines ficticios"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Mujeres guerreras ficticias"
+        },
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q11680307",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5150587,
+      "ns": 0,
+      "title": "Jeor Mormont",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-08-14T15:33:08Z",
+      "lastrevid": 174846922,
+      "length": 14786,
+      "fullurl": "https://es.wikipedia.org/wiki/Jeor_Mormont",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Jeor_Mormont&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Jeor_Mormont",
+      "pageprops": {
+        "defaultsort": "Mormont, Jeor",
+        "wikibase_item": "Q12900593"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de Canción de hielo y fuego"
+        }
+      ],
+      "wikidataId": "Q12900593",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 5303426,
+      "ns": 0,
+      "title": "Brynden Tully",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2025-12-18T22:21:20Z",
+      "lastrevid": 102760813,
+      "length": 54,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Brynden_Tully",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Brynden_Tully&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Brynden_Tully",
+      "pageprops": {
+        "wikibase-badge-Q70893996": "",
+        "wikibase_item": "Q23782360"
+      },
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Wikipedia:Redirecciones asociadas con un elemento de Wikidata"
+        }
+      ],
+      "wikidataId": "Q23782360",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 6461725,
+      "ns": 0,
+      "title": "Wyman Manderly",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 77478391,
+      "length": 78,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Wyman_Manderly",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Wyman_Manderly&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Wyman_Manderly",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 8322605,
+      "ns": 0,
+      "title": "Lyanna Mormont",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-23T19:09:32Z",
+      "lastrevid": 105107656,
+      "length": 78,
+      "redirect": true,
+      "new": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Lyanna_Mormont",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Lyanna_Mormont&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Lyanna_Mormont",
+      "wikidataId": "",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10941500,
+      "ns": 0,
+      "title": "Alicent Hightower",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-12T20:06:16Z",
+      "lastrevid": 161389033,
+      "length": 128,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Alicent_Hightower",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Alicent_Hightower&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Alicent_Hightower",
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de La casa del dragón"
+        }
+      ],
+      "wikidataId": "Q111620823",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    },
+    {
+      "pageid": 10941504,
+      "ns": 0,
+      "title": "Otto Hightower",
+      "contentmodel": "wikitext",
+      "pagelanguage": "es",
+      "pagelanguagehtmlcode": "es",
+      "pagelanguagedir": "ltr",
+      "touched": "2026-01-12T20:06:16Z",
+      "lastrevid": 161388783,
+      "length": 122,
+      "redirect": true,
+      "fullurl": "https://es.wikipedia.org/wiki/Otto_Hightower",
+      "editurl": "https://es.wikipedia.org/w/index.php?title=Otto_Hightower&action=edit",
+      "canonicalurl": "https://es.wikipedia.org/wiki/Otto_Hightower",
+      "categories": [
+        {
+          "ns": 14,
+          "title": "Categoría:Personajes de La casa del dragón"
+        }
+      ],
+      "wikidataId": "Q111631910",
+      "wikidataLabelEn": "",
+      "wikidataAliases": []
+    }
+  ]
+}

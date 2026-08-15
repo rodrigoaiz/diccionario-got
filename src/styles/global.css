@@ -437,24 +437,52 @@ h1 em {
   align-items: center;
   gap: 12px;
   margin-top: 22px;
-  padding: 10px 0 8px;
-  border-bottom: 1px solid var(--ochre);
-  color: var(--ochre);
-  font-size: 14px;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  transition: color 180ms ease, border-color 180ms ease, transform 180ms ease;
+  padding: 11px 13px 11px 11px;
+  border: 1px solid color-mix(in oklch, var(--team-accent) 65%, var(--line-strong));
+  color: var(--text);
+  background: color-mix(in oklch, var(--team-accent) 9%, transparent);
+  transition: color 180ms ease, border-color 180ms ease, background-color 180ms ease, transform 180ms ease;
 }
 
-.hero-cta span:last-child {
+.hero-cta-mark {
+  display: grid;
+  flex: none;
+  place-items: center;
+  width: 27px;
+  height: 27px;
+  border: 1px solid var(--team-accent);
+  color: var(--team-accent);
   font-size: 18px;
   line-height: 1;
 }
 
+.hero-cta-copy {
+  display: grid;
+  gap: 1px;
+}
+
+.hero-cta-copy strong {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.hero-cta-copy small {
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.hero-cta-arrow {
+  font-size: 18px;
+  line-height: 1;
+  color: var(--team-accent);
+}
+
 .hero-cta:hover {
-  border-color: var(--text);
+  border-color: var(--team-accent);
   color: var(--text);
-  transform: translateX(3px);
+  background: color-mix(in oklch, var(--team-accent) 16%, transparent);
+  transform: translateY(-2px);
 }
 
 .hero-note strong {
@@ -530,13 +558,12 @@ h1 em {
   text-align: right;
 }
 
-.primary-search {
-  padding-top: clamp(44px, 6vw, 78px);
-  padding-bottom: clamp(52px, 8vw, 96px);
-  border-bottom: 1px solid var(--line-strong);
+.hero-search {
+  grid-column: 1 / -1;
+  padding-top: 2px;
 }
 
-.primary-search-heading {
+.hero-search-heading {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(240px, 320px);
   gap: 40px;
@@ -546,11 +573,11 @@ h1 em {
   border-bottom: 1px solid var(--line-strong);
 }
 
-.primary-search-heading .eyebrow {
+.hero-search-heading .eyebrow {
   margin-bottom: 12px;
 }
 
-.primary-search-heading h2 {
+.hero-search-heading h2 {
   margin: 0;
   color: var(--text);
   font-family: Bitter, serif;
@@ -560,23 +587,23 @@ h1 em {
   line-height: 0.98;
 }
 
-.primary-search-heading h2 em {
+.hero-search-heading h2 em {
   color: var(--ochre);
   font-style: normal;
 }
 
-.primary-search-heading > p {
+.hero-search-heading > p {
   max-width: 300px;
   margin: 0 0 3px;
   color: var(--muted);
   font-size: 15px;
 }
 
-.primary-search .dictionary-explorer {
+.hero-search .dictionary-explorer {
   border-top: 0;
 }
 
-.primary-search .explorer-toolbar {
+.hero-search .explorer-toolbar {
   padding-top: 0;
 }
 
@@ -1744,7 +1771,7 @@ h1 em {
     width: 100%;
   }
 
-  .primary-search-heading {
+  .hero-search-heading {
     grid-template-columns: 1fr;
     gap: 16px;
   }

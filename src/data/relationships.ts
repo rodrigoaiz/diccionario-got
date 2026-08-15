@@ -28,6 +28,10 @@ export const relationships: Relationship[] = [
   { source: 'casa-tyrell', sourceLabel: 'Casa Tyrell', type: 'sede_en', target: 'altojardin', targetLabel: 'Altojardín' },
   { source: 'casa-greyjoy', sourceLabel: 'Casa Greyjoy', type: 'domina', target: 'islas-del-hierro', targetLabel: 'Islas del Hierro' },
   { source: 'casa-martell', sourceLabel: 'Casa Martell', type: 'gobierna', target: 'dorne', targetLabel: 'Dorne' },
+  { source: 'casa-martell', sourceLabel: 'Casa Martell', type: 'sede_en', target: 'lanza-del-sol', targetLabel: 'Lanza del Sol' },
+  { source: 'casa-lannister', sourceLabel: 'Casa Lannister', type: 'sede_en', target: 'roca-casterly', targetLabel: 'Roca Casterly' },
+  { source: 'casa-greyjoy', sourceLabel: 'Casa Greyjoy', type: 'sede_en', target: 'pyke', targetLabel: 'Pyke' },
   { source: 'casa-targaryen', sourceLabel: 'Casa Targaryen', type: 'sede_historica_en', target: 'rocadragon', targetLabel: 'Rocadragón' },
+  { source: 'casa-velaryon', sourceLabel: 'Casa Velaryon', type: 'sede_en', target: 'marcaderiva', targetLabel: 'Marcaderiva' },
   { source: 'guardia-de-la-noche', sourceLabel: 'Guardia de la Noche', type: 'custodia', target: 'el-muro', targetLabel: 'El Muro' },
 ];

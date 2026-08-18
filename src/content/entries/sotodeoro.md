@@ -7,7 +7,7 @@ type: "Lugar"
 continuity: "Libros · GOT"
 region: "El Dominio"
 aliases: ["Goldengrove"]
-summary: "Sede de la Casa Rowan en El Dominio, una casa noble vasalla de los Tyrell. El nombre alude a la arboleda dorada que rodea el asentamiento."
+summary: "Sotodeoro, Goldengrove en inglés, es la sede de la Casa Rowan en El Dominio, una casa noble vasalla de los Tyrell."
 accent: "moss"
 editorialStatus: "revisada"
 mapStatus: "pendiente"
@@ -17,4 +17,4 @@ sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/C
 
 ## Resumen
 
-Sotodeoro es Goldengrove en inglés: la sede de la Casa Rowan, una casa noble del Dominio vinculada a los Tyrell. No es una región independiente, sino un asentamiento y señorío dentro del Dominio.
+Sotodeoro es Goldengrove en inglés: un asentamiento y señorío del Dominio, sede de la Casa Rowan y vinculado políticamente a los Tyrell. No es una región independiente ni otro nombre para Altojardín.

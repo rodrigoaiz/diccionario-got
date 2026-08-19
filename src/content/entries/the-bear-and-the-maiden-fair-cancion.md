@@ -1,19 +1,21 @@
 ---
-id: "mediawiki-es-10142567"
+id: "editorial-el-oso-y-la-doncella"
 slug: "the-bear-and-the-maiden-fair-cancion"
-nameEs: "The Bear and the Maiden Fair (canción)"
-nameEn: "The Bear and the Maiden Fair (song)"
-type: "Personaje"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
-aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este personaje."
+nameEs: "El oso y la doncella"
+nameEn: "The Bear and the Maiden Fair"
+type: "Concepto"
+continuity: "Libros · GOT"
+region: "Poniente"
+aliases: ["The Bear, the Bear, and the Maiden Fair","El oso, el oso y la doncella"]
+summary: "Canción popular y procaz de Poniente sobre un oso que baila con una doncella; nobles y pueblo llano la cantan en celebraciones, viajes y campamentos."
 accent: "ochre"
-wikidataId: "Q26869553"
-sourceCategories: ["Categoría:Canciones de 2013","Categoría:Canciones sobre animales","Categoría:Game of Thrones","Categoría:Osos en el arte","Categoría:Sencillos de 2013","Categoría:Wikipedia:Páginas con traducciones del inglés"]
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/The_Bear_and_the_Maiden_Fair_(canci%C3%B3n)","consulted":"2026-08-15","confidence":"pendiente-de-verificar"},{"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q26869553","consulted":"2026-08-15","confidence":"estructurado"}]
+editorialStatus: "revisada"
+mapStatus: "pendiente"
+spoilerLevel: "intermedio"
+references: [{"kind":"libro","work":"Canción de hielo y fuego","detail":"Canción interpretada en fiestas, viajes y escenas cortesanas de Choque de reyes y Tormenta de espadas.","spoilerLevel":"intermedio"},{"kind":"serie","work":"Game of Thrones","detail":"Temporada 3; los hombres de Locke cantan una versión y The Hold Steady interpreta los créditos.","spoilerLevel":"intermedio"}]
+sources: [{"name":"A Wiki of Ice and Fire","url":"https://awoiaf.westeros.org/index.php/The_Bear_and_the_Maiden_Fair","consulted":"2026-08-19","confidence":"wiki-comunitaria"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este personaje.
+Canción popular y procaz de Poniente sobre un oso que baila con una doncella; nobles y pueblo llano la cantan en celebraciones, viajes y campamentos.

@@ -1,25 +1,21 @@
 ---
-id: "mediawiki-es-1170818"
+id: "place-isla-del-oso"
 slug: "isla-del-oso"
 nameEs: "Isla del Oso"
 nameEn: "Bear Island"
 type: "Lugar"
 continuity: "Libros · GOT"
 region: "Norte"
-aliases: ["Bear Island", "Bjornoya"]
-summary: "Isla septentrional gobernada por la Casa Mormont y situada frente a las costas del Norte."
+aliases: ["Bear Island"]
+summary: "Isla de la Bahía de Hielo, en el Norte, gobernada por la Casa Mormont."
 accent: "moss"
-editorialStatus: "pendiente-de-verificar"
+editorialStatus: "revisada"
 mapStatus: "pendiente"
-wikidataId: ""
-sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Isla_del_Oso","consulted":"2026-08-14","confidence":"pendiente-de-verificar"}]
+spoilerLevel: "sin-spoiler"
+references: [{"kind":"libro","work":"The Lands of Ice and Fire","detail":"Mapa de Poniente; Isla del Oso en la Bahía de Hielo, dentro del Norte.","spoilerLevel":"sin-spoiler"},{"kind":"serie","work":"Game of Thrones","detail":"Temporada 6; visita de Jon y Sansa a Isla del Oso.","spoilerLevel":"sin-spoiler"}]
+sources: [{"name":"A Wiki of Ice and Fire","url":"https://awoiaf.westeros.org/index.php/Bear_Island","consulted":"2026-08-19","confidence":"secundario"},{"name":"Hielo y Fuego Wiki","url":"https://hieloyfuego.fandom.com/wiki/Isla_del_Oso","consulted":"2026-08-19","confidence":"terminologia-secundaria"}]
 ---
 
 ## Resumen
 
-La Isla del Oso es el hogar de la Casa Mormont y uno de los territorios insulares del Norte. Su entrada necesita una fuente específica del universo porque la página localizada puede confundirse con la isla real de Bjørnøya.
-
-## Estado editorial
-
-Nombre, región y continuidad propuestos. La fuente y la identidad cartográfica quedan pendientes de desambiguación.
+Isla de la Bahía de Hielo, en el Norte, gobernada por la Casa Mormont.

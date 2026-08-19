@@ -1,0 +1,34 @@
+{
+  "redirects": [
+    {
+      "source": "/diccionario/caminante-blanco/",
+      "destination": "/diccionario/caminantes-blancos/",
+      "permanent": true
+    },
+    {
+      "source": "/diccionario/catelyn-tully/",
+      "destination": "/diccionario/catelyn-stark/",
+      "permanent": true
+    },
+    {
+      "source": "/diccionario/jenny-of-oldstones/",
+      "destination": "/diccionario/cancion-de-jenny/",
+      "permanent": true
+    },
+    {
+      "source": "/diccionario/jon-nieve/",
+      "destination": "/diccionario/jon-snow/",
+      "permanent": true
+    },
+    {
+      "source": "/diccionario/ramsay-nieve/",
+      "destination": "/diccionario/ramsay-bolton/",
+      "permanent": true
+    },
+    {
+      "source": "/diccionario/rebelion-de-robert/",
+      "destination": "/diccionario/guerra-del-usurpador/",
+      "permanent": true
+    }
+  ]
+}

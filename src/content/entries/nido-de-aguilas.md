@@ -1,25 +1,21 @@
 ---
-id: "mediawiki-es-9553843"
+id: "place-nido-de-aguilas"
 slug: "nido-de-aguilas"
 nameEs: "Nido de Águilas"
 nameEn: "The Eyrie"
 type: "Lugar"
-continuity: "Libros · GOT"
+continuity: "Libros · Fuego y sangre · GOT"
 region: "El Valle"
-aliases: ["The Eyrie", "Nido de águilas"]
-summary: "Fortaleza de montaña de la Casa Arryn, construida sobre las cumbres de las Montañas de la Luna."
+aliases: ["The Eyrie","Eyrie"]
+summary: "Fortaleza ancestral de la Casa Arryn, situada en la Lanza del Gigante, en las Montañas de la Luna."
 accent: "moss"
-editorialStatus: "pendiente-de-verificar"
+editorialStatus: "revisada"
 mapStatus: "pendiente"
-wikidataId: ""
-sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Nido_de_%C3%81guilas","consulted":"2026-08-14","confidence":"pendiente-de-verificar"}]
+spoilerLevel: "sin-spoiler"
+references: [{"kind":"libro","work":"El mundo de hielo y fuego","detail":"El Valle: el Nido de Águilas; sede de la Casa Arryn y ubicación en la Lanza del Gigante.","spoilerLevel":"sin-spoiler"},{"kind":"serie","work":"Game of Thrones","detail":"Temporada 1; llegada de Tyrion, celdas del cielo y juicio por combate.","spoilerLevel":"sin-spoiler"}]
+sources: [{"name":"A Wiki of Ice and Fire","url":"https://awoiaf.westeros.org/index.php/Eyrie","consulted":"2026-08-19","confidence":"secundario"},{"name":"Hielo y Fuego Wiki","url":"https://hieloyfuego.fandom.com/wiki/Nido_de_%C3%81guilas","consulted":"2026-08-19","confidence":"terminologia-secundaria"}]
 ---
 
 ## Resumen
 
-El Nido de Águilas es la fortaleza de la Casa Arryn y uno de los lugares más inaccesibles de Poniente. Su posición en las Montañas de la Luna condiciona sus accesos y su valor defensivo.
-
-## Estado editorial
-
-Nombre, equivalencia, región y continuidad propuestos. El resultado automático de Wikidata se descartó porque correspondía a una entidad no relacionada con la fortaleza.
+Fortaleza ancestral de la Casa Arryn, situada en la Lanza del Gigante, en las Montañas de la Luna.

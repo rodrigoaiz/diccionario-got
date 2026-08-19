@@ -6,16 +6,16 @@ nameEn: "Oldtown"
 type: "Lugar"
 continuity: "Libros · Fuego y sangre · GOT"
 region: "El Dominio"
-aliases: ["Oldtown", "Ciudadela de Antigua"]
-summary: "Una de las ciudades más antiguas y grandes de Poniente, sede de la Ciudadela y de la Casa Hightower."
+aliases: ["Oldtown"]
+summary: "Ciudad portuaria del suroeste de El Dominio, sede de la Casa Hightower y hogar de la Ciudadela de los maestres."
 accent: "moss"
-editorialStatus: "pendiente-de-verificar"
+editorialStatus: "revisada"
 mapStatus: "pendiente"
 spoilerLevel: "sin-spoiler"
-references: []
-sources: [{"name":"A Wiki of Ice and Fire","url":"https://awoiaf.westeros.org/index.php/Oldtown","consulted":"2026-08-14","confidence":"secundario"}]
+references: [{"kind":"libro","work":"El mundo de hielo y fuego","detail":"El Dominio: Antigua; ubicación, antigüedad, Casa Hightower y Ciudadela.","spoilerLevel":"sin-spoiler"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 6-7; llegada de Samwell Tarly y escenas de la Ciudadela.","spoilerLevel":"sin-spoiler"}]
+sources: [{"name":"A Wiki of Ice and Fire","url":"https://awoiaf.westeros.org/index.php/Oldtown","consulted":"2026-08-19","confidence":"secundario"},{"name":"Hielo y Fuego Wiki","url":"https://hieloyfuego.fandom.com/wiki/Antigua","consulted":"2026-08-19","confidence":"terminologia-secundaria"}]
 ---
 
 ## Resumen
 
-Antigua es un gran puerto del suroeste de Poniente y alberga la Ciudadela, donde se forman los maestres. La página española localizada es ambigua, por lo que esta ficha conserva una marca de verificación pendiente.
+Ciudad portuaria del suroeste de El Dominio, sede de la Casa Hightower y hogar de la Ciudadela de los maestres.

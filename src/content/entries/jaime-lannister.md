@@ -9,11 +9,12 @@ region: "El Oeste"
 aliases: ["Matarreyes","Kingslayer"]
 summary: "Caballero de la Casa Lannister cuya reputación, lealtades y sentido del honor cambian a lo largo de la guerra."
 accent: "ochre"
-references: [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Clash of Kings en adelante; capítulos POV y conflicto Lannister.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-8; guerra, cautiverio y retorno.","spoilerLevel":"spoiler-total"}]
+editorialStatus: "revisada"
+references: [{"kind":"libro","work":"Canción de hielo y fuego","detail":"A Game of Thrones en adelante; personaje POV desde A Storm of Swords y conflicto Lannister.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"Game of Thrones","detail":"Temporadas 1-8; guerra, cautiverio y retorno.","spoilerLevel":"spoiler-total"}]
 spoilerLevel: "spoiler-total"
 wikidataId: "Q3806180"
 sourceCategories: ["Categoría:Caballeros ficticios","Categoría:Espadachines ficticios","Categoría:Gemelos ficticios","Categoría:Personajes de Canción de hielo y fuego"]
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Jaime_Lannister","consulted":"2026-08-14","confidence":"pendiente-de-verificar"},{"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q3806180","consulted":"2026-08-14","confidence":"estructurado"}]
+sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Jaime_Lannister","consulted":"2026-08-19","confidence":"revisada"},{"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q3806180","consulted":"2026-08-19","confidence":"estructurado"}]
 ---
 
 ## Resumen
@@ -22,5 +23,5 @@ Caballero de la Casa Lannister cuya reputación, lealtades y sentido del honor c
 
 ## Referencias iniciales
 
-- libro: Canción de hielo y fuego. A Clash of Kings en adelante; capítulos POV y conflicto Lannister.
+- libro: Canción de hielo y fuego. A Game of Thrones en adelante; personaje POV desde A Storm of Swords y conflicto Lannister.
 - serie: Game of Thrones. Temporadas 1-8; guerra, cautiverio y retorno.

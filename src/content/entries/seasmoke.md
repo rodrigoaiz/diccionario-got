@@ -1,19 +1,21 @@
 ---
-id: "mediawiki-es-10941755"
+id: "editorial-seasmoke"
 slug: "seasmoke"
-nameEs: "Seasmoke"
-nameEn: ""
+nameEs: "Bruma"
+nameEn: "Seasmoke"
 type: "Dragon"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
-aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este dragon."
+continuity: "Fuego y sangre · HOTD"
+region: "Tierras de la Corona"
+aliases: ["Seasmoke","Embrōrbar"]
+summary: "Dragón gris plateado ligado a la Casa Velaryon y a distintos jinetes durante la Danza de los Dragones."
 accent: "ochre"
-wikidataId: ""
-sourceCategories: ["Categoría:Personajes de La casa del dragón"]
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Seasmoke","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+editorialStatus: "revisada"
+mapStatus: "pendiente"
+spoilerLevel: "spoiler-total"
+references: [{"kind":"libro","work":"Fuego y sangre","detail":"Vínculo con Laenor Velaryon y participación en la Danza.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"La casa del dragón","detail":"Temporadas 1-2; vínculo con Laenor Velaryon y búsqueda de nuevos jinetes.","spoilerLevel":"spoiler-total"}]
+sources: [{"name":"A Wiki of Ice and Fire","url":"https://awoiaf.westeros.org/index.php/Seasmoke","consulted":"2026-08-19","confidence":"secundario"},{"name":"Hielo y Fuego Wiki","url":"https://hieloyfuego.fandom.com/wiki/Bruma","consulted":"2026-08-19","confidence":"terminologia-secundaria"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este dragon.
+Dragón gris plateado ligado a la Casa Velaryon y a distintos jinetes durante la Danza de los Dragones.

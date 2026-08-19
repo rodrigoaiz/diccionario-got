@@ -1,25 +1,21 @@
 ---
-id: "mediawiki-es-1534103"
+id: "region-tierras-de-la-corona"
 slug: "tierras-de-la-corona"
 nameEs: "Tierras de la Corona"
 nameEn: "The Crownlands"
 type: "Lugar"
-continuity: "Libros · Fuego y sangre · GOT · HOTD"
+continuity: "Universo"
 region: "Poniente"
-aliases: ["Crownlands", "Tierras de la Corona"]
-summary: "Región que rodea Desembarco del Rey y depende directamente del poder del Trono de Hierro."
+aliases: ["The Crownlands","Crownlands"]
+summary: "Región de Poniente organizada alrededor de la Bahía del Aguasnegras y jurada directamente al Trono de Hierro."
 accent: "moss"
-editorialStatus: "pendiente-de-verificar"
+editorialStatus: "revisada"
 mapStatus: "pendiente"
-wikidataId: ""
-sourceCategories: []
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Tierras_de_la_Corona","consulted":"2026-08-14","confidence":"pendiente-de-verificar"}]
+spoilerLevel: "sin-spoiler"
+references: [{"kind":"libro","work":"The Lands of Ice and Fire","detail":"Mapa de Poniente; extensión alrededor de la Bahía del Aguasnegras.","spoilerLevel":"sin-spoiler"},{"kind":"libro","work":"El mundo de hielo y fuego","detail":"Formación de la región y dependencia directa del Trono de Hierro.","spoilerLevel":"sin-spoiler"}]
+sources: [{"name":"A Wiki of Ice and Fire","url":"https://awoiaf.westeros.org/index.php/Crownlands","consulted":"2026-08-19","confidence":"secundario"},{"name":"Hielo y Fuego Wiki","url":"https://hieloyfuego.fandom.com/wiki/Tierras_de_la_Corona","consulted":"2026-08-19","confidence":"terminologia-secundaria"}]
 ---
 
 ## Resumen
 
-Las Tierras de la Corona forman el territorio que rodea Desembarco del Rey y las posesiones vinculadas directamente al Trono de Hierro. Incluyen la capital y varios puntos estratégicos de la bahía del Aguasnegras.
-
-## Estado editorial
-
-La entrada necesita desambiguación de la fuente localizada y una referencia específica del universo antes de marcarla como verificada.
+Región de Poniente organizada alrededor de la Bahía del Aguasnegras y jurada directamente al Trono de Hierro.

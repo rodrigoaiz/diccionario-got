@@ -1,19 +1,21 @@
 ---
-id: "mediawiki-es-10950146"
+id: "editorial-caraxes"
 slug: "caraxes"
 nameEs: "Caraxes"
-nameEn: ""
+nameEn: "Caraxes"
 type: "Dragon"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
-aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este dragon."
+continuity: "Fuego y sangre · HOTD"
+region: "Tierras de la Corona"
+aliases: ["El Anfíptero Sangriento","The Blood Wyrm"]
+summary: "Dragón rojo, veterano de combate y montura de Daemon Targaryen durante la Danza de los Dragones."
 accent: "ochre"
-wikidataId: ""
-sourceCategories: ["Categoría:Personajes de La casa del dragón"]
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Caraxes","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+editorialStatus: "revisada"
+mapStatus: "pendiente"
+spoilerLevel: "spoiler-total"
+references: [{"kind":"libro","work":"Fuego y sangre","detail":"Jinetes, campañas y participación en la Danza de los Dragones.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"La casa del dragón","detail":"Temporadas 1-2; dragón de Daemon Targaryen.","spoilerLevel":"spoiler-total"}]
+sources: [{"name":"A Wiki of Ice and Fire","url":"https://awoiaf.westeros.org/index.php/Caraxes","consulted":"2026-08-19","confidence":"secundario"},{"name":"Hielo y Fuego Wiki","url":"https://hieloyfuego.fandom.com/wiki/Caraxes","consulted":"2026-08-19","confidence":"terminologia-secundaria"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este dragon.
+Dragón rojo, veterano de combate y montura de Daemon Targaryen durante la Danza de los Dragones.

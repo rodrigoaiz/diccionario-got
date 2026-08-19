@@ -1,19 +1,21 @@
 ---
-id: "mediawiki-es-10962677"
+id: "editorial-vermithor"
 slug: "vermithor"
 nameEs: "Vermithor"
-nameEn: ""
+nameEn: "Vermithor"
 type: "Dragon"
-continuity: "Pendiente de asignar"
-region: "Pendiente de asignar"
-aliases: []
-summary: "Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este dragon."
+continuity: "Fuego y sangre · HOTD"
+region: "Tierras de la Corona"
+aliases: ["La Furia de Bronce","The Bronze Fury"]
+summary: "Enorme dragón de color bronce, antigua montura del rey Jaehaerys I y uno de los mayores de la Danza."
 accent: "ochre"
-wikidataId: ""
-sourceCategories: ["Categoría:Personajes de La casa del dragón"]
-sources: [{"name":"Wikipedia en español","url":"https://es.wikipedia.org/wiki/Vermithor","consulted":"2026-08-15","confidence":"pendiente-de-verificar"}]
+editorialStatus: "revisada"
+mapStatus: "pendiente"
+spoilerLevel: "spoiler-total"
+references: [{"kind":"libro","work":"Fuego y sangre","detail":"Vínculo con Jaehaerys I y papel posterior en la Danza.","spoilerLevel":"spoiler-total"},{"kind":"serie","work":"La casa del dragón","detail":"Temporadas 1-2; dragón sin jinete de Rocadragón y búsqueda de un nuevo vínculo.","spoilerLevel":"spoiler-total"}]
+sources: [{"name":"A Wiki of Ice and Fire","url":"https://awoiaf.westeros.org/index.php/Vermithor","consulted":"2026-08-19","confidence":"secundario"},{"name":"Hielo y Fuego Wiki","url":"https://hieloyfuego.fandom.com/wiki/Vermithor","consulted":"2026-08-19","confidence":"terminologia-secundaria"}]
 ---
 
 ## Resumen
 
-Entrada importada desde MediaWiki. Falta redactar el resumen y verificar la continuidad de este dragon.
+Enorme dragón de color bronce, antigua montura del rey Jaehaerys I y uno de los mayores de la Danza.
